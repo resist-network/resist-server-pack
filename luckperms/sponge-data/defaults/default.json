@@ -1,0 +1,83 @@
+{
+  "permissions": [
+    {
+      "context": {
+        "world": "eden",
+        "gp_claim_defaults": "basic"
+      },
+      "data": {
+        "griefprevention.flag.entity-chunk-spawn": false,
+        "griefprevention.flag.entity-damage": false,
+        "griefprevention.flag.entity-spawn": false
+      }
+    },
+    {
+      "context": {
+        "world": "eden",
+        "gp_claim_defaults": "admin"
+      },
+      "data": {
+        "griefprevention.flag.entity-damage": false,
+        "griefprevention.flag.entity-spawn": false
+      }
+    },
+    {
+      "context": {
+        "world": "earth",
+        "gp_claim_defaults": "admin"
+      },
+      "data": {
+        "griefprevention.flag.entity-chunk-spawn": false,
+        "griefprevention.flag.entity-damage": false,
+        "griefprevention.flag.entity-riding": false,
+        "griefprevention.flag.entity-spawn": false
+      }
+    },
+    {
+      "context": {
+        "gp_claim_defaults": "admin",
+        "world": "dim-1"
+      },
+      "data": {
+        "griefprevention.flag.entity-chunk-spawn": false,
+        "griefprevention.flag.entity-damage": false,
+        "griefprevention.flag.entity-spawn": false
+      }
+    },
+    {
+      "context": {
+        "gp_claim": "ff08836c-6a96-4d03-8035-94ba0bc13b9b"
+      },
+      "data": {
+        "griefprevention.flag.block-break": false,
+        "griefprevention.flag.entity-chunk-spawn.minecraft.armor_stand": true,
+        "griefprevention.flag.entity-spawn": false,
+        "griefprevention.flag.entity-spawn.minecraft.armor_stand": true
+      }
+    },
+    {
+      "context": {
+        "gp_claim": "49721a14-d211-49a8-9230-7e410a0858a9"
+      },
+      "data": {
+        "griefprevention.flag.block-break": false,
+        "griefprevention.flag.entity-chunk-spawn.minecraft.armor_stand": true,
+        "griefprevention.flag.entity-spawn": false,
+        "griefprevention.flag.entity-spawn.minecraft.armor_stand": true
+      }
+    },
+    {
+      "context": {
+        "gp_claim": "0aba5dff-1613-4697-a6fd-0246ae85e40d"
+      },
+      "data": {
+        "griefprevention.flag.block-break": false,
+        "griefprevention.flag.entity-chunk-spawn.minecraft.armor_stand": true,
+        "griefprevention.flag.entity-spawn": false,
+        "griefprevention.flag.entity-spawn.minecraft.armor_stand": true
+      }
+    }
+  ],
+  "options": [],
+  "parents": []
+}

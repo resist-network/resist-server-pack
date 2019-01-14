@@ -1,0 +1,97 @@
+core {
+    # This is the template for the /ru check command, accepted entries are: 
+    # {player}        - The Player's name (the one being checked)
+    # {rank-next}        - The Player's next rank
+    # {rank}          - The current rank of the player
+    # {prefix}        - The prefix of the player's current group
+    # {timing-time}   - How much time the player has been playing 
+    # {timing-next}   - How much time until the player joins the next group 
+    # {economy-bal}   - How much money the player has
+    # {economy-next}  - How much money the player needs to join the next group
+    # {purchase-left}  - How much money will be left after rank purchase
+    # {joindate}      - The date of when the player joined your server
+    # {lastjoin}      - When the player last joined the server
+    # {purchase-button}      - button used to purchase the next rank (needs purchase module)
+    # {track}         - The current track of the player.
+    check-message=[
+        "§6---[§2{player}§6]---",
+        "§fRank: {rank}",
+        "§fTrack: {track}",
+        "§fPlay time: {timing-time}",
+        "§fTime to next group: {timing-next}",
+        "§fJoin date: §a{joindate}",
+        "§fLast join: §9{lastjoin}",
+        "§6-----------"
+    ]
+    # setting for "days" output in time desc
+    daysDisplay="day(s)"
+    # If true a message will be output to console every time players are updated or checked.
+    debug-mode=false
+    # This is weird, but basically Luckperms is screwing with something, anyway, please put your BASE group here (luckperms default is "default"
+    defaultGroup=default
+    # List of disabled groups
+    disabled-groups=[
+        operator,
+        technician
+    ]
+    # The message to display for a player in chat when they login to the server for the first time
+    first-time-welcome-message=""
+    # setting for "hours" output in time desc
+    hoursDisplay="hour(s)"
+    # setting for "minutes" output in time desc
+    minutesDisplay="minute(s)"
+    # This is the prefix that will be put in place if a player has no prefix, leave "" to have no prefix fall-back
+    prefix-fallback=Default
+    # the command the plugin will execute via console to remove a rank from a player, valid entries: {player} and {group}
+    rankdown-command="luckperms user {player} promote default"
+    # The command the plugin will execute via console to add a rank to a player, valid entries: {player} and {group}
+    rankup-command="luckperms user {player} demote default"
+    # Whether to remove all other player groups from player after rankUp (Using "rankdown-command")
+    remove-previous-group=true
+    # This is where all track config names are defined, please be careful here.
+    track-configs=[
+        "groups.conf"
+	]
+    # The message to display for a player in chat when they login to the server
+    welcome-message="Welcome back {player}, your current rank is {prefix}!"
+}
+databases {
+    # You may choose between MySQL (Mariadb works too) or H2 (Hikari) databases for Player Stats storage!
+    database=MySQL
+    sqlAddress="MYSQL_HOST:3306"
+    sqlDatabase=MYSQL_DATABASE
+    sqlPassword=MYSQL_PASSWORD
+    sqlTablePrefix="rankup_"
+    sqlUsername=MYSQL_USER
+}
+magibridge {
+    # Message to discord when a player ranks up! 
+    # valid entries: {player}, {magibridge-next} and {magibridge-current}
+    rankup-Message="Player {player} has left the {magibridge-current} group and joined the {magibridge-next} group! :smile:"
+    # Set to true if you want the rankup message sent in the MC-Staff channel instead!
+    # (Only possible if Magibridge is set to use Nucleus)
+    send-in-staff=true
+}
+modules {
+    databases=ENABLED
+    economy=ENABLED
+    magibridge=ENABLED
+    purchase=DISABLED
+    timing=ENABLED
+}
+timing {
+    # Here you may set how you want to have the body of the top command display, accepted entries are same as check-message
+    top-message=[
+        "§6---[§2{player}§6]---",
+        "§fRank: {rank}",
+        "§f{timing-time}",
+        "§fJoin date: §a{joindate}",
+        "§6-----------"
+    ]
+    # This is where you may define how the bottom of the top message displays
+    top-message-footer="§f----------------------------"
+    # This is where you may define how the top of the top message displays
+    top-message-head="§f------{Top Play Times}------"
+    # The amount of minutes to pass between timing updates
+    update-interval=1
+}

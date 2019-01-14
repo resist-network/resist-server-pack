@@ -1,0 +1,38 @@
+currency {
+    dollar {
+        currency-plural=Credits
+        currency-singular=Credit
+        default=true
+        prefix-symbol=true
+        startbalance="100"
+        symbol="߷"
+        transferable=true
+    }
+}
+database {
+    enable=true
+    password="MYSQL_PASSWORD"
+    url="mysql://MYSQL_HOST:3306/MYSQL_DATABASE"
+    user="MYSQL_USER"
+}
+features {
+    jobs {
+        enable=false
+        notifications=false
+        salary=false
+    }
+    moneycap {
+        amount=10000000
+        enable=false
+    }
+    shops {
+        min-item-price=0
+        max-item-price=1000000000
+        chestshop {
+            enable=true
+            price=1000
+        }
+    }
+}
+language=en
+save-interval=30

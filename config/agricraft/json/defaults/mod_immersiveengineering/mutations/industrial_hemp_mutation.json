@@ -1,0 +1,8 @@
+{
+  "path": "mod_immersiveengineering/mutations/industrial_hemp_mutation.json",
+  "enabled": true,
+  "chance": 0.75,
+  "child": "industrial_hemp_plant",
+  "parent1": "wheat_plant",
+  "parent2": "sugarcane_plant"
+}

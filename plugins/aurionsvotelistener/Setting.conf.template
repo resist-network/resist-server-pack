@@ -1,0 +1,88 @@
+# AurionsVoteListener 
+# http://www.mineaurion.com 
+# settings section
+# onlineonly - Only delivers rewards when the player is online.  If they are offline it will wait and deliver when they next join the server"!" 
+# broadcastoffline - Show broadcast message for offline queued votes. 
+# votecommand - Enables the /vote command which will show the message contained in the votemessage section at the bottom of the config. 
+# joinmessage - Show the message contained in the joinmessage section at the bottom of this config when a player joins the server. 
+# votetopnumber - Number of players to display for the topvote 
+# AddExtraReward: true (give extra random reward) Depending on the chance
+# GiveChanceReward: Gives all rewards of lower numbers
+# dbMode - Use "MySQL" or "File" 
+# dbFile - name of the database file (don't forget the .db) 
+# setup MySQL 
+# dbHost - Database IP / Hostname for MySQL. 
+# dbPort - Database port for MySQL. 
+# dbUser - Database username for MySQL. 
+# dbPass - Database password for MySQL. 
+# dbName - Database name for MySQL. 
+# dbPrefix - Database table prefix. 
+# AnnouncementDelay - Delay in second to repeat the message 
+# Enables cumulative voting
+
+
+Version = 9
+settings {
+    onlineonly=true
+	broadcastoffline=false
+	votecommand=true
+	joinmessage=true
+	votetopnumber=10
+	AddExtraReward=false
+	GiveChanceReward=true
+	dbMode="MySQL"
+	dbFile="mainSite.db"
+	dbHost="MYSQL_HOST"
+	dbPort=3306
+	dbUser="MYSQL_USER"
+	dbPass="MYSQL_PASSWORD"
+	dbName="MYSQL_DATABASE"
+	dbPrefix="vote_"
+	dbTableTotal="ListenerTotal"
+	dbTableQueue="ListenerQueue"
+	AnnouncementDelay=300
+	cumulativevoting=false		
+}
+
+# Section for config message when the player has voted several times offline
+# <amt> = total offline vote
+# <service> is not usable
+Offline{
+	broadcast="<GREEN><player> voted <amt> times while they were offline and received rewards!"
+	playermessage="<GREEN>Thanks for voting !"
+}
+
+# Available formatting codes for messages: 
+# <service> = service name 
+# <username>= player username 
+# <votes> = current vote total 
+# & = Colour Symbol to enter manual colours / control codes 
+# <AQUA> <BLACK> <BLUE> <DARK_AQUA> <DARK_BLUE> 
+# <DARK_GRAY> <DARK_GREEN> <DARK_PURPLE> <DARK_RED> <GOLD> 
+# <GRAY> <GREEN> <LIGHT_PURPLE> <RED> <WHITE> <YELLOW> <BOLD> 
+# <ITALIC> <UNDERLINE> <STRIKETHROUGH> <STRIKE> 
+# <STRIKETHROUGH> <MAGIC> <RESET> 
+votemessage=[
+    "<DARK_GRAY><STRIKETHROUGH>================================================",
+    "&8[&4&lResist&8&l.&4&lNetwork&r&8]&r Use the following vote links:",
+    "&8[&4&lResist&8&l.&4&lNetwork&r&8]&r #1 https://blah.blah",	
+    "&8[&4&lResist&8&l.&4&lNetwork&r&8]&r #2 https://blah.blah",	
+    "&8[&4&lResist&8&l.&4&lNetwork&r&8]&r <AQUA>You currently have <GREEN><votes><AQUA> votes!",
+    "<DARK_GRAY><STRIKETHROUGH>================================================"
+    ]  
+joinmessage=[] 
+Announcement=[
+    "&8[&4&lResist&8&l.&4&lNetwork&r&8]&r &7Use <BOLD><YELLOW>/vote&r&7 to vote daily for rewards!"
+]
+
+
+
+# Additional formatting codes for below:  
+# <TOTAL> = vote total - used for /rewards 
+# <POSITION> = current rank - used for /votetop 
+# <username> = player name - used for /votetop 
+votetopformat="<POSITION>. <GREEN><username> - <WHITE><TOTAL>"
+votetopheader=[
+    "<DARK_GRAY><STRIKETHROUGH>==================== <WHITE>( <DARK_AQUA>Top Voters<WHITE> ) <DARK_GRAY><STRIKETHROUGH>===================="
+    ]
+
