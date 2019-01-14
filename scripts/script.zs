@@ -7,6 +7,7 @@ mods.jei.JEI.removeAndHide(<lootbags:itemlootbag:0>);
 mods.jei.JEI.removeAndHide(<lootbags:itemlootbag:11>);
 mods.jei.JEI.removeAndHide(<lootbags:itemlootbag:4>);
 mods.jei.JEI.removeAndHide(<lootbags:itemlootbag:3>);
+mods.jei.JEI.removeAndHide(<lootbags:itemlootbag:2>);
 mods.jei.JEI.removeAndHide(<lootbags:itemlootbag:1>);
 mods.jei.JEI.removeAndHide(<lootbags:loot_storage>);
 mods.jei.JEI.removeAndHide(<lootbags:loot_recycler>);
