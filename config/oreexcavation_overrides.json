@@ -8,6 +8,15 @@
       "exaustion": 0.1,
       "experience": 0,
       "gamestage": ""
+    },
+    {
+      "itemID": "techguns:powerhammer",
+      "speed": 3,
+      "limit": 16,
+      "range": 8,
+      "exaustion": 0.1,
+      "experience": 0,
+      "gamestage": ""
     }
   ]
 }
