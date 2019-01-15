@@ -30,7 +30,7 @@ settings {
 	votetopnumber=10
 	AddExtraReward=false
 	GiveChanceReward=true
-	dbMode="MySQL"
+	dbMode="File"
 	dbFile="mainSite.db"
 	dbHost="MYSQL_HOST"
 	dbPort=3306
