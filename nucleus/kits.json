@@ -20,6 +20,17 @@
         },
         {
           "ContentVersion": 2,
+          "ItemType": "techguns:scar",
+          "Count": 1,
+          "UnsafeDamage": 0,
+          "UnsafeData": {
+            "ammo": "15",
+            "ammovariant": "default",
+            "camo": "0"
+          }
+        },
+        {
+          "ContentVersion": 2,
           "ItemType": "techguns:powerhammer",
           "Count": 1,
           "UnsafeDamage": 0,
@@ -48,31 +59,31 @@
         {
           "ContentVersion": 2,
           "ItemType": "techguns:itemshared",
-          "Count": 1,
+          "Count": 2,
           "UnsafeDamage": 11
         },
         {
           "ContentVersion": 2,
           "ItemType": "galacticraftcore:food",
-          "Count": 3,
+          "Count": 1,
           "UnsafeDamage": 3
         },
         {
           "ContentVersion": 2,
           "ItemType": "galacticraftcore:food",
-          "Count": 3,
+          "Count": 1,
           "UnsafeDamage": 2
         },
         {
           "ContentVersion": 2,
           "ItemType": "galacticraftcore:food",
-          "Count": 3,
+          "Count": 1,
           "UnsafeDamage": 1
         },
         {
           "ContentVersion": 2,
           "ItemType": "galacticraftcore:food",
-          "Count": 3,
+          "Count": 1,
           "UnsafeDamage": 0
         },
         {
@@ -127,6 +138,18 @@
             "ammovariant": "default",
             "camo": "0"
           }
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:itemshared",
+          "Count": 2,
+          "UnsafeDamage": 13
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:scubatanks",
+          "Count": 1,
+          "UnsafeDamage": 0
         }
       ],
       "autoRedeem": false,
