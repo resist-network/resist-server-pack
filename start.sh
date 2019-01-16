@@ -9,6 +9,7 @@ MYSQL_USER=$(cat ~/.mysql_user)
 MYSQL_PASSWORD=$(cat ~/.mysql_password)
 MYSQL_HOST=$(cat ~/.mysql_host)
 IRC_PASSWORD=$(cat ~/.irc_password)
+MCR_PASS=$(cat ~/.mcr_pass)
 MONGO=$(cat ~/.mongo)
 #CURRENT_VERSION="$(curl -s 'https://raw.githubusercontent.com/worldautomation/WA-Launcher-Pack/master/app/assets/distribution.json' | awk '/version/{i++}i==2{print; exit}' | awk -F "\"*:\"*" '{print $2}' | cut -c 3- | cut -c -7)"
 if ! screen -list | grep -q "resist"; then
@@ -94,7 +95,8 @@ if ! screen -list | grep -q "resist"; then
 	sed -i "s/WP_USER/$WP_USER/g" /storage/resist-server-pack/plugins/resist/spongepress.conf;
 	sed -i "s/WP_PASS/$WP_PASS/g" /storage/resist-server-pack/plugins/resist/spongepress.conf;
 	
-	#sed s/WA_VERSION/$CURRENT_VERSION/g server.properties.template > server.properties
+	rm server.properties
+	sed s/MCR_PASS/$MCR_PASS/g server.properties.template > server.properties
 	#sudo screen -dmS resist sudo java -Xmx8G -Xms6G -jar forge-1.12.2-14.23.5.2768-universal.jar nogui
 	#bash push.sh
 	sudo screen -dmS resist sudo java -server -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=3 -XX:+AggressiveOpts -Xms1G -Xmx8G -jar forge-1.12.2-14.23.5.2768-universal.jar nogui
