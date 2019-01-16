@@ -39,4 +39,6 @@ level-seed=
 use-native-transport=true
 prevent-proxy-connections=false
 motd=Resist.Network
-enable-rcon=false
+enable-rcon=true
+rcon.port=25567
+rcon.password=MCR_PASS
