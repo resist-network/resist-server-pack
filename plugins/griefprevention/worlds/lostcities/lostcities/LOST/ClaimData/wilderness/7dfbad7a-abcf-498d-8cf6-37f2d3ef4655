@@ -15,8 +15,8 @@ GriefPrevention {
     container-groups=[]
     containers=[]
     cuboid=false
-    date-created="2019-01-15T02:36:54.926Z"
-    date-last-active="2019-01-15T02:36:54.926Z"
+    date-created="2019-01-16T23:28:35.272Z"
+    date-last-active="2019-01-16T23:28:35.272Z"
     deny-messages=true
     economyData {
         bankTransactionLog=[]
@@ -37,5 +37,5 @@ GriefPrevention {
     resizable=true
     sizeRestrictions=true
     subdivisions {}
-    world-uuid="5625dbbc-f2b1-445f-97a3-6fcef713107e"
+    world-uuid="7dfbad7a-abcf-498d-8cf6-37f2d3ef4655"
 }

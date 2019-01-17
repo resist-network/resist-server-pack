@@ -13,6 +13,17 @@
     },
     {
       "context": {
+        "world": "lost",
+        "gp_claim_defaults": "admin"
+      },
+      "data": {
+        "griefprevention.flag.entity-chunk-spawn": false,
+        "griefprevention.flag.entity-damage": false,
+        "griefprevention.flag.entity-spawn": false
+      }
+    },
+    {
+      "context": {
         "world": "eden",
         "gp_claim_defaults": "admin"
       },
@@ -35,8 +46,8 @@
     },
     {
       "context": {
-        "gp_claim_defaults": "admin",
-        "world": "dim-1"
+        "world": "dim-1",
+        "gp_claim_defaults": "admin"
       },
       "data": {
         "griefprevention.flag.entity-chunk-spawn": false,
