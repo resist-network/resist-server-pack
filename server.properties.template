@@ -3,7 +3,7 @@
 spawn-protection=64
 max-tick-time=60000
 query.port=25566
-generator-settings={"landScheme"\:"continents","tempScheme"\:"small_zones","rainScheme"\:"small_zones","biomeSize"\:"small","amplitude"\:1.0,"generateBopOre"\:true,"generatePoisonIvy"\:true,"generateFlax"\:true,"generateBerryBushes"\:true,"generateThorns"\:true,"generateQuicksand"\:true,"generateLiquidPoison"\:true,"generateHotSprings"\:true,"generateNetherHives"\:true,"generateEndFeatures"\:true}
+generator-settings={"landScheme"\:"vanilla","tempScheme"\:"medium_zones","rainScheme"\:"tiny_zones","biomeSize"\:"tiny","amplitude"\:1.0,"generateBopOre"\:true,"generatePoisonIvy"\:true,"generateFlax"\:true,"generateBerryBushes"\:true,"generateThorns"\:true,"generateQuicksand"\:true,"generateLiquidPoison"\:true,"generateHotSprings"\:true,"generateNetherHives"\:true,"generateEndFeatures"\:true}
 force-gamemode=false
 allow-nether=true
 gamemode=0
