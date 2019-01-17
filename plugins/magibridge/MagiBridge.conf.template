@@ -154,7 +154,7 @@ messages {
     # Name of the attachment tag shown in-game when someone sends an attachment to the Discord channel
     attachment-name="[Attachment]"
     # Game that will be displayed in the bot's game status
-    bot-playing-status="Playing God..."
+    bot-playing-status="a game?"
     # Message that will be set in the main discord channel topic every X seconds
     # Supports %tps%, %players%, %maxplayers%, %hoursonline% and %minutesonline%
     channel-topic-message="<:logo:525883770281132064> Resist.Network %players%/%maxplayers% Players Online | TPS: %tps%"
