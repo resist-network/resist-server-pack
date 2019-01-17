@@ -37,5 +37,5 @@ GriefPrevention {
     resizable=true
     sizeRestrictions=true
     subdivisions {}
-    world-uuid="2ec16742-5958-41ec-828d-e5bb8467b3a4"
+    world-uuid="00ea918f-dbac-4c1e-b828-be424b3fb6d8"
 }
