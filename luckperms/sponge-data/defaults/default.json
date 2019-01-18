@@ -57,6 +57,17 @@
     },
     {
       "context": {
+        "world": "alpha",
+        "gp_claim_defaults": "admin"
+      },
+      "data": {
+        "griefprevention.flag.entity-chunk-spawn": false,
+        "griefprevention.flag.entity-damage": false,
+        "griefprevention.flag.entity-spawn": false
+      }
+    },
+    {
+      "context": {
         "gp_claim": "ff08836c-6a96-4d03-8035-94ba0bc13b9b"
       },
       "data": {
