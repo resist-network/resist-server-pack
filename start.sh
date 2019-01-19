@@ -99,7 +99,7 @@ if ! screen -list | grep -q "resist"; then
 	sed s/MCR_PASS/$MCR_PASS/g server.properties.template > server.properties
 	#sudo screen -dmS resist sudo java -Xmx8G -Xms6G -jar forge-1.12.2-14.23.5.2768-universal.jar nogui
 	#bash push.sh
-	sudo screen -dmS resist sudo java -server -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=3 -XX:+AggressiveOpts -Xms1G -Xmx8G -jar forge-1.12.2-14.23.5.2768-universal.jar nogui
+	sudo screen -dmS resist sudo java -server -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=3 -XX:+AggressiveOpts -Xms1G -Xmx8G -jar forge-1.12.2-14.23.5.2807-universal.jar nogui
 else
 	echo "Server already started!";
 fi
