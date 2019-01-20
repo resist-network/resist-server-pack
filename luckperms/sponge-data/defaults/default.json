@@ -28,7 +28,9 @@
         "gp_claim_defaults": "admin"
       },
       "data": {
+        "griefprevention.flag.entity-chunk-spawn": false,
         "griefprevention.flag.entity-damage": false,
+        "griefprevention.flag.entity-riding": false,
         "griefprevention.flag.entity-spawn": false
       }
     },
