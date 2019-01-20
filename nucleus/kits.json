@@ -156,6 +156,296 @@
       "interval": 0,
       "oneTime": false,
       "commands": []
+    },
+    "crates": {
+      "ignoresPermission": false,
+      "displayMessage": true,
+      "cost": 0.0,
+      "firstJoin": false,
+      "hidden": false,
+      "stacks": [
+        {
+          "ContentVersion": 2,
+          "ItemType": "lootbags:itemlootbag",
+          "Count": 1,
+          "UnsafeDamage": 21
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "lootbags:itemlootbag",
+          "Count": 1,
+          "UnsafeDamage": 20
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "lootbags:itemlootbag",
+          "Count": 1,
+          "UnsafeDamage": 26
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "lootbags:itemlootbag",
+          "Count": 1,
+          "UnsafeDamage": 25
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "lootbags:itemlootbag",
+          "Count": 1,
+          "UnsafeDamage": 24
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "lootbags:itemlootbag",
+          "Count": 1,
+          "UnsafeDamage": 23
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "lootbags:itemlootbag",
+          "Count": 1,
+          "UnsafeDamage": 22
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "lootbags:itemlootbag",
+          "Count": 1,
+          "UnsafeDamage": 27
+        }
+      ],
+      "autoRedeem": false,
+      "interval": 0,
+      "oneTime": true,
+      "commands": []
+    },
+    "building-kit-have-empty-inv": {
+      "ignoresPermission": false,
+      "displayMessage": true,
+      "cost": 0.0,
+      "firstJoin": false,
+      "hidden": false,
+      "stacks": [
+        {
+          "ContentVersion": 2,
+          "ItemType": "littlelooter:barbed_wire",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "chisel:technicalnew",
+          "Count": 64,
+          "UnsafeDamage": 2
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:metalpanel",
+          "Count": 64,
+          "UnsafeDamage": 6
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "icbmclassic:concrete",
+          "Count": 64,
+          "UnsafeDamage": 1
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "icbmclassic:concrete",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "icbmclassic:concrete",
+          "Count": 64,
+          "UnsafeDamage": 2
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "icbmclassic:concrete",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "icbmclassic:concrete",
+          "Count": 64,
+          "UnsafeDamage": 1
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "icbmclassic:concrete",
+          "Count": 64,
+          "UnsafeDamage": 2
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "chisel:technical",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "chisel:technical",
+          "Count": 64,
+          "UnsafeDamage": 12
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "chisel:factory",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "chisel:factory",
+          "Count": 64,
+          "UnsafeDamage": 1
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "chisel:factory",
+          "Count": 64,
+          "UnsafeDamage": 9
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:metalpanel",
+          "Count": 64,
+          "UnsafeDamage": 5
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "galacticraftcore:arclamp",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "randomthings:rainshield",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:sandbags",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:ladder0",
+          "Count": 64,
+          "UnsafeDamage": 8
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "cfm:electric_fence",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:lamp0",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:item_door3x3",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "malisisdoors:rustyladder",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:lamp0",
+          "Count": 64,
+          "UnsafeDamage": 6
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:item_bunkerdoor",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "malisisdoors:verticalhatch",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "malisisdoors:garage_door",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "ic2:glass",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "projectred-illumination:inverted_cage_lamp",
+          "Count": 64,
+          "UnsafeDamage": 4
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "projectred-illumination:inverted_cage_lamp",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:metalpanel",
+          "Count": 64,
+          "UnsafeDamage": 4
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "icbmclassic:concrete",
+          "Count": 64,
+          "UnsafeDamage": 1
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "icbmclassic:concrete",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "icbmclassic:concrete",
+          "Count": 64,
+          "UnsafeDamage": 2
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "matteroverdrive:tritanium_crate",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "immersiveengineering:metal_decoration2",
+          "Count": 64,
+          "UnsafeDamage": 5
+        }
+      ],
+      "autoRedeem": false,
+      "interval": 0,
+      "oneTime": false,
+      "commands": []
     }
   }
 }
