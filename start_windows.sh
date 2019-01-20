@@ -44,6 +44,6 @@ sed -i "s/MYSQL_PASSWORD/$MYSQL_PASSWORD/g" plugins/totaleconomy/totaleconomy.co
 sed -i "s/MYSQL_HOST/$MYSQL_HOST/g" plugins/totaleconomy/totaleconomy.conf;
 
 #sed s/WA_VERSION/$CURRENT_VERSION/g server.properties.template > server.properties
-#sudo screen -dmS resist sudo java -Xmx8G -Xms6G -jar forge-1.12.2-14.23.5.2768-universal.jar nogui
+#sudo screen -dmS resist sudo java -Xmx8G -Xms6G -jar forge-1.12.2-14.23.5.2807-universal.jar nogui
 #bash pull.sh
-java -server -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=5 -XX:+AggressiveOpts -Xms1G -Xmx6G -jar forge-1.12.2-14.23.5.2768-universal.jar nogui
+java -server -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=5 -XX:+AggressiveOpts -Xms1G -Xmx6G -jar forge-1.12.2-14.23.5.2807-universal.jar nogui
