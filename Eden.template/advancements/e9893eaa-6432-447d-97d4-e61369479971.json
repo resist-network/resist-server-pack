@@ -946,6 +946,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie": "2019-01-20 00:43:05 +0000",
       "spider": "2019-01-19 20:58:14 +0000"
     },
     "done": false
@@ -1682,6 +1683,7 @@
       "savanna": "2019-01-18 22:21:33 +0000",
       "plains": "2019-01-19 20:52:00 +0000",
       "taiga": "2019-01-19 20:50:15 +0000",
+      "taiga_hills": "2019-01-20 01:38:25 +0000",
       "river": "2019-01-18 22:20:20 +0000",
       "desert": "2019-01-18 22:25:13 +0000"
     },
@@ -2662,6 +2664,12 @@
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_the_recipe": "2019-01-18 22:20:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2019-01-20 02:53:15 +0000"
     },
     "done": true
   },
