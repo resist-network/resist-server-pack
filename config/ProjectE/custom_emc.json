@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "item": "minecraft:stone|1",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:iron_ingot|0",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:cobblestone|0",
+      "emc": 1
+    }
+  ]
+}
