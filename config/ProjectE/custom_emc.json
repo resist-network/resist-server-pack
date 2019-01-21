@@ -1703,6 +1703,434 @@
     {
       "item": "actuallyadditions:item_hoe_quartz|0",
       "emc": 264
+    },
+    {
+      "item": "actuallyadditions:quartz_paxel|0",
+      "emc": 1444
+    },
+    {
+      "item": "minecraft:cauldron|0",
+      "emc": 1792
+    },
+    {
+      "item": "advancedrocketry:iquartzcrucible|0",
+      "emc": 2304
+    },
+    {
+      "item": "chisel:quartz|0",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|1",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|2",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|3",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|4",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|5",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|14",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|13",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|1",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|0",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|15",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|6",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|7",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|9",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|10",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|11",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|12",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|2",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|3",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|4",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|5",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|6",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|7",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|8",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|9",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|11",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|15",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|14",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|13",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|12",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|10",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|0",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|1",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|2",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|3",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|4",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|5",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|6",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|7",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|8",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|15",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|14",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|13",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|12",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|11",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|10",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|9",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|1",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|2",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|3",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|4",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|5",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|6",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|7",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|8",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|15",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|14",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|13",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|12",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|11",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|10",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|9",
+      "emc": 2048
+    },
+    {
+      "item": "minecraft:dye|0",
+      "emc": 36
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|1",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|2",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|3",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|4",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|5",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|6",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|7",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|8",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|13",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|14",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|15",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|12",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|11",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|10",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|9",
+      "emc": 548
+    },
+    {
+      "item": "extrautils2:decorativesolid|7",
+      "emc": 512
+    },
+    {
+      "item": "jaopca:block_blockquartzblack|0",
+      "emc": 1152
+    },
+    {
+      "item": "jaopca:item_nuggetquartz|0",
+      "emc": 14
+    },
+    {
+      "item": "jaopca:item_nuggetquartzblack|0",
+      "emc": 14
+    },
+    {
+      "item": "jaopca:item_gearquartz|0",
+      "emc": 512
+    },
+    {
+      "item": "jaopca:item_gearquartzblack|0",
+      "emc": 512
+    },
+    {
+      "item": "jaopca:item_platequartz|0",
+      "emc": 56
+    },
+    {
+      "item": "jaopca:item_stickquartzblack|0",
+      "emc": 64
+    },
+    {
+      "item": "jaopca:item_stickquartz|0",
+      "emc": 64
+    },
+    {
+      "item": "quark:quartz_wall|0",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:glowstone_dust|0",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:redstone_lamp|0",
+      "emc": 1280
+    },
+    {
+      "item": "randomthings:quartzlamp|0",
+      "emc": 1792
+    },
+    {
+      "item": "randomthings:quartzglass|0",
+      "emc": 65
+    },
+    {
+      "item": "refinedstorage:quartz_enriched_iron|0",
+      "emc": 224
+    },
+    {
+      "item": "refinedstorage:quartz_enriched_iron_block|0",
+      "emc": 2016
+    },
+    {
+      "item": "techguns:itemshared|103",
+      "emc": 384
+    },
+    {
+      "item": "tp:quartz_ingot|0",
+      "emc": 128
+    },
+    {
+      "item": "woot:shard|2",
+      "emc": 42
+    },
+    {
+      "item": "tp:quartz_helmet|0",
+      "emc": 640
+    },
+    {
+      "item": "tp:quartz_chestplate|0",
+      "emc": 1024
+    },
+    {
+      "item": "tp:quartz_boots|0",
+      "emc": 512
+    },
+    {
+      "item": "tp:quartz_leggings|0",
+      "emc": 896
+    },
+    {
+      "item": "minecraft:paper|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:book|0",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:bookshelf|0",
+      "emc": 408
     }
   ]
 }
