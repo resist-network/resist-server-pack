@@ -2919,6 +2919,42 @@
     {
       "item": "minecraft:trapped_chest|0",
       "emc": 198
+    },
+    {
+      "item": "minecraft:jungle_fence_gate|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:birch_fence_gate|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:spruce_fence_gate|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:acacia_fence_gate|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:dark_oak_fence_gate|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:observer|0",
+      "emc": 262
+    },
+    {
+      "item": "minecraft:iron_trapdoor|0",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:wooden_door|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:dropper|0",
+      "emc": 71
     }
   ]
 }
