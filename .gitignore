@@ -100,3 +100,4 @@ plugins/serverlistplus/PlayerCache.json
 plugins/luckperms/luckperms.conf
 plugins/pjp/pjp.conf
 server.properties
+index.php
