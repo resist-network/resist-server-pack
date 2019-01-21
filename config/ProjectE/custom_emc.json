@@ -2955,6 +2955,202 @@
     {
       "item": "minecraft:dropper|0",
       "emc": 71
+    },
+    {
+      "item": "minecraft:light_weighted_pressure_plate|0",
+      "emc": 4096
+    },
+    {
+      "item": "minecraft:heavy_weighted_pressure_plate|0",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:daylight_detector|0",
+      "emc": 399
+    },
+    {
+      "item": "minecraft:hopper|0",
+      "emc": 1344
+    },
+    {
+      "item": "minecraft:iron_door|0",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:repeater|0",
+      "emc": 203
+    },
+    {
+      "item": "minecraft:comparator|0",
+      "emc": 335
+    },
+    {
+      "item": "minecraft:spruce_door|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:birch_door|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:jungle_door|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:acacia_door|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:dark_oak_door|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:golden_rail|0",
+      "emc": 2059
+    },
+    {
+      "item": "minecraft:detector_rail|0",
+      "emc": 267
+    },
+    {
+      "item": "minecraft:rail|0",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:activator_rail|0",
+      "emc": 268
+    },
+    {
+      "item": "minecraft:minecart|0",
+      "emc": 1280
+    },
+    {
+      "item": "minecraft:boat|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:chest_minecart|0",
+      "emc": 1344
+    },
+    {
+      "item": "minecraft:furnace_minecart|0",
+      "emc": 1288
+    },
+    {
+      "item": "minecraft:fishing_rod|0",
+      "emc": 36
+    },
+    {
+      "item": "minecraft:carrot_on_a_stick|0",
+      "emc": 96
+    },
+    {
+      "item": "minecraft:elytra|0",
+      "emc": 82944
+    },
+    {
+      "item": "minecraft:hopper_minecart|0",
+      "emc": 2624
+    },
+    {
+      "item": "minecraft:tnt_minecart|0",
+      "emc": 2264
+    },
+    {
+      "item": "minecraft:spruce_boat|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:birch_boat|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:jungle_boat|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:acacia_boat|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:dark_oak_boat|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:beacon|0",
+      "emc": 139461
+    },
+    {
+      "item": "minecraft:iron_shovel|0",
+      "emc": 264
+    },
+    {
+      "item": "minecraft:iron_pickaxe|0",
+      "emc": 776
+    },
+    {
+      "item": "minecraft:iron_axe|0",
+      "emc": 776
+    },
+    {
+      "item": "minecraft:flint_and_steel|0",
+      "emc": 260
+    },
+    {
+      "item": "minecraft:arrow|0",
+      "emc": 14
+    },
+    {
+      "item": "minecraft:iron_sword|0",
+      "emc": 516
+    },
+    {
+      "item": "minecraft:wooden_sword|0",
+      "emc": 20
+    },
+    {
+      "item": "minecraft:wooden_shovel|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:wooden_pickaxe|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:wooden_axe|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:stone_sword|0",
+      "emc": 6
+    },
+    {
+      "item": "minecraft:stone_shovel|0",
+      "emc": 9
+    },
+    {
+      "item": "minecraft:stone_pickaxe|0",
+      "emc": 11
+    },
+    {
+      "item": "minecraft:stone_axe|0",
+      "emc": 11
+    },
+    {
+      "item": "minecraft:diamond_sword|0",
+      "emc": 16388
+    },
+    {
+      "item": "minecraft:diamond_shovel|0",
+      "emc": 8200
+    },
+    {
+      "item": "minecraft:diamond_pickaxe|0",
+      "emc": 24584
+    },
+    {
+      "item": "minecraft:diamond_axe|0",
+      "emc": 24584
     }
   ]
 }

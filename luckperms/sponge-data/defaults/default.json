@@ -89,6 +89,7 @@
       },
       "data": {
         "griefprevention.flag.entity-chunk-spawn": false,
+        "griefprevention.flag.entity-damage": false,
         "griefprevention.flag.entity-spawn": false
       }
     },
