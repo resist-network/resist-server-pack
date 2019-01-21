@@ -2,12 +2,33 @@
   "permissions": [
     {
       "context": {
+        "gp_claim_defaults": "wilderness",
+        "world": "spawn"
+      },
+      "data": {
+        "griefprevention.flag.entity-chunk-spawn": false,
+        "griefprevention.flag.entity-damage": false,
+        "griefprevention.flag.entity-spawn": false
+      }
+    },
+    {
+      "context": {
         "world": "eden",
         "gp_claim_defaults": "basic"
       },
       "data": {
         "griefprevention.flag.entity-chunk-spawn": false,
         "griefprevention.flag.entity-damage": false,
+        "griefprevention.flag.entity-spawn": false
+      }
+    },
+    {
+      "context": {
+        "world": "spawn",
+        "gp_claim_defaults": "admin"
+      },
+      "data": {
+        "griefprevention.flag.entity-chunk-spawn": false,
         "griefprevention.flag.entity-spawn": false
       }
     },
@@ -40,10 +61,16 @@
         "gp_claim_defaults": "admin"
       },
       "data": {
+        "griefprevention.flag.collide-block": true,
+        "griefprevention.flag.collide-entity": true,
         "griefprevention.flag.entity-chunk-spawn": false,
         "griefprevention.flag.entity-damage": false,
         "griefprevention.flag.entity-riding": false,
-        "griefprevention.flag.entity-spawn": false
+        "griefprevention.flag.entity-spawn": false,
+        "griefprevention.flag.interact-block-primary": true,
+        "griefprevention.flag.interact-block-secondary": true,
+        "griefprevention.flag.interact-entity-primary": true,
+        "griefprevention.flag.interact-inventory": true
       }
     },
     {
@@ -77,6 +104,14 @@
         "griefprevention.flag.entity-chunk-spawn.minecraft.armor_stand": true,
         "griefprevention.flag.entity-spawn": false,
         "griefprevention.flag.entity-spawn.minecraft.armor_stand": true
+      }
+    },
+    {
+      "context": {
+        "gp_claim": "eb582671-865e-401d-b7a3-55754cb17043"
+      },
+      "data": {
+        "griefprevention.flag.interact-block-secondary.minecraft.lever": true
       }
     },
     {

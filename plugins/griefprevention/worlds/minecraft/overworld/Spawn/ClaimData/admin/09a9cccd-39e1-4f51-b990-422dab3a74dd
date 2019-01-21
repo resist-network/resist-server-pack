@@ -1,0 +1,87 @@
+# 4.3.0
+# # If you need help with the configuration or have any questions related to GriefPrevention,
+# # join us on Discord or drop by our forums and leave a post.
+# # Discord: https://discord.gg/jy4FQDz
+# # Forums: https://forums.spongepowered.org/t/griefprevention-official-thread-1-10-1-11-1-12/1123
+# 
+
+GriefPrevention {
+    accessor-groups=[]
+    accessors=[
+        "41c82c87-7afb-4024-ba57-13d2c99cae77"
+    ]
+    builder-groups=[]
+    builders=[]
+    claim-expiration=true
+    claim-farewell {
+        extra=[
+            {
+                bold=true
+                color="dark_red"
+                text=Resist
+            },
+            {
+                color=gray
+                text="."
+            },
+            {
+                color="dark_red"
+                text="Network "
+            },
+            {
+                color=reset
+                text="Spawn!"
+            }
+        ]
+        text="You are leaving "
+    }
+    claim-greeting {
+        extra=[
+            {
+                bold=true
+                color="dark_red"
+                text=Resist
+            },
+            {
+                color=gray
+                text="."
+            },
+            {
+                color="dark_red"
+                text="Network "
+            },
+            {
+                color=reset
+                text="Spawn!"
+            }
+        ]
+        text="Welcome to "
+    }
+    claim-type=ADMIN
+    container-groups=[]
+    containers=[]
+    cuboid=false
+    date-created="2019-01-21T05:20:47.471Z"
+    date-last-active="2019-01-21T05:20:47.471Z"
+    deny-messages=true
+    economyData {
+        bankTransactionLog=[]
+        for-sale=false
+        sale-price=0.0
+        tax-balance=0.0
+    }
+    flag-overrides=true
+    greater-boundary-corner="61;255;-97"
+    inherit-parent=true
+    isExpired=false
+    lesser-boundary-corner="-24;0;-198"
+    manager-groups=[]
+    managers=[]
+    owner-uuid=e9893eaa-6432-447d-97d4-e61369479971
+    pvp=UNDEFINED
+    requires-claim-blocks=true
+    resizable=true
+    sizeRestrictions=false
+    subdivisions {}
+    world-uuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+}

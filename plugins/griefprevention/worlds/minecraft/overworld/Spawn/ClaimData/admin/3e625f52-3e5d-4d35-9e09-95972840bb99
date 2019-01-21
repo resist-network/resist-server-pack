@@ -7,18 +7,16 @@
 
 GriefPrevention {
     accessor-groups=[]
-    accessors=[
-        "41c82c87-7afb-4024-ba57-13d2c99cae77"
-    ]
+    accessors=[]
     builder-groups=[]
     builders=[]
     claim-expiration=true
-    claim-type=WILDERNESS
+    claim-type=ADMIN
     container-groups=[]
     containers=[]
     cuboid=false
-    date-created="2019-01-20T02:19:59.080Z"
-    date-last-active="2019-01-20T02:19:59.080Z"
+    date-created="2019-01-21T05:14:18.923Z"
+    date-last-active="2019-01-21T05:14:18.923Z"
     deny-messages=true
     economyData {
         bankTransactionLog=[]
@@ -27,13 +25,13 @@ GriefPrevention {
         tax-balance=0.0
     }
     flag-overrides=true
-    greater-boundary-corner="29999999;255;29999999"
+    greater-boundary-corner="-90;4;-996"
     inherit-parent=true
     isExpired=false
-    lesser-boundary-corner="-30000000;0;-30000000"
+    lesser-boundary-corner="-90;4;-996"
     manager-groups=[]
     managers=[]
-    owner-uuid="00000000-0000-0000-0000-000000000000"
+    owner-uuid=e9893eaa-6432-447d-97d4-e61369479971
     pvp=UNDEFINED
     requires-claim-blocks=true
     resizable=true

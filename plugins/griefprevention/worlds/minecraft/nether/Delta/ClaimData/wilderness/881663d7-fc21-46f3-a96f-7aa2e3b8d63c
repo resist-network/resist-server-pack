@@ -7,9 +7,7 @@
 
 GriefPrevention {
     accessor-groups=[]
-    accessors=[
-        "41c82c87-7afb-4024-ba57-13d2c99cae77"
-    ]
+    accessors=[]
     builder-groups=[]
     builders=[]
     claim-expiration=true
@@ -17,8 +15,8 @@ GriefPrevention {
     container-groups=[]
     containers=[]
     cuboid=false
-    date-created="2019-01-20T02:19:59.080Z"
-    date-last-active="2019-01-20T02:19:59.080Z"
+    date-created="2019-01-21T05:36:32.140Z"
+    date-last-active="2019-01-21T05:36:32.140Z"
     deny-messages=true
     economyData {
         bankTransactionLog=[]
@@ -37,7 +35,7 @@ GriefPrevention {
     pvp=UNDEFINED
     requires-claim-blocks=true
     resizable=true
-    sizeRestrictions=false
+    sizeRestrictions=true
     subdivisions {}
-    world-uuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+    world-uuid="881663d7-fc21-46f3-a96f-7aa2e3b8d63c"
 }
