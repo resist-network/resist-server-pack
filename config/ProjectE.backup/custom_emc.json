@@ -1,0 +1,3156 @@
+{
+  "entries": [
+    {
+      "item": "minecraft:cobblestone|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:dirt|1",
+      "emc": 2
+    },
+    {
+      "item": "minecraft:stone|2",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite|0",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite|1",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite|2",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite|3",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite|4",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite|5",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite|6",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite|7",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite1|0",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite|15",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite|14",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite|13",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite|12",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite|11",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite|10",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite|9",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite|8",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite1|3",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite1|2",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite1|1",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite1|4",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite1|5",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite1|6",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite1|7",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite1|8",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite1|9",
+      "emc": 16
+    },
+    {
+      "item": "quark:world_stone_bricks|0",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite2|0",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite1|15",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite1|14",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite1|13",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite1|11",
+      "emc": 16
+    },
+    {
+      "item": "chisel:granite1|10",
+      "emc": 16
+    },
+    {
+      "item": "quark:world_stone_pavement|0",
+      "emc": 16
+    },
+    {
+      "item": "cfm:table_granite|0",
+      "emc": 80
+    },
+    {
+      "item": "cfm:chair_granite|0",
+      "emc": 96
+    },
+    {
+      "item": "cfm:cabinet_granite|0",
+      "emc": 192
+    },
+    {
+      "item": "cfm:bedside_cabinet_granite|0",
+      "emc": 240
+    },
+    {
+      "item": "cfm:desk_granite|0",
+      "emc": 112
+    },
+    {
+      "item": "cfm:desk_cabinet_granite|0",
+      "emc": 176
+    },
+    {
+      "item": "quark:stone_granite_stairs|0",
+      "emc": 12
+    },
+    {
+      "item": "quark:stone_granite_slab|0",
+      "emc": 8
+    },
+    {
+      "item": "cfm:coffee_table_granite|0",
+      "emc": 80
+    },
+    {
+      "item": "quark:stone_granite_bricks_stairs|0",
+      "emc": 12
+    },
+    {
+      "item": "quark:stone_granite_bricks_slab|0",
+      "emc": 8
+    },
+    {
+      "item": "quark:stone_granite_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:stone_granite_bricks_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:granite_speleothem|0",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:stone|4",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite|0",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite|1",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite|2",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite|3",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite|4",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite|5",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite|6",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite|7",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite1|0",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite|15",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite|14",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite|13",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite|12",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite|11",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite|10",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite|9",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite|8",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite1|9",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite1|8",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite1|7",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite1|6",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite1|5",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite1|4",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite1|3",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite1|2",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite1|1",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite1|10",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite1|11",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite1|12",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite1|13",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite1|14",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite1|15",
+      "emc": 16
+    },
+    {
+      "item": "chisel:diorite2|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:world_stone_bricks|1",
+      "emc": 16
+    },
+    {
+      "item": "quark:world_stone_pavement|1",
+      "emc": 16
+    },
+    {
+      "item": "cfm:coffee_table_diorite|0",
+      "emc": 80
+    },
+    {
+      "item": "cfm:table_diorite|0",
+      "emc": 80
+    },
+    {
+      "item": "cfm:chair_diorite|0",
+      "emc": 96
+    },
+    {
+      "item": "cfm:cabinet_diorite|0",
+      "emc": 192
+    },
+    {
+      "item": "cfm:bedside_cabinet_diorite|0",
+      "emc": 240
+    },
+    {
+      "item": "cfm:desk_diorite|0",
+      "emc": 112
+    },
+    {
+      "item": "cfm:desk_cabinet_diorite|0",
+      "emc": 176
+    },
+    {
+      "item": "quark:stone_diorite_stairs|0",
+      "emc": 12
+    },
+    {
+      "item": "quark:stone_diorite_slab|0",
+      "emc": 8
+    },
+    {
+      "item": "quark:stone_diorite_bricks_stairs|0",
+      "emc": 12
+    },
+    {
+      "item": "quark:stone_diorite_bricks_slab|0",
+      "emc": 8
+    },
+    {
+      "item": "quark:stone_diorite_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:stone_diorite_bricks_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:diorite_speleothem|0",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:stone|6",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|0",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|1",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|2",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|3",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|4",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|5",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|6",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|7",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|0",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|15",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|14",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|13",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|12",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|11",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|10",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|9",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite|8",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|9",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|8",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|7",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|6",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|5",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|4",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|3",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|2",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|1",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|10",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|11",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|12",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|13",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|14",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite1|15",
+      "emc": 16
+    },
+    {
+      "item": "chisel:andesite2|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:world_stone_pavement|2",
+      "emc": 16
+    },
+    {
+      "item": "quark:world_stone_bricks|2",
+      "emc": 16
+    },
+    {
+      "item": "quark:stone_andesite_bricks_stairs|0",
+      "emc": 12
+    },
+    {
+      "item": "quark:stone_andesite_bricks_slab|0",
+      "emc": 8
+    },
+    {
+      "item": "quark:stone_andesite_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:stone_andesite_bricks_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:andesite_speleothem|0",
+      "emc": 8
+    },
+    {
+      "item": "cfm:table_andesite|0",
+      "emc": 80
+    },
+    {
+      "item": "cfm:chair_andesite|0",
+      "emc": 96
+    },
+    {
+      "item": "cfm:cabinet_andesite|0",
+      "emc": 192
+    },
+    {
+      "item": "cfm:bedside_cabinet_andesite|0",
+      "emc": 240
+    },
+    {
+      "item": "cfm:coffee_table_andesite|0",
+      "emc": 80
+    },
+    {
+      "item": "quark:stone_andesite_slab|0",
+      "emc": 8
+    },
+    {
+      "item": "cfm:desk_cabinet_andesite|0",
+      "emc": 76
+    },
+    {
+      "item": "quark:stone_andesite_stairs|0",
+      "emc": 12
+    },
+    {
+      "item": "cfm:desk_andesite|0",
+      "emc": 112
+    },
+    {
+      "item": "minecraft:dye|4",
+      "emc": 36
+    },
+    {
+      "item": "minecraft:lapis_block|0",
+      "emc": 324
+    },
+    {
+      "item": "minecraft:stone_slab|1",
+      "emc": 2
+    },
+    {
+      "item": "minecraft:sandstone|2",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:sandstone|1",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:sandstone_stairs|0",
+      "emc": 3
+    },
+    {
+      "item": "minecraft:red_sandstone|0",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:red_sandstone|1",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:red_sandstone|2",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:red_sandstone_stairs|0",
+      "emc": 3
+    },
+    {
+      "item": "minecraft:stone_slab2|0",
+      "emc": 2
+    },
+    {
+      "item": "biomesoplenty:white_sand|0",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:white_sandstone|0",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:white_sandstone|1",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:white_sandstone|2",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:white_sandstone_stairs|0",
+      "emc": 3
+    },
+    {
+      "item": "biomesoplenty:other_slab|1",
+      "emc": 2
+    },
+    {
+      "item": "chisel:sandstoneyellow|0",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow|1",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow|2",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow|3",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow|4",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow|5",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow|6",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow|7",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow|8",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow|15",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow1|0",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow1|1",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow1|2",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow1|3",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow1|4",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow|11",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow|10",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow|9",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow|14",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow|13",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow|12",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow1|5",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow1|6",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow1|7",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow1|8",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow1|9",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow2|0",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow2|4",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow2|5",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow2|6",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow2|3",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow2|2",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstoneyellow2|1",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered|0",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered|1",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered|2",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered|3",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered|4",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered|5",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered|6",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered|7",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered|8",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered1|1",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered1|0",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered|15",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered|14",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered|13",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered|12",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered|11",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered|10",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered|9",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered2|0",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered1|9",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered1|8",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered1|7",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered1|6",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered1|5",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered1|4",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered1|3",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered1|2",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered2|6",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered2|5",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered2|4",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered2|3",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered2|2",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstonered2|1",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstone-scribbles|8",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstone-scribbles|7",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstone-scribbles|6",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstone-scribbles|5",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstone-scribbles|4",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstone-scribbles|3",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstone-scribbles|2",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstone-scribbles|1",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstone-scribbles|0",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstone-scribbles|15",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstone-scribbles|14",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstone-scribbles|13",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstone-scribbles|12",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstone-scribbles|11",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstone-scribbles|10",
+      "emc": 4
+    },
+    {
+      "item": "chisel:sandstone-scribbles|9",
+      "emc": 4
+    },
+    {
+      "item": "cyclicmagic:sandstone_pickaxe|0",
+      "emc": 20
+    },
+    {
+      "item": "cyclicmagic:sandstone_axe|0",
+      "emc": 20
+    },
+    {
+      "item": "cyclicmagic:sandstone_spade|0",
+      "emc": 12
+    },
+    {
+      "item": "cyclicmagic:sandstone_hoe|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:sandstone_new|0",
+      "emc": 4
+    },
+    {
+      "item": "quark:sandstone_new|1",
+      "emc": 4
+    },
+    {
+      "item": "quark:sandstone_new|2",
+      "emc": 4
+    },
+    {
+      "item": "quark:sandstone_new|3",
+      "emc": 4
+    },
+    {
+      "item": "quark:red_sandstone_bricks_slab|0",
+      "emc": 2
+    },
+    {
+      "item": "quark:red_sandstone_smooth_slab|0",
+      "emc": 2
+    },
+    {
+      "item": "quark:sandstone_bricks_slab|0",
+      "emc": 2
+    },
+    {
+      "item": "quark:sandstone_smooth_slab|0",
+      "emc": 2
+    },
+    {
+      "item": "quark:red_sandstone_bricks_stairs|0",
+      "emc": 3
+    },
+    {
+      "item": "quark:sandstone_bricks_stairs|0",
+      "emc": 3
+    },
+    {
+      "item": "quark:red_sandstone_wall|0",
+      "emc": 4
+    },
+    {
+      "item": "quark:sandstone_wall|0",
+      "emc": 4
+    },
+    {
+      "item": "quark:soul_sandstone_wall|0",
+      "emc": 49
+    },
+    {
+      "item": "tp:soul_sandstone|0",
+      "emc": 196
+    },
+    {
+      "item": "quark:sandstone_new|5",
+      "emc": 196
+    },
+    {
+      "item": "quark:sandstone_new|4",
+      "emc": 196
+    },
+    {
+      "item": "quark:soul_sandstone|0",
+      "emc": 196
+    },
+    {
+      "item": "quark:soul_sandstone|2",
+      "emc": 196
+    },
+    {
+      "item": "quark:soul_sandstone|1",
+      "emc": 196
+    },
+    {
+      "item": "quark:soul_sandstone_stairs|0",
+      "emc": 147
+    },
+    {
+      "item": "quark:soul_sandstone_bricks_stairs|0",
+      "emc": 147
+    },
+    {
+      "item": "quark:soul_sandstone_bricks_slab|0",
+      "emc": 98
+    },
+    {
+      "item": "quark:soul_sandstone_smooth_slab|0",
+      "emc": 98
+    },
+    {
+      "item": "quark:soul_sandstone_slab|0",
+      "emc": 98
+    },
+    {
+      "item": "minecraft:wool|0",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|1",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|2",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|3",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|4",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|5",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|6",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|7",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|8",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|15",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|14",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|13",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|12",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|11",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|10",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|9",
+      "emc": 48
+    },
+    {
+      "item": "chisel:carpet_black|0",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_black|1",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_red|0",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_red|1",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_green|0",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_green|1",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_brown|0",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_brown|1",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_blue|0",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_gray|1",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_gray|0",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_lightgray|1",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_lightgray|0",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_cyan|1",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_cyan|0",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_purple|1",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_purple|0",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_blue|1",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_pink|0",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_pink|1",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_lime|0",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_lime|1",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_yellow|0",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_lightblue|0",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_lightblue|1",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_magenta|0",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_magenta|1",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_white|1",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_white|0",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_orange|1",
+      "emc": 32
+    },
+    {
+      "item": "chisel:carpet_orange|0",
+      "emc": 32
+    },
+    {
+      "item": "chisel:wool_black|0",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_black|1",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_red|0",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_red|1",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_green|0",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_green|1",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_brown|0",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_brown|1",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_blue|0",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_gray|1",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_gray|0",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_lightgray|1",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_lightgray|0",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_cyan|1",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_cyan|0",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_purple|1",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_purple|0",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_blue|1",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_magenta|0",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_lightblue|1",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_lightblue|0",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_yellow|1",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_yellow|0",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_lime|1",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_lime|0",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_pink|1",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_pink|0",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_white|1",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_white|0",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_orange|1",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_orange|0",
+      "emc": 48
+    },
+    {
+      "item": "chisel:wool_magenta|1",
+      "emc": 48
+    },
+    {
+      "item": "ic2:misc_resource|4",
+      "emc": 32
+    },
+    {
+      "item": "ic2:sheet|0",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:carpet|0",
+      "emc": 32
+    },
+    {
+      "item": "quark:quilted_wool|0",
+      "emc": 56
+    },
+    {
+      "item": "quark:quilted_wool|1",
+      "emc": 56
+    },
+    {
+      "item": "quark:quilted_wool|2",
+      "emc": 56
+    },
+    {
+      "item": "quark:quilted_wool|3",
+      "emc": 56
+    },
+    {
+      "item": "quark:quilted_wool|4",
+      "emc": 56
+    },
+    {
+      "item": "quark:quilted_wool|5",
+      "emc": 56
+    },
+    {
+      "item": "quark:quilted_wool|6",
+      "emc": 56
+    },
+    {
+      "item": "quark:quilted_wool|7",
+      "emc": 56
+    },
+    {
+      "item": "quark:quilted_wool|8",
+      "emc": 56
+    },
+    {
+      "item": "quark:quilted_wool|15",
+      "emc": 56
+    },
+    {
+      "item": "quark:quilted_wool|14",
+      "emc": 56
+    },
+    {
+      "item": "quark:quilted_wool|13",
+      "emc": 56
+    },
+    {
+      "item": "quark:quilted_wool|12",
+      "emc": 56
+    },
+    {
+      "item": "quark:quilted_wool|11",
+      "emc": 56
+    },
+    {
+      "item": "quark:quilted_wool|10",
+      "emc": 56
+    },
+    {
+      "item": "quark:quilted_wool|9",
+      "emc": 56
+    },
+    {
+      "item": "thermalfoundation:material|864",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:rockwool|0",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:rockwool|1",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:rockwool|2",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:rockwool|3",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:rockwool|4",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:rockwool|5",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:rockwool|6",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:rockwool|10",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:rockwool|8",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:rockwool|15",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:rockwool|14",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:rockwool|13",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:rockwool|12",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:rockwool|11",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:rockwool|9",
+      "emc": 64
+    },
+    {
+      "item": "quark:polished_stone|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stone_slab|4",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:stone_slab|6",
+      "emc": 2
+    },
+    {
+      "item": "minecraft:quartz|0",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:quartz_block|0",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:stone_slab|7",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:quartz_block|1",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:quartz_block|2",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:quartz_stairs|0",
+      "emc": 384
+    },
+    {
+      "item": "actuallyadditions:block_testifi_bucks_white_stairs|0",
+      "emc": 512
+    },
+    {
+      "item": "actuallyadditions:block_testifi_bucks_white_slab|0",
+      "emc": 256
+    },
+    {
+      "item": "actuallyadditions:block_testifi_bucks_white_fence|0",
+      "emc": 512
+    },
+    {
+      "item": "actuallyadditions:item_misc|5",
+      "emc": 128
+    },
+    {
+      "item": "actuallyadditions:block_misc|0",
+      "emc": 256
+    },
+    {
+      "item": "actuallyadditions:block_misc|2",
+      "emc": 512
+    },
+    {
+      "item": "actuallyadditions:block_misc|1",
+      "emc": 512
+    },
+    {
+      "item": "actuallyadditions:block_quartz_wall|0",
+      "emc": 512
+    },
+    {
+      "item": "actuallyadditions:block_chiseled_quartz_wall|0",
+      "emc": 512
+    },
+    {
+      "item": "actuallyadditions:block_quartz_stair|0",
+      "emc": 512
+    },
+    {
+      "item": "actuallyadditions:block_chiseled_quartz_stair|0",
+      "emc": 512
+    },
+    {
+      "item": "actuallyadditions:block_pillar_quartz_stair|0",
+      "emc": 256
+    },
+    {
+      "item": "actuallyadditions:block_pillar_quartz_wall|0",
+      "emc": 256
+    },
+    {
+      "item": "actuallyadditions:block_quartz_slab|0",
+      "emc": 256
+    },
+    {
+      "item": "actuallyadditions:block_chiseled_quartz_slab|0",
+      "emc": 256
+    },
+    {
+      "item": "actuallyadditions:block_pillar_quartz_slab|0",
+      "emc": 128
+    },
+    {
+      "item": "actuallyadditions:item_helm_quartz|0",
+      "emc": 640
+    },
+    {
+      "item": "actuallyadditions:item_chest_quartz|0",
+      "emc": 1024
+    },
+    {
+      "item": "actuallyadditions:item_pants_quartz|0",
+      "emc": 896
+    },
+    {
+      "item": "actuallyadditions:item_boots_quartz|0",
+      "emc": 512
+    },
+    {
+      "item": "actuallyadditions:item_pickaxe_quartz|0",
+      "emc": 392
+    },
+    {
+      "item": "actuallyadditions:item_axe_quartz|0",
+      "emc": 392
+    },
+    {
+      "item": "actuallyadditions:item_shovel_quartz|0",
+      "emc": 136
+    },
+    {
+      "item": "actuallyadditions:item_sword_quartz|0",
+      "emc": 260
+    },
+    {
+      "item": "actuallyadditions:item_hoe_quartz|0",
+      "emc": 264
+    },
+    {
+      "item": "actuallyadditions:quartz_paxel|0",
+      "emc": 1444
+    },
+    {
+      "item": "minecraft:cauldron|0",
+      "emc": 1792
+    },
+    {
+      "item": "advancedrocketry:iquartzcrucible|0",
+      "emc": 2304
+    },
+    {
+      "item": "chisel:quartz|0",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|1",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|2",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|3",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|4",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|5",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|14",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|13",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|1",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|0",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|15",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|6",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|7",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|9",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|10",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|11",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz|12",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|2",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|3",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|4",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|5",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|6",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|7",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|8",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|9",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|11",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|15",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|14",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|13",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|12",
+      "emc": 512
+    },
+    {
+      "item": "chisel:quartz1|10",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|0",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|1",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|2",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|3",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|4",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|5",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|6",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|7",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|8",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|15",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|14",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|13",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|12",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|11",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|10",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_fused_quartz|9",
+      "emc": 512
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|1",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|2",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|3",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|4",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|5",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|6",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|7",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|8",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|15",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|14",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|13",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|12",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|11",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|10",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|9",
+      "emc": 2048
+    },
+    {
+      "item": "minecraft:dye|0",
+      "emc": 36
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|1",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|2",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|3",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|4",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|5",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|6",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|7",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|8",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|13",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|14",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|15",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|12",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|11",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|10",
+      "emc": 548
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|9",
+      "emc": 548
+    },
+    {
+      "item": "extrautils2:decorativesolid|7",
+      "emc": 512
+    },
+    {
+      "item": "jaopca:block_blockquartzblack|0",
+      "emc": 1152
+    },
+    {
+      "item": "jaopca:item_nuggetquartz|0",
+      "emc": 14
+    },
+    {
+      "item": "jaopca:item_nuggetquartzblack|0",
+      "emc": 14
+    },
+    {
+      "item": "jaopca:item_gearquartz|0",
+      "emc": 512
+    },
+    {
+      "item": "jaopca:item_gearquartzblack|0",
+      "emc": 512
+    },
+    {
+      "item": "jaopca:item_platequartz|0",
+      "emc": 56
+    },
+    {
+      "item": "jaopca:item_stickquartzblack|0",
+      "emc": 64
+    },
+    {
+      "item": "jaopca:item_stickquartz|0",
+      "emc": 64
+    },
+    {
+      "item": "quark:quartz_wall|0",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:glowstone_dust|0",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:redstone_lamp|0",
+      "emc": 1280
+    },
+    {
+      "item": "randomthings:quartzlamp|0",
+      "emc": 1792
+    },
+    {
+      "item": "randomthings:quartzglass|0",
+      "emc": 65
+    },
+    {
+      "item": "refinedstorage:quartz_enriched_iron|0",
+      "emc": 224
+    },
+    {
+      "item": "refinedstorage:quartz_enriched_iron_block|0",
+      "emc": 2016
+    },
+    {
+      "item": "techguns:itemshared|103",
+      "emc": 384
+    },
+    {
+      "item": "tp:quartz_ingot|0",
+      "emc": 128
+    },
+    {
+      "item": "woot:shard|2",
+      "emc": 42
+    },
+    {
+      "item": "tp:quartz_helmet|0",
+      "emc": 640
+    },
+    {
+      "item": "tp:quartz_chestplate|0",
+      "emc": 1024
+    },
+    {
+      "item": "tp:quartz_boots|0",
+      "emc": 512
+    },
+    {
+      "item": "tp:quartz_leggings|0",
+      "emc": 896
+    },
+    {
+      "item": "minecraft:paper|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:book|0",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:bookshelf|0",
+      "emc": 430
+    },
+    {
+      "item": "minecraft:mossy_cobblestone|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:oak_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "minecraft:diamond_block|0",
+      "emc": 73728
+    },
+    {
+      "item": "minecraft:coal|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:torch|0",
+      "emc": 9
+    },
+    {
+      "item": "minecraft:lit_pumpkin|0",
+      "emc": 153
+    },
+    {
+      "item": "minecraft:stonebrick|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stonebrick|1",
+      "emc": 2
+    },
+    {
+      "item": "minecraft:melon_block|0",
+      "emc": 144
+    },
+    {
+      "item": "minecraft:brick_stairs|0",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:nether_brick_stairs|0",
+      "emc": 3
+    },
+    {
+      "item": "minecraft:wooden_slab|0",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:wooden_slab|1",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:wooden_slab|2",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:wooden_slab|3",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:wooden_slab|4",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:wooden_slab|5",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:emerald_block|0",
+      "emc": 147456
+    },
+    {
+      "item": "minecraft:spruce_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "minecraft:birch_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "minecraft:jungle_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "minecraft:acacia_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "minecraft:dark_oak_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "minecraft:prismarine_crystals|0",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:prismarine_shard|0",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:prismarine|0",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:prismarine|1",
+      "emc": 1152
+    },
+    {
+      "item": "minecraft:prismarine|2",
+      "emc": 1030
+    },
+    {
+      "item": "minecraft:sea_lantern|0",
+      "emc": 1152
+    },
+    {
+      "item": "minecraft:hay_block|0",
+      "emc": 216
+    },
+    {
+      "item": "minecraft:coal_block|0",
+      "emc": 288
+    },
+    {
+      "item": "minecraft:packed_ice|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:end_bricks|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:purpur_block|0",
+      "emc": 192
+    },
+    {
+      "item": "minecraft:purpur_stairs|0",
+      "emc": 144
+    },
+    {
+      "item": "minecraft:purpur_pillar|0",
+      "emc": 192
+    },
+    {
+      "item": "minecraft:purpur_slab|0",
+      "emc": 96
+    },
+    {
+      "item": "minecraft:nether_wart_block|0",
+      "emc": 216
+    },
+    {
+      "item": "minecraft:red_nether_brick|0",
+      "emc": 50
+    },
+    {
+      "item": "minecraft:bone_block|0",
+      "emc": 324
+    },
+    {
+      "item": "minecraft:concrete|0",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|1",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|2",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|3",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|4",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|5",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|6",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|7",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|8",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|15",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|14",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|13",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|12",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|11",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|10",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|9",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|0",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|1",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|2",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|3",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|4",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|5",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|6",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|7",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|8",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|15",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|14",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|13",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|12",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|11",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|10",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|9",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:red_flower|7",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:red_flower|6",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:red_flower|5",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:red_flower|4",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:yellow_flower|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:red_flower|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:red_flower|1",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:red_flower|2",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:red_flower|3",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:red_flower|8",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:chest|0",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:crafting_table|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:furnace|0",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:ladder|0",
+      "emc": 9
+    },
+    {
+      "item": "minecraft:jukebox|0",
+      "emc": 8256
+    },
+    {
+      "item": "minecraft:fence|0",
+      "emc": 13
+    },
+    {
+      "item": "minecraft:iron_bars|0",
+      "emc": 96
+    },
+    {
+      "item": "minecraft:nether_brick_fence|0",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:enchanting_table|0",
+      "emc": 16768
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 307
+    },
+    {
+      "item": "minecraft:ender_eye|0",
+      "emc": 1331
+    },
+    {
+      "item": "minecraft:ender_chest|0",
+      "emc": 1843
+    },
+    {
+      "item": "minecraft:cobblestone_wall|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:cobblestone_wall|1",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:anvil|0",
+      "emc": 7936
+    },
+    {
+      "item": "minecraft:anvil|1",
+      "emc": 3968
+    },
+    {
+      "item": "minecraft:anvil|2",
+      "emc": 1984
+    },
+    {
+      "item": "minecraft:slime|0",
+      "emc": 288
+    },
+    {
+      "item": "minecraft:carpet|1",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|2",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|3",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|4",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|5",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|6",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|7",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|8",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|9",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|15",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|14",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|13",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|12",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|11",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|10",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:double_plant|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:double_plant|1",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:double_plant|4",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:double_plant|5",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:spruce_fence|0",
+      "emc": 13
+    },
+    {
+      "item": "minecraft:birch_fence|0",
+      "emc": 13
+    },
+    {
+      "item": "minecraft:jungle_fence|0",
+      "emc": 13
+    },
+    {
+      "item": "minecraft:dark_oak_fence|0",
+      "emc": 13
+    },
+    {
+      "item": "minecraft:acacia_fence|0",
+      "emc": 13
+    },
+    {
+      "item": "minecraft:end_rod|0",
+      "emc": 432
+    },
+    {
+      "item": "minecraft:shulker_shell|0",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:white_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:orange_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:magenta_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:light_blue_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:yellow_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:lime_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:pink_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:gray_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:silver_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:black_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:red_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:green_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:brown_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:blue_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:purple_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:cyan_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:painting|0",
+      "emc": 80
+    },
+    {
+      "item": "minecraft:sign|0",
+      "emc": 17
+    },
+    {
+      "item": "minecraft:bed|0",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|1",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|2",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|3",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|4",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|5",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|6",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|7",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|8",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|15",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|14",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|13",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|12",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|11",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|10",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|9",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:item_frame|0",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:flower_pot|0",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:armor_stand|0",
+      "emc": 25
+    },
+    {
+      "item": "minecraft:banner|15",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|14",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|13",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|12",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|11",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|10",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|9",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|8",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|7",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|0",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|1",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|2",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|3",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|4",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|5",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|6",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:ghast_tear|0",
+      "emc": 2048
+    },
+    {
+      "item": "minecraft:end_crystal|0",
+      "emc": 3386
+    },
+    {
+      "item": "minecraft:stone_button|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:redstone_torch|0",
+      "emc": 68
+    },
+    {
+      "item": "minecraft:wooden_pressure_plate|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:stone_pressure_plate|0",
+      "emc": 2
+    },
+    {
+      "item": "minecraft:lever|0",
+      "emc": 5
+    },
+    {
+      "item": "minecraft:tnt|0",
+      "emc": 984
+    },
+    {
+      "item": "minecraft:piston|0",
+      "emc": 348
+    },
+    {
+      "item": "minecraft:sticky_piston|0",
+      "emc": 380
+    },
+    {
+      "item": "minecraft:bow|0",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:dispenser|0",
+      "emc": 119
+    },
+    {
+      "item": "minecraft:noteblock|0",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:trapdoor|0",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:fence_gate|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:tripwire_hook|0",
+      "emc": 134
+    },
+    {
+      "item": "minecraft:wooden_button|0",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:trapped_chest|0",
+      "emc": 198
+    },
+    {
+      "item": "minecraft:jungle_fence_gate|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:birch_fence_gate|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:spruce_fence_gate|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:acacia_fence_gate|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:dark_oak_fence_gate|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:observer|0",
+      "emc": 262
+    },
+    {
+      "item": "minecraft:iron_trapdoor|0",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:wooden_door|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:dropper|0",
+      "emc": 71
+    },
+    {
+      "item": "minecraft:light_weighted_pressure_plate|0",
+      "emc": 4096
+    },
+    {
+      "item": "minecraft:heavy_weighted_pressure_plate|0",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:daylight_detector|0",
+      "emc": 399
+    },
+    {
+      "item": "minecraft:hopper|0",
+      "emc": 1344
+    },
+    {
+      "item": "minecraft:iron_door|0",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:repeater|0",
+      "emc": 203
+    },
+    {
+      "item": "minecraft:comparator|0",
+      "emc": 335
+    },
+    {
+      "item": "minecraft:spruce_door|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:birch_door|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:jungle_door|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:acacia_door|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:dark_oak_door|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:golden_rail|0",
+      "emc": 2059
+    },
+    {
+      "item": "minecraft:detector_rail|0",
+      "emc": 267
+    },
+    {
+      "item": "minecraft:rail|0",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:activator_rail|0",
+      "emc": 268
+    },
+    {
+      "item": "minecraft:minecart|0",
+      "emc": 1280
+    },
+    {
+      "item": "minecraft:boat|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:chest_minecart|0",
+      "emc": 1344
+    },
+    {
+      "item": "minecraft:furnace_minecart|0",
+      "emc": 1288
+    },
+    {
+      "item": "minecraft:fishing_rod|0",
+      "emc": 36
+    },
+    {
+      "item": "minecraft:carrot_on_a_stick|0",
+      "emc": 96
+    },
+    {
+      "item": "minecraft:elytra|0",
+      "emc": 82944
+    },
+    {
+      "item": "minecraft:hopper_minecart|0",
+      "emc": 2624
+    },
+    {
+      "item": "minecraft:tnt_minecart|0",
+      "emc": 2264
+    },
+    {
+      "item": "minecraft:spruce_boat|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:birch_boat|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:jungle_boat|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:acacia_boat|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:dark_oak_boat|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:beacon|0",
+      "emc": 139461
+    },
+    {
+      "item": "minecraft:iron_shovel|0",
+      "emc": 264
+    },
+    {
+      "item": "minecraft:iron_pickaxe|0",
+      "emc": 776
+    },
+    {
+      "item": "minecraft:iron_axe|0",
+      "emc": 776
+    },
+    {
+      "item": "minecraft:flint_and_steel|0",
+      "emc": 260
+    },
+    {
+      "item": "minecraft:arrow|0",
+      "emc": 14
+    },
+    {
+      "item": "minecraft:iron_sword|0",
+      "emc": 516
+    },
+    {
+      "item": "minecraft:wooden_sword|0",
+      "emc": 20
+    },
+    {
+      "item": "minecraft:wooden_shovel|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:wooden_pickaxe|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:wooden_axe|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:stone_sword|0",
+      "emc": 6
+    },
+    {
+      "item": "minecraft:stone_shovel|0",
+      "emc": 9
+    },
+    {
+      "item": "minecraft:stone_pickaxe|0",
+      "emc": 11
+    },
+    {
+      "item": "minecraft:stone_axe|0",
+      "emc": 11
+    },
+    {
+      "item": "minecraft:diamond_sword|0",
+      "emc": 16388
+    },
+    {
+      "item": "minecraft:diamond_shovel|0",
+      "emc": 8200
+    },
+    {
+      "item": "minecraft:diamond_pickaxe|0",
+      "emc": 24584
+    },
+    {
+      "item": "minecraft:diamond_axe|0",
+      "emc": 24584
+    }
+  ]
+}

@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-01-21 07:47:35 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/palm_fence_gate": {
     "criteria": {
       "has_the_recipe": "2019-01-18 23:13:02 +0000"

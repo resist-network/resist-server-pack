@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "webdisplays:webdisplays/link_peripheral": {
+    "criteria": {
+      "link_peripheral": "2019-01-21 07:31:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_the_recipe": "2019-01-18 22:20:17 +0000"
@@ -991,6 +997,12 @@
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_the_recipe": "2019-01-18 22:20:17 +0000"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/root": {
+    "criteria": {
+      "crafting_table": "2019-01-21 07:52:52 +0000"
     },
     "done": true
   },
@@ -2789,6 +2801,12 @@
     },
     "done": true
   },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_ender2": "2019-01-21 06:36:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_the_recipe": "2019-01-18 22:20:17 +0000"
@@ -3413,6 +3431,12 @@
     },
     "done": true
   },
+  "webdisplays:webdisplays/screen": {
+    "criteria": {
+      "has_screen": "2019-01-21 07:30:10 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/mangrove_stairs": {
     "criteria": {
       "has_the_recipe": "2019-01-18 22:20:18 +0000"
@@ -3512,6 +3536,24 @@
   "biomesoplenty:recipes/buildingblocks/ebony_stairs": {
     "criteria": {
       "has_the_recipe": "2019-01-18 22:20:18 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:energy/1_energy_conduit": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit": "2019-01-21 06:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2019-01-21 07:52:52 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:energy/3_energy_conduit_ender": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_ender": "2019-01-21 06:36:14 +0000"
     },
     "done": true
   },
@@ -4010,6 +4052,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2019-01-18 22:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2019-01-21 07:15:49 +0000"
     },
     "done": true
   },
