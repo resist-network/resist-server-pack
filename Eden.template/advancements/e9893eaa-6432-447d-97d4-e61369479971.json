@@ -710,8 +710,10 @@
       "coniferous_forest": "2019-01-19 20:47:58 +0000",
       "alps": "2019-01-19 20:45:35 +0000",
       "wasteland": "2019-01-18 22:24:05 +0000",
+      "snowy_forest": "2019-01-20 03:33:05 +0000",
       "grassland": "2019-01-18 22:22:32 +0000",
       "tundra": "2019-01-19 20:47:51 +0000",
+      "gravel_beach": "2019-01-21 05:15:56 +0000",
       "ominous_woods": "2019-01-18 22:25:40 +0000"
     },
     "done": false
@@ -946,8 +948,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2019-01-21 05:01:32 +0000",
+      "skeleton": "2019-01-21 04:51:31 +0000",
+      "blaze": "2019-01-21 04:59:57 +0000",
       "zombie": "2019-01-20 00:43:05 +0000",
-      "spider": "2019-01-19 20:58:14 +0000"
+      "cave_spider": "2019-01-21 04:52:45 +0000",
+      "spider": "2019-01-19 20:58:14 +0000",
+      "enderman": "2019-01-21 05:00:32 +0000"
     },
     "done": false
   },
@@ -1679,11 +1686,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "taiga_cold_hills": "2019-01-20 03:32:46 +0000",
+      "ice_flats": "2019-01-21 05:16:12 +0000",
       "forest": "2019-01-19 20:51:25 +0000",
+      "birch_forest": "2019-01-21 05:15:51 +0000",
+      "deep_ocean": "2019-01-21 05:15:57 +0000",
+      "forest_hills": "2019-01-21 05:13:46 +0000",
       "savanna": "2019-01-18 22:21:33 +0000",
       "plains": "2019-01-19 20:52:00 +0000",
       "taiga": "2019-01-19 20:50:15 +0000",
       "taiga_hills": "2019-01-20 01:38:25 +0000",
+      "taiga_cold": "2019-01-20 03:32:10 +0000",
+      "ocean": "2019-01-20 03:38:07 +0000",
       "river": "2019-01-18 22:20:20 +0000",
       "desert": "2019-01-18 22:25:13 +0000"
     },
@@ -3231,6 +3245,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2019-01-21 05:40:45 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/jacaranda_stairs": {
     "criteria": {
       "has_the_recipe": "2019-01-18 22:20:18 +0000"
@@ -3576,6 +3596,12 @@
   "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
     "criteria": {
       "has_the_recipe": "2019-01-18 22:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-01-21 04:59:43 +0000"
     },
     "done": true
   },
