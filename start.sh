@@ -14,6 +14,7 @@ MONGO=$(cat ~/.mongo)
 #CURRENT_VERSION="$(curl -s 'https://raw.githubusercontent.com/worldautomation/WA-Launcher-Pack/master/app/assets/distribution.json' | awk '/version/{i++}i==2{print; exit}' | awk -F "\"*:\"*" '{print $2}' | cut -c 3- | cut -c -7)"
 if ! screen -list | grep -q "resist"; then
 	echo "Server is starting!"
+	bash push.sh
 	
 	# MagiBridge MySQL
 	rm /storage/resist-server-pack/plugins/magibridge/MagiBridge.conf;
@@ -98,7 +99,6 @@ if ! screen -list | grep -q "resist"; then
 	rm server.properties
 	sed s/MCR_PASS/$MCR_PASS/g server.properties.template > server.properties
 	#sudo screen -dmS resist sudo java -Xmx8G -Xms6G -jar forge-1.12.2-14.23.5.2768-universal.jar nogui
-	bash push.sh
 	sudo screen -dmS resist sudo java -server -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=3 -XX:+AggressiveOpts -Xms1G -Xmx8G -jar forge-1.12.2-14.23.5.2807-universal.jar nogui
 else
 	echo "Server already started!";
