@@ -228,151 +228,187 @@
         {
           "ContentVersion": 2,
           "ItemType": "littlelooter:barbed_wire",
-          "Count": 32,
+          "Count": 64,
           "UnsafeDamage": 0
         },
         {
           "ContentVersion": 2,
           "ItemType": "chisel:technicalnew",
-          "Count": 32,
+          "Count": 64,
           "UnsafeDamage": 2
         },
         {
           "ContentVersion": 2,
           "ItemType": "techguns:metalpanel",
-          "Count": 32,
+          "Count": 64,
           "UnsafeDamage": 6
         },
         {
           "ContentVersion": 2,
+          "ItemType": "icbmclassic:concrete",
+          "Count": 64,
+          "UnsafeDamage": 1
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "icbmclassic:concrete",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "icbmclassic:concrete",
+          "Count": 64,
+          "UnsafeDamage": 2
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "icbmclassic:concrete",
+          "Count": 64,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "icbmclassic:concrete",
+          "Count": 64,
+          "UnsafeDamage": 1
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "icbmclassic:concrete",
+          "Count": 64,
+          "UnsafeDamage": 2
+        },
+        {
+          "ContentVersion": 2,
           "ItemType": "chisel:technical",
-          "Count": 32,
+          "Count": 64,
           "UnsafeDamage": 0
         },
         {
           "ContentVersion": 2,
           "ItemType": "chisel:technical",
-          "Count": 32,
+          "Count": 64,
           "UnsafeDamage": 12
         },
         {
           "ContentVersion": 2,
           "ItemType": "chisel:factory",
-          "Count": 32,
+          "Count": 64,
           "UnsafeDamage": 0
         },
         {
           "ContentVersion": 2,
           "ItemType": "chisel:factory",
-          "Count": 32,
+          "Count": 64,
           "UnsafeDamage": 1
         },
         {
           "ContentVersion": 2,
           "ItemType": "chisel:factory",
-          "Count": 32,
+          "Count": 64,
           "UnsafeDamage": 9
         },
         {
           "ContentVersion": 2,
           "ItemType": "techguns:metalpanel",
-          "Count": 32,
+          "Count": 64,
           "UnsafeDamage": 5
         },
         {
           "ContentVersion": 2,
           "ItemType": "galacticraftcore:arclamp",
-          "Count": 2,
+          "Count": 64,
           "UnsafeDamage": 0
         },
         {
           "ContentVersion": 2,
           "ItemType": "randomthings:rainshield",
-          "Count": 1,
+          "Count": 64,
           "UnsafeDamage": 0
         },
         {
           "ContentVersion": 2,
           "ItemType": "techguns:sandbags",
-          "Count": 32,
+          "Count": 64,
           "UnsafeDamage": 0
         },
         {
           "ContentVersion": 2,
           "ItemType": "techguns:ladder0",
-          "Count": 17,
+          "Count": 64,
           "UnsafeDamage": 8
         },
         {
           "ContentVersion": 2,
           "ItemType": "cfm:electric_fence",
-          "Count": 20,
+          "Count": 64,
           "UnsafeDamage": 0
         },
         {
           "ContentVersion": 2,
           "ItemType": "techguns:lamp0",
-          "Count": 3,
+          "Count": 64,
           "UnsafeDamage": 0
         },
         {
           "ContentVersion": 2,
           "ItemType": "techguns:item_door3x3",
-          "Count": 1,
+          "Count": 64,
           "UnsafeDamage": 0
         },
         {
           "ContentVersion": 2,
           "ItemType": "malisisdoors:rustyladder",
-          "Count": 17,
+          "Count": 64,
           "UnsafeDamage": 0
         },
         {
           "ContentVersion": 2,
           "ItemType": "techguns:lamp0",
-          "Count": 3,
+          "Count": 64,
           "UnsafeDamage": 6
         },
         {
           "ContentVersion": 2,
           "ItemType": "techguns:item_bunkerdoor",
-          "Count": 2,
+          "Count": 64,
           "UnsafeDamage": 0
         },
         {
           "ContentVersion": 2,
           "ItemType": "malisisdoors:verticalhatch",
-          "Count": 1,
+          "Count": 64,
           "UnsafeDamage": 0
         },
         {
           "ContentVersion": 2,
           "ItemType": "malisisdoors:garage_door",
-          "Count": 9,
+          "Count": 64,
           "UnsafeDamage": 0
         },
         {
           "ContentVersion": 2,
           "ItemType": "ic2:glass",
-          "Count": 16,
+          "Count": 64,
           "UnsafeDamage": 0
         },
         {
           "ContentVersion": 2,
           "ItemType": "projectred-illumination:inverted_cage_lamp",
-          "Count": 7,
+          "Count": 64,
           "UnsafeDamage": 4
         },
         {
           "ContentVersion": 2,
           "ItemType": "projectred-illumination:inverted_cage_lamp",
-          "Count": 7,
+          "Count": 64,
           "UnsafeDamage": 0
         },
         {
           "ContentVersion": 2,
           "ItemType": "techguns:metalpanel",
-          "Count": 32,
+          "Count": 64,
           "UnsafeDamage": 4
         },
         {
@@ -396,13 +432,13 @@
         {
           "ContentVersion": 2,
           "ItemType": "matteroverdrive:tritanium_crate",
-          "Count": 3,
+          "Count": 64,
           "UnsafeDamage": 0
         },
         {
           "ContentVersion": 2,
           "ItemType": "immersiveengineering:metal_decoration2",
-          "Count": 32,
+          "Count": 64,
           "UnsafeDamage": 5
         }
       ],

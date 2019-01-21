@@ -446,6 +446,43 @@
       "interval": 0,
       "oneTime": false,
       "commands": []
+    },
+    "creative": {
+      "ignoresPermission": false,
+      "displayMessage": true,
+      "cost": 0.0,
+      "firstJoin": false,
+      "hidden": false,
+      "stacks": [
+        {
+          "ContentVersion": 2,
+          "ItemType": "minecraft:mob_spawner",
+          "Count": 1,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "extrautils2:creativeenergy",
+          "Count": 1,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "extrautils2:creativechest",
+          "Count": 1,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "extrautils2:itemcreativebuilderswand",
+          "Count": 1,
+          "UnsafeDamage": 0
+        }
+      ],
+      "autoRedeem": false,
+      "interval": 0,
+      "oneTime": false,
+      "commands": []
     }
   }
 }
