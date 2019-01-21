@@ -2130,7 +2130,79 @@
     },
     {
       "item": "minecraft:bookshelf|0",
-      "emc": 408
+      "emc": 430
+    },
+    {
+      "item": "minecraft:mossy_cobblestone|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:oak_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "minecraft:diamond_block|0",
+      "emc": 73728
+    },
+    {
+      "item": "minecraft:coal|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:torch|0",
+      "emc": 9
+    },
+    {
+      "item": "minecraft:lit_pumpkin|0",
+      "emc": 153
+    },
+    {
+      "item": "minecraft:stonebrick|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stonebrick|1",
+      "emc": 2
+    },
+    {
+      "item": "minecraft:melon_block|0",
+      "emc": 144
+    },
+    {
+      "item": "minecraft:brick_stairs|0",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:nether_brick_stairs|0",
+      "emc": 3
+    },
+    {
+      "item": "minecraft:wooden_slab|0",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:wooden_slab|1",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:wooden_slab|2",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:wooden_slab|3",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:wooden_slab|4",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:wooden_slab|5",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:emerald_block|0",
+      "emc": 147456
     }
   ]
 }
