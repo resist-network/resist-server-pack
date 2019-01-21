@@ -2203,6 +2203,722 @@
     {
       "item": "minecraft:emerald_block|0",
       "emc": 147456
+    },
+    {
+      "item": "minecraft:spruce_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "minecraft:birch_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "minecraft:jungle_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "minecraft:acacia_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "minecraft:dark_oak_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "minecraft:prismarine_crystals|0",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:prismarine_shard|0",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:prismarine|0",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:prismarine|1",
+      "emc": 1152
+    },
+    {
+      "item": "minecraft:prismarine|2",
+      "emc": 1030
+    },
+    {
+      "item": "minecraft:sea_lantern|0",
+      "emc": 1152
+    },
+    {
+      "item": "minecraft:hay_block|0",
+      "emc": 216
+    },
+    {
+      "item": "minecraft:coal_block|0",
+      "emc": 288
+    },
+    {
+      "item": "minecraft:packed_ice|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:end_bricks|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:purpur_block|0",
+      "emc": 192
+    },
+    {
+      "item": "minecraft:purpur_stairs|0",
+      "emc": 144
+    },
+    {
+      "item": "minecraft:purpur_pillar|0",
+      "emc": 192
+    },
+    {
+      "item": "minecraft:purpur_slab|0",
+      "emc": 96
+    },
+    {
+      "item": "minecraft:nether_wart_block|0",
+      "emc": 216
+    },
+    {
+      "item": "minecraft:red_nether_brick|0",
+      "emc": 50
+    },
+    {
+      "item": "minecraft:bone_block|0",
+      "emc": 324
+    },
+    {
+      "item": "minecraft:concrete|0",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|1",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|2",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|3",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|4",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|5",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|6",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|7",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|8",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|15",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|14",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|13",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|12",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|11",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|10",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete|9",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|0",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|1",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|2",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|3",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|4",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|5",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|6",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|7",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|8",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|15",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|14",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|13",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|12",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|11",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|10",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:concrete_powder|9",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:red_flower|7",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:red_flower|6",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:red_flower|5",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:red_flower|4",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:yellow_flower|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:red_flower|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:red_flower|1",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:red_flower|2",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:red_flower|3",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:red_flower|8",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:chest|0",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:crafting_table|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:furnace|0",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:ladder|0",
+      "emc": 9
+    },
+    {
+      "item": "minecraft:jukebox|0",
+      "emc": 8256
+    },
+    {
+      "item": "minecraft:fence|0",
+      "emc": 13
+    },
+    {
+      "item": "minecraft:iron_bars|0",
+      "emc": 96
+    },
+    {
+      "item": "minecraft:nether_brick_fence|0",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:enchanting_table|0",
+      "emc": 16768
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 307
+    },
+    {
+      "item": "minecraft:ender_eye|0",
+      "emc": 1331
+    },
+    {
+      "item": "minecraft:ender_chest|0",
+      "emc": 1843
+    },
+    {
+      "item": "minecraft:cobblestone_wall|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:cobblestone_wall|1",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:anvil|0",
+      "emc": 7936
+    },
+    {
+      "item": "minecraft:anvil|1",
+      "emc": 3968
+    },
+    {
+      "item": "minecraft:anvil|2",
+      "emc": 1984
+    },
+    {
+      "item": "minecraft:slime|0",
+      "emc": 288
+    },
+    {
+      "item": "minecraft:carpet|1",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|2",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|3",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|4",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|5",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|6",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|7",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|8",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|9",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|15",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|14",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|13",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|12",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|11",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:carpet|10",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:double_plant|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:double_plant|1",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:double_plant|4",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:double_plant|5",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:spruce_fence|0",
+      "emc": 13
+    },
+    {
+      "item": "minecraft:birch_fence|0",
+      "emc": 13
+    },
+    {
+      "item": "minecraft:jungle_fence|0",
+      "emc": 13
+    },
+    {
+      "item": "minecraft:dark_oak_fence|0",
+      "emc": 13
+    },
+    {
+      "item": "minecraft:acacia_fence|0",
+      "emc": 13
+    },
+    {
+      "item": "minecraft:end_rod|0",
+      "emc": 432
+    },
+    {
+      "item": "minecraft:shulker_shell|0",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:white_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:orange_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:magenta_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:light_blue_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:yellow_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:lime_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:pink_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:gray_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:silver_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:black_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:red_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:green_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:brown_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:blue_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:purple_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:cyan_shulker_box|0",
+      "emc": 2112
+    },
+    {
+      "item": "minecraft:painting|0",
+      "emc": 80
+    },
+    {
+      "item": "minecraft:sign|0",
+      "emc": 17
+    },
+    {
+      "item": "minecraft:bed|0",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|1",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|2",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|3",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|4",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|5",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|6",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|7",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|8",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|15",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|14",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|13",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|12",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|11",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|10",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:bed|9",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:item_frame|0",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:flower_pot|0",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:armor_stand|0",
+      "emc": 25
+    },
+    {
+      "item": "minecraft:banner|15",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|14",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|13",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|12",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|11",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|10",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|9",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|8",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|7",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|0",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|1",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|2",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|3",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|4",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|5",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:banner|6",
+      "emc": 292
+    },
+    {
+      "item": "minecraft:ghast_tear|0",
+      "emc": 2048
+    },
+    {
+      "item": "minecraft:end_crystal|0",
+      "emc": 3386
+    },
+    {
+      "item": "minecraft:stone_button|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:redstone_torch|0",
+      "emc": 68
+    },
+    {
+      "item": "minecraft:wooden_pressure_plate|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:stone_pressure_plate|0",
+      "emc": 2
+    },
+    {
+      "item": "minecraft:lever|0",
+      "emc": 5
+    },
+    {
+      "item": "minecraft:tnt|0",
+      "emc": 984
+    },
+    {
+      "item": "minecraft:piston|0",
+      "emc": 348
+    },
+    {
+      "item": "minecraft:sticky_piston|0",
+      "emc": 380
+    },
+    {
+      "item": "minecraft:bow|0",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:dispenser|0",
+      "emc": 119
+    },
+    {
+      "item": "minecraft:noteblock|0",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:trapdoor|0",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:fence_gate|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:tripwire_hook|0",
+      "emc": 134
+    },
+    {
+      "item": "minecraft:wooden_button|0",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:trapped_chest|0",
+      "emc": 198
     }
   ]
 }

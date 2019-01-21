@@ -84,6 +84,16 @@
     },
     {
       "context": {
+        "world": "dev",
+        "gp_claim_defaults": "admin"
+      },
+      "data": {
+        "griefprevention.flag.entity-chunk-spawn": false,
+        "griefprevention.flag.entity-spawn": false
+      }
+    },
+    {
+      "context": {
         "world": "alpha",
         "gp_claim_defaults": "admin"
       },
@@ -109,7 +119,9 @@
         "gp_claim": "eb582671-865e-401d-b7a3-55754cb17043"
       },
       "data": {
+        "griefprevention.flag.interact-block-primary.malisisdoors.garage_door": true,
         "griefprevention.flag.interact-block-primary.minecraft.lever": true,
+        "griefprevention.flag.interact-block-secondary.malisisdoors.garage_door": true,
         "griefprevention.flag.interact-block-secondary.minecraft.lever": true
       }
     },
