@@ -5,7 +5,7 @@ currency {
         default=true
         prefix-symbol=true
         startbalance="100"
-        symbol="߷"
+        symbol="\u269b"
         transferable=true
     }
 }
@@ -17,9 +17,9 @@ database {
 }
 features {
     jobs {
-        enable=false
-        notifications=false
-        salary=false
+        enable=true
+        notifications=true
+        salary=true
     }
     moneycap {
         amount=10000000
@@ -29,7 +29,7 @@ features {
         min-item-price=0
         max-item-price=1000000000
         chestshop {
-            enable=true
+            enable=false
             price=1000
         }
     }
