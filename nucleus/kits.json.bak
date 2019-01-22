@@ -331,7 +331,7 @@
       "ignoresPermission": false,
       "displayMessage": true,
       "cost": 0.0,
-      "firstJoin": true,
+      "firstJoin": false,
       "hidden": false,
       "stacks": [
         {
