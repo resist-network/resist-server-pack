@@ -95,12 +95,12 @@
   "firstspawn": {
     "world": "6396e8c2-bc76-4d26-a4d3-46df5a35c1d8",
     "rotx": 4.6806416511535645,
-    "rotz": 0.0,
+    "rotz": 0,
     "roty": 269.6533203125,
     "x": -249.5,
-    "y": 198.0,
+    "y": 198,
     "z": -578.5
   },
-  "jails": {},
-  "warpCategories": {}
+  "warpCategories": {},
+  "jails": {}
 }
