@@ -50,6 +50,9 @@
       "rotz": 0.0,
       "roty": 0.0,
       "x": 3.0,
+      "description": {
+        "text": "The Apocalyptic, War Ruined Earth..."
+      },
       "y": 56.0,
       "z": -368.0
     },
@@ -60,6 +63,9 @@
       "rotz": 0.0,
       "roty": 269.6533203125,
       "x": -249.5,
+      "description": {
+        "text": "A brave new world... Dangerous, but Beautiful!"
+      },
       "y": 198.0,
       "z": -578.5
     },
@@ -70,6 +76,9 @@
       "rotz": 0.0,
       "roty": 357.1428527832031,
       "x": 21.5,
+      "description": {
+        "text": "Development World, Staff Only"
+      },
       "y": 3.0,
       "z": -1131.5
     }

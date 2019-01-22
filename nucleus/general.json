@@ -7,6 +7,9 @@
       "rotz": 0.0,
       "roty": 179.37387084960938,
       "x": -89.49715844122666,
+      "description": {
+        "text": "Market Trial Dugeon, Get your Market Access Here"
+      },
       "y": 4.0,
       "z": -995.3679855679476
     },
@@ -30,6 +33,9 @@
       "rotz": 0.0,
       "roty": 0.0,
       "x": 0.0,
+      "description": {
+        "text": "Dark Skylands"
+      },
       "y": 76.0,
       "z": 0.0
     },
@@ -40,6 +46,9 @@
       "rotz": 0.0,
       "roty": 31.800012588500977,
       "x": 310.91413698584245,
+      "description": {
+        "text": "Light Skylands"
+      },
       "y": 70.0,
       "z": 227.6763618152599
     },
@@ -50,6 +59,9 @@
       "rotz": 0.0,
       "roty": 0.0,
       "x": 3.0,
+      "description": {
+        "text": "The Apocalyptic, War Ruined Earth..."
+      },
       "y": 56.0,
       "z": -368.0
     },
@@ -60,6 +72,9 @@
       "rotz": 0.0,
       "roty": 269.6533203125,
       "x": -249.5,
+      "description": {
+        "text": "A brave new world... Dangerous, but Beautiful!"
+      },
       "y": 198.0,
       "z": -578.5
     },
@@ -70,6 +85,9 @@
       "rotz": 0.0,
       "roty": 357.1428527832031,
       "x": 21.5,
+      "description": {
+        "text": "Development World, Staff Only"
+      },
       "y": 3.0,
       "z": -1131.5
     }
