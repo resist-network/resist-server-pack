@@ -1,0 +1,69 @@
+# 4.3.0
+# # If you need help with the configuration or have any questions related to GriefPrevention,
+# # join us on Discord or drop by our forums and leave a post.
+# # Discord: https://discord.gg/jy4FQDz
+# # Forums: https://forums.spongepowered.org/t/griefprevention-official-thread-1-10-1-11-1-12/1123
+# 
+
+GriefPrevention {
+    accessor-groups=[]
+    accessors=[]
+    builder-groups=[]
+    builders=[]
+    claim-expiration=true
+    claim-farewell {
+        extra=[
+            {
+                bold=true
+                color="dark_red"
+                text=ALPHA
+            },
+            {
+                color=white
+                text=" Spawn!"
+            }
+        ]
+        text="You are leaving the "
+    }
+    claim-greeting {
+        extra=[
+            {
+                bold=true
+                color="dark_red"
+                text=ALPHA
+            },
+            {
+                color=white
+                text=" Spawn!"
+            }
+        ]
+        text="Welcome to the "
+    }
+    claim-type=ADMIN
+    container-groups=[]
+    containers=[]
+    cuboid=false
+    date-created="2019-01-18T10:47:53.515Z"
+    date-last-active="2019-01-18T10:47:53.515Z"
+    deny-messages=true
+    economyData {
+        bankTransactionLog=[]
+        for-sale=false
+        sale-price=0.0
+        tax-balance=0.0
+    }
+    flag-overrides=true
+    greater-boundary-corner="-19;255;60"
+    inherit-parent=true
+    isExpired=false
+    lesser-boundary-corner="-56;0;12"
+    manager-groups=[]
+    managers=[]
+    owner-uuid=e9893eaa-6432-447d-97d4-e61369479971
+    pvp=UNDEFINED
+    requires-claim-blocks=true
+    resizable=true
+    sizeRestrictions=false
+    subdivisions {}
+    world-uuid=b57fb5db-b604-42e5-b12a-d2c68ec4aca8
+}
