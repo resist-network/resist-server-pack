@@ -2422,43 +2422,43 @@
     },
     {
       "item": "minecraft:red_flower|7",
-      "emc": 0
+      "emc": 36
     },
     {
       "item": "minecraft:red_flower|6",
-      "emc": 0
+      "emc": 36
     },
     {
       "item": "minecraft:red_flower|5",
-      "emc": 0
+      "emc": 36
     },
     {
       "item": "minecraft:red_flower|4",
-      "emc": 0
+      "emc": 36
     },
     {
       "item": "minecraft:yellow_flower|0",
-      "emc": 0
+      "emc": 36
     },
     {
       "item": "minecraft:red_flower|0",
-      "emc": 0
+      "emc": 36
     },
     {
       "item": "minecraft:red_flower|1",
-      "emc": 0
+      "emc": 36
     },
     {
       "item": "minecraft:red_flower|2",
-      "emc": 0
+      "emc": 36
     },
     {
       "item": "minecraft:red_flower|3",
-      "emc": 0
+      "emc": 36
     },
     {
       "item": "minecraft:red_flower|8",
-      "emc": 0
+      "emc": 36
     },
     {
       "item": "minecraft:chest|0",
@@ -2594,19 +2594,19 @@
     },
     {
       "item": "minecraft:double_plant|0",
-      "emc": 0
+      "emc": 36
     },
     {
       "item": "minecraft:double_plant|1",
-      "emc": 0
+      "emc": 36
     },
     {
       "item": "minecraft:double_plant|4",
-      "emc": 0
+      "emc": 36
     },
     {
       "item": "minecraft:double_plant|5",
-      "emc": 0
+      "emc": 36
     },
     {
       "item": "minecraft:spruce_fence|0",
@@ -3151,6 +3151,1986 @@
     {
       "item": "minecraft:diamond_axe|0",
       "emc": 24584
+    },
+    {
+      "item": "minecraft:iron_hoe|0",
+      "emc": 520
+    },
+    {
+      "item": "minecraft:stone_hoe|0",
+      "emc": 10
+    },
+    {
+      "item": "minecraft:wooden_hoe|0",
+      "emc": 18
+    },
+    {
+      "item": "minecraft:bowl|0",
+      "emc": 6
+    },
+    {
+      "item": "minecraft:mushroom_stew|0",
+      "emc": 70
+    },
+    {
+      "item": "minecraft:golden_sword|0",
+      "emc": 4100
+    },
+    {
+      "item": "minecraft:golden_shovel|0",
+      "emc": 2056
+    },
+    {
+      "item": "minecraft:golden_pickaxe|0",
+      "emc": 6152
+    },
+    {
+      "item": "minecraft:golden_axe|0",
+      "emc": 6152
+    },
+    {
+      "item": "minecraft:golden_hoe|0",
+      "emc": 4104
+    },
+    {
+      "item": "minecraft:bread|0",
+      "emc": 24
+    },
+    {
+      "item": "minecraft:diamond_hoe|0",
+      "emc": 16392
+    },
+    {
+      "item": "minecraft:leather_helmet|0",
+      "emc": 320
+    },
+    {
+      "item": "minecraft:leather_chestplate|0",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:leather_boots|0",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:leather_leggings|0",
+      "emc": 224
+    },
+    {
+      "item": "tp:chainmail_part|0",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:chainmail_helmet|0",
+      "emc": 640
+    },
+    {
+      "item": "minecraft:chainmail_chestplate|0",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:chainmail_leggings|0",
+      "emc": 896
+    },
+    {
+      "item": "minecraft:chainmail_boots|0",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:iron_helmet|0",
+      "emc": 1280
+    },
+    {
+      "item": "minecraft:iron_chestplate|0",
+      "emc": 2048
+    },
+    {
+      "item": "minecraft:iron_leggings|0",
+      "emc": 1792
+    },
+    {
+      "item": "minecraft:iron_boots|0",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:diamond_helmet|0",
+      "emc": 40960
+    },
+    {
+      "item": "minecraft:diamond_chestplate|0",
+      "emc": 65536
+    },
+    {
+      "item": "minecraft:diamond_leggings|0",
+      "emc": 57344
+    },
+    {
+      "item": "minecraft:diamond_boots|0",
+      "emc": 32768
+    },
+    {
+      "item": "minecraft:golden_helmet|0",
+      "emc": 10240
+    },
+    {
+      "item": "minecraft:golden_chestplate|0",
+      "emc": 16384
+    },
+    {
+      "item": "minecraft:golden_leggings|0",
+      "emc": 14336
+    },
+    {
+      "item": "minecraft:golden_boots|0",
+      "emc": 8192
+    },
+    {
+      "item": "minecraft:golden_apple|0",
+      "emc": 16512
+    },
+    {
+      "item": "minecraft:bucket|0",
+      "emc": 768
+    },
+    {
+      "item": "minecraft:water_bucket|0",
+      "emc": 768
+    },
+    {
+      "item": "minecraft:lava_bucket|0",
+      "emc": 800
+    },
+    {
+      "item": "minecraft:compass|0",
+      "emc": 1088
+    },
+    {
+      "item": "minecraft:clock|0",
+      "emc": 8256
+    },
+    {
+      "item": "minecraft:dye|13",
+      "emc": 36
+    },
+    {
+      "item": "minecraft:dye|14",
+      "emc": 36
+    },
+    {
+      "item": "minecraft:dye|5",
+      "emc": 36
+    },
+    {
+      "item": "minecraft:dye|6",
+      "emc": 36
+    },
+    {
+      "item": "minecraft:dye|7",
+      "emc": 36
+    },
+    {
+      "item": "minecraft:dye|9",
+      "emc": 36
+    },
+    {
+      "item": "minecraft:dye|8",
+      "emc": 36
+    },
+    {
+      "item": "minecraft:dye|10",
+      "emc": 36
+    },
+    {
+      "item": "minecraft:dye|12",
+      "emc": 36
+    },
+    {
+      "item": "actuallyadditions:item_misc|17",
+      "emc": 36
+    },
+    {
+      "item": "biomesoplenty:brown_dye|0",
+      "emc": 36
+    },
+    {
+      "item": "biomesoplenty:white_dye|0",
+      "emc": 36
+    },
+    {
+      "item": "biomesoplenty:black_dye|0",
+      "emc": 36
+    },
+    {
+      "item": "biomesoplenty:green_dye|0",
+      "emc": 36
+    },
+    {
+      "item": "biomesoplenty:blue_dye|0",
+      "emc": 36
+    },
+    {
+      "item": "industrialforegoing:artificial_dye|0",
+      "emc": 36
+    },
+    {
+      "item": "industrialforegoing:artificial_dye|1",
+      "emc": 36
+    },
+    {
+      "item": "industrialforegoing:artificial_dye|2",
+      "emc": 36
+    },
+    {
+      "item": "enderio:item_material|48",
+      "emc": 36
+    },
+    {
+      "item": "enderio:item_material|49",
+      "emc": 36
+    },
+    {
+      "item": "enderio:item_material|50",
+      "emc": 36
+    },
+    {
+      "item": "industrialforegoing:artificial_dye|3",
+      "emc": 36
+    },
+    {
+      "item": "industrialforegoing:artificial_dye|4",
+      "emc": 36
+    },
+    {
+      "item": "industrialforegoing:artificial_dye|5",
+      "emc": 36
+    },
+    {
+      "item": "industrialforegoing:artificial_dye|8",
+      "emc": 36
+    },
+    {
+      "item": "industrialforegoing:artificial_dye|7",
+      "emc": 36
+    },
+    {
+      "item": "industrialforegoing:artificial_dye|6",
+      "emc": 36
+    },
+    {
+      "item": "industrialforegoing:artificial_dye|9",
+      "emc": 36
+    },
+    {
+      "item": "industrialforegoing:artificial_dye|10",
+      "emc": 36
+    },
+    {
+      "item": "industrialforegoing:artificial_dye|11",
+      "emc": 36
+    },
+    {
+      "item": "industrialforegoing:artificial_dye|15",
+      "emc": 36
+    },
+    {
+      "item": "industrialforegoing:artificial_dye|12",
+      "emc": 36
+    },
+    {
+      "item": "industrialforegoing:artificial_dye|13",
+      "emc": 36
+    },
+    {
+      "item": "industrialforegoing:artificial_dye|14",
+      "emc": 36
+    },
+    {
+      "item": "minecraft:cactus|0",
+      "emc": 36
+    },
+    {
+      "item": "minecraft:dye|2",
+      "emc": 36
+    },
+    {
+      "item": "biomesoplenty:plant_1|6",
+      "emc": 36
+    },
+    {
+      "item": "randomthings:dyeingmachine|0",
+      "emc": 188
+    },
+    {
+      "item": "cookingforblockheads:fridge|0",
+      "emc": 576
+    },
+    {
+      "item": "minecraft:dye|11",
+      "emc": 36
+    },
+    {
+      "item": "minecraft:sugar|0",
+      "emc": 10
+    },
+    {
+      "item": "minecraft:cake|0",
+      "emc": 172
+    },
+    {
+      "item": "minecraft:dye|3",
+      "emc": 36
+    },
+    {
+      "item": "minecraft:cookie|0",
+      "emc": 7
+    },
+    {
+      "item": "minecraft:shears|0",
+      "emc": 512
+    },
+    {
+      "item": "immersiveengineering:seed|0",
+      "emc": 16
+    },
+    {
+      "item": "actuallyadditions:item_coffee_seed|0",
+      "emc": 16
+    },
+    {
+      "item": "actuallyadditions:item_flax_seed|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:pumpkin_seeds|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:melon_seeds|0",
+      "emc": 16
+    },
+    {
+      "item": "actuallyadditions:item_rice_seed|0",
+      "emc": 16
+    },
+    {
+      "item": "actuallyadditions:item_canola_seed|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:potion|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:glass_bottle|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:spider_eye|0",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:fermented_spider_eye|0",
+      "emc": 106
+    },
+    {
+      "item": "minecraft:magma_cream|0",
+      "emc": 339
+    },
+    {
+      "item": "minecraft:brewing_stand|0",
+      "emc": 1539
+    },
+    {
+      "item": "minecraft:gold_nugget|0",
+      "emc": 227
+    },
+    {
+      "item": "minecraft:speckled_melon|0",
+      "emc": 1832
+    },
+    {
+      "item": "minecraft:experience_bottle|0",
+      "emc": 8192
+    },
+    {
+      "item": "actuallyadditions:item_solidified_experience|0",
+      "emc": 8192
+    },
+    {
+      "item": "minecraft:fire_charge|0",
+      "emc": 177
+    },
+    {
+      "item": "minecraft:writable_book|0",
+      "emc": 212
+    },
+    {
+      "item": "minecraft:map|0",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:golden_carrot|0",
+      "emc": 1880
+    },
+    {
+      "item": "minecraft:pumpkin_pie|0",
+      "emc": 186
+    },
+    {
+      "item": "minecraft:rabbit_stew|0",
+      "emc": 230
+    },
+    {
+      "item": "minecraft:lead|0",
+      "emc": 40
+    },
+    {
+      "item": "minecraft:beetroot_soup|0",
+      "emc": 390
+    },
+    {
+      "item": "minecraft:dragon_breath|0",
+      "emc": 65536
+    },
+    {
+      "item": "minecraft:spectral_arrow|0",
+      "emc": 519
+    },
+    {
+      "item": "minecraft:shield|0",
+      "emc": 304
+    },
+    {
+      "item": "modularforcefieldsystem:forcicium|0",
+      "emc": 786
+    },
+    {
+      "item": "guideapi:minecraft-mffsguide|0",
+      "emc": 914
+    },
+    {
+      "item": "minecraft:brown_mushroom_block|0",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:red_mushroom_block|0",
+      "emc": 128
+    },
+    {
+      "item": "danknull:danknull_dock|0",
+      "emc": 65856
+    },
+    {
+      "item": "danknull:dank_null_panel|0",
+      "emc": 1409
+    },
+    {
+      "item": "danknull:dank_null_panel|1",
+      "emc": 1297
+    },
+    {
+      "item": "danknull:dank_null_panel|2",
+      "emc": 2177
+    },
+    {
+      "item": "danknull:dank_null_panel|3",
+      "emc": 9345
+    },
+    {
+      "item": "danknull:dank_null_panel|4",
+      "emc": 33921
+    },
+    {
+      "item": "danknull:dank_null_panel|5",
+      "emc": 590977
+    },
+    {
+      "item": "danknull:dank_null|0",
+      "emc": 7045
+    },
+    {
+      "item": "danknull:dank_null|1",
+      "emc": 6485
+    },
+    {
+      "item": "danknull:dank_null|2",
+      "emc": 10885
+    },
+    {
+      "item": "danknull:dank_null|3",
+      "emc": 46725
+    },
+    {
+      "item": "danknull:dank_null|4",
+      "emc": 169605
+    },
+    {
+      "item": "danknull:dank_null|5",
+      "emc": 2954885
+    },
+    {
+      "item": "thermalfoundation:dye|0",
+      "emc": 36
+    },
+    {
+      "item": "thermalfoundation:dye|1",
+      "emc": 36
+    },
+    {
+      "item": "thermalfoundation:dye|2",
+      "emc": 36
+    },
+    {
+      "item": "thermalfoundation:dye|3",
+      "emc": 36
+    },
+    {
+      "item": "thermalfoundation:dye|4",
+      "emc": 36
+    },
+    {
+      "item": "thermalfoundation:dye|5",
+      "emc": 36
+    },
+    {
+      "item": "thermalfoundation:dye|6",
+      "emc": 36
+    },
+    {
+      "item": "thermalfoundation:dye|7",
+      "emc": 36
+    },
+    {
+      "item": "thermalfoundation:dye|8",
+      "emc": 36
+    },
+    {
+      "item": "thermalfoundation:dye|15",
+      "emc": 36
+    },
+    {
+      "item": "thermalfoundation:dye|14",
+      "emc": 36
+    },
+    {
+      "item": "thermalfoundation:dye|13",
+      "emc": 36
+    },
+    {
+      "item": "thermalfoundation:dye|12",
+      "emc": 36
+    },
+    {
+      "item": "thermalfoundation:dye|11",
+      "emc": 36
+    },
+    {
+      "item": "thermalfoundation:dye|10",
+      "emc": 36
+    },
+    {
+      "item": "thermalfoundation:dye|9",
+      "emc": 36
+    },
+    {
+      "item": "actuallyadditions:item_misc|7",
+      "emc": 384
+    },
+    {
+      "item": "actuallyadditions:item_misc|8",
+      "emc": 2200
+    },
+    {
+      "item": "actuallyadditions:item_battery|0",
+      "emc": 3544
+    },
+    {
+      "item": "actuallyadditions:item_battery_double|0",
+      "emc": 7024
+    },
+    {
+      "item": "actuallyadditions:item_battery_triple|0",
+      "emc": 10699
+    },
+    {
+      "item": "actuallyadditions:item_battery_quadruple|0",
+      "emc": 14370
+    },
+    {
+      "item": "actuallyadditions:item_battery_quintuple|0",
+      "emc": 58190
+    },
+    {
+      "item": "actuallyadditions:battery_quintuple_bauble|0",
+      "emc": 58190
+    },
+    {
+      "item": "actuallyadditions:battery_quadruple_bauble|0",
+      "emc": 14370
+    },
+    {
+      "item": "actuallyadditions:battery_triple_bauble|0",
+      "emc": 10699
+    },
+    {
+      "item": "actuallyadditions:battery_double_bauble|0",
+      "emc": 7024
+    },
+    {
+      "item": "actuallyadditions:battery_bauble|0",
+      "emc": 3544
+    },
+    {
+      "item": "actuallyadditions:block_misc|9",
+      "emc": 1168
+    },
+    {
+      "item": "actuallyadditions:block_energizer|0",
+      "emc": 10480
+    },
+    {
+      "item": "actuallyadditions:block_enervator|0",
+      "emc": 5696
+    },
+    {
+      "item": "actuallyadditions:block_battery_box|0",
+      "emc": 16560
+    },
+    {
+      "item": "actuallyadditions:block_item_viewer|0",
+      "emc": 1856
+    },
+    {
+      "item": "actuallyadditions:block_item_viewer_hopping|0",
+      "emc": 3200
+    },
+    {
+      "item": "quark:custom_chest|0",
+      "emc": 64
+    },
+    {
+      "item": "quark:custom_chest|1",
+      "emc": 64
+    },
+    {
+      "item": "quark:custom_chest|2",
+      "emc": 64
+    },
+    {
+      "item": "quark:custom_chest|3",
+      "emc": 64
+    },
+    {
+      "item": "quark:custom_chest|4",
+      "emc": 64
+    },
+    {
+      "item": "quark:custom_chest_trap|4",
+      "emc": 198
+    },
+    {
+      "item": "quark:custom_chest_trap|0",
+      "emc": 198
+    },
+    {
+      "item": "quark:custom_chest_trap|1",
+      "emc": 198
+    },
+    {
+      "item": "quark:custom_chest_trap|2",
+      "emc": 198
+    },
+    {
+      "item": "quark:custom_chest_trap|3",
+      "emc": 198
+    },
+    {
+      "item": "ironchest:iron_chest|7",
+      "emc": 72
+    },
+    {
+      "item": "ironchest:iron_chest|3",
+      "emc": 1088
+    },
+    {
+      "item": "ironchest:iron_chest|0",
+      "emc": 2116
+    },
+    {
+      "item": "ironchest:iron_chest|4",
+      "emc": 4168
+    },
+    {
+      "item": "ironchest:iron_chest|1",
+      "emc": 12364
+    },
+    {
+      "item": "ironchest:iron_chest|2",
+      "emc": 28754
+    },
+    {
+      "item": "ironchest:iron_chest|5",
+      "emc": 28762
+    },
+    {
+      "item": "ironchest:iron_chest|6",
+      "emc": 29266
+    },
+    {
+      "item": "actuallyadditions:block_farmer|0",
+      "emc": 3536
+    },
+    {
+      "item": "actuallyadditions:block_bio_reactor|0",
+      "emc": 4138
+    },
+    {
+      "item": "actuallyadditions:block_display_stand|0",
+      "emc": 5272
+    },
+    {
+      "item": "actuallyadditions:block_empowerer|0",
+      "emc": 14696
+    },
+    {
+      "item": "actuallyadditions:block_shock_suppressor|0",
+      "emc": 2876
+    },
+    {
+      "item": "actuallyadditions:item_misc|10",
+      "emc": 4
+    },
+    {
+      "item": "actuallyadditions:item_misc|11",
+      "emc": 4
+    },
+    {
+      "item": "actuallyadditions:block_tiny_torch|0",
+      "emc": 4
+    },
+    {
+      "item": "actuallyadditions:block_misc|8",
+      "emc": 12932
+    },
+    {
+      "item": "actuallyadditions:block_player_interface|0",
+      "emc": 91700
+    },
+    {
+      "item": "actuallyadditions:block_black_lotus|0",
+      "emc": 36
+    },
+    {
+      "item": "actuallyadditions:block_atomic_reconstructor|0",
+      "emc": 1680
+    },
+    {
+      "item": "actuallyadditions:item_misc|16",
+      "emc": 9664
+    },
+    {
+      "item": "actuallyadditions:item_drill|3",
+      "emc": 45552
+    },
+    {
+      "item": "actuallyadditions:item_drill|0",
+      "emc": 45552
+    },
+    {
+      "item": "actuallyadditions:item_drill|1",
+      "emc": 45552
+    },
+    {
+      "item": "actuallyadditions:item_drill|2",
+      "emc": 45552
+    },
+    {
+      "item": "actuallyadditions:item_drill|4",
+      "emc": 45552
+    },
+    {
+      "item": "actuallyadditions:item_drill|5",
+      "emc": 45552
+    },
+    {
+      "item": "actuallyadditions:item_drill|6",
+      "emc": 45552
+    },
+    {
+      "item": "actuallyadditions:item_drill|7",
+      "emc": 45552
+    },
+    {
+      "item": "actuallyadditions:item_drill|8",
+      "emc": 45552
+    },
+    {
+      "item": "actuallyadditions:item_drill|14",
+      "emc": 45552
+    },
+    {
+      "item": "actuallyadditions:item_drill|13",
+      "emc": 45552
+    },
+    {
+      "item": "actuallyadditions:item_drill|11",
+      "emc": 45552
+    },
+    {
+      "item": "actuallyadditions:item_drill|10",
+      "emc": 45552
+    },
+    {
+      "item": "actuallyadditions:item_drill|9",
+      "emc": 45552
+    },
+    {
+      "item": "actuallyadditions:item_drill|15",
+      "emc": 45552
+    },
+    {
+      "item": "actuallyadditions:item_drill|12",
+      "emc": 45552
+    },
+    {
+      "item": "chisel:redstone|0",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone|1",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone|2",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone|3",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone|4",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone|5",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone|6",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone|7",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone|8",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone1|1",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone1|0",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone|15",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone|14",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone|13",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone|12",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone|11",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone|10",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone|9",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone1|10",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone1|9",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone1|8",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone1|6",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone1|5",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone1|4",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone1|3",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone1|2",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone1|7",
+      "emc": 576
+    },
+    {
+      "item": "chisel:redstone1|11",
+      "emc": 576
+    },
+    {
+      "item": "actuallyadditions:item_misc|6",
+      "emc": 3328
+    },
+    {
+      "item": "actuallyadditions:item_misc|19",
+      "emc": 205056
+    },
+    {
+      "item": "actuallyadditions:item_suction_ring|0",
+      "emc": 4552
+    },
+    {
+      "item": "actuallyadditions:magnet_ring_bauble|0",
+      "emc": 4552
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|0",
+      "emc": 77121
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring_advanced|0",
+      "emc": 282177
+    },
+    {
+      "item": "actuallyadditions:potion_ring_advanced_bauble|0",
+      "emc": 282177
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|1",
+      "emc": 77893
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring_advanced|1",
+      "emc": 282949
+    },
+    {
+      "item": "actuallyadditions:potion_ring_advanced_bauble|1",
+      "emc": 282949
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|2",
+      "emc": 78309
+    },
+    {
+      "item": "actuallyadditions:potion_ring_advanced_bauble|2",
+      "emc": 283365
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring_advanced|2",
+      "emc": 283365
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|3",
+      "emc": 78473
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring_advanced|3",
+      "emc": 283529
+    },
+    {
+      "item": "actuallyadditions:potion_ring_advanced_bauble|3",
+      "emc": 283529
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|4",
+      "emc": 85273
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring_advanced|4",
+      "emc": 290329
+    },
+    {
+      "item": "actuallyadditions:potion_ring_advanced_bauble|4",
+      "emc": 290329
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|5",
+      "emc": 77209
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring_advanced|5",
+      "emc": 282265
+    },
+    {
+      "item": "actuallyadditions:potion_ring_advanced_bauble|5",
+      "emc": 282265
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|6",
+      "emc": 78437
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring_advanced|6",
+      "emc": 283493
+    },
+    {
+      "item": "actuallyadditions:potion_ring_advanced_bauble|6",
+      "emc": 283493
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|7",
+      "emc": 77337
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring_advanced|7",
+      "emc": 282393
+    },
+    {
+      "item": "actuallyadditions:potion_ring_advanced_bauble|7",
+      "emc": 282393
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|8",
+      "emc": 77505
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring_advanced|8",
+      "emc": 282561
+    },
+    {
+      "item": "actuallyadditions:potion_ring_advanced_bauble|8",
+      "emc": 282561
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring|9",
+      "emc": 84601
+    },
+    {
+      "item": "actuallyadditions:item_potion_ring_advanced|9",
+      "emc": 289657
+    },
+    {
+      "item": "actuallyadditions:potion_ring_advanced_bauble|9",
+      "emc": 289657
+    },
+    {
+      "item": "actuallyadditions:block_firework_box|0",
+      "emc": 2520
+    },
+    {
+      "item": "actuallyadditions:block_miner|0",
+      "emc": 52313
+    },
+    {
+      "item": "actuallyadditions:block_laser_relay|0",
+      "emc": 934
+    },
+    {
+      "item": "actuallyadditions:block_laser_relay_fluids|0",
+      "emc": 934
+    },
+    {
+      "item": "actuallyadditions:block_laser_relay_item|0",
+      "emc": 934
+    },
+    {
+      "item": "actuallyadditions:block_laser_relay_advanced|0",
+      "emc": 1652
+    },
+    {
+      "item": "actuallyadditions:block_laser_relay_extreme|0",
+      "emc": 18428
+    },
+    {
+      "item": "actuallyadditions:block_laser_relay_item_whitelist|0",
+      "emc": 3326
+    },
+    {
+      "item": "actuallyadditions:block_ranged_collector|0",
+      "emc": 4592
+    },
+    {
+      "item": "actuallyadditions:block_breaker|0",
+      "emc": 423
+    },
+    {
+      "item": "actuallyadditions:block_directional_breaker|0",
+      "emc": 1301
+    },
+    {
+      "item": "actuallyadditions:block_leaf_generator|0",
+      "emc": 4733
+    },
+    {
+      "item": "actuallyadditions:block_smiley_cloud|0",
+      "emc": 8384
+    },
+    {
+      "item": "actuallyadditions:block_xp_solidifier|0",
+      "emc": 199072
+    },
+    {
+      "item": "actuallyadditions:block_testifi_bucks_green_stairs|0",
+      "emc": 512
+    },
+    {
+      "item": "actuallyadditions:block_testifi_bucks_green_fence|0",
+      "emc": 512
+    },
+    {
+      "item": "actuallyadditions:block_testifi_bucks_green_slab|0",
+      "emc": 256
+    },
+    {
+      "item": "actuallyadditions:block_colored_lamp|0",
+      "emc": 4368
+    },
+    {
+      "item": "actuallyadditions:block_colored_lamp|1",
+      "emc": 4368
+    },
+    {
+      "item": "actuallyadditions:block_colored_lamp|2",
+      "emc": 4368
+    },
+    {
+      "item": "actuallyadditions:block_colored_lamp|3",
+      "emc": 4368
+    },
+    {
+      "item": "actuallyadditions:block_colored_lamp|4",
+      "emc": 4368
+    },
+    {
+      "item": "actuallyadditions:block_colored_lamp|5",
+      "emc": 4368
+    },
+    {
+      "item": "actuallyadditions:block_colored_lamp|6",
+      "emc": 4368
+    },
+    {
+      "item": "actuallyadditions:block_colored_lamp|7",
+      "emc": 4368
+    },
+    {
+      "item": "actuallyadditions:block_colored_lamp|8",
+      "emc": 4368
+    },
+    {
+      "item": "actuallyadditions:block_colored_lamp|9",
+      "emc": 4368
+    },
+    {
+      "item": "actuallyadditions:block_colored_lamp|10",
+      "emc": 4368
+    },
+    {
+      "item": "actuallyadditions:block_colored_lamp|11",
+      "emc": 4368
+    },
+    {
+      "item": "actuallyadditions:block_colored_lamp|12",
+      "emc": 4368
+    },
+    {
+      "item": "actuallyadditions:block_colored_lamp|13",
+      "emc": 4368
+    },
+    {
+      "item": "actuallyadditions:block_colored_lamp|14",
+      "emc": 4368
+    },
+    {
+      "item": "actuallyadditions:block_colored_lamp|15",
+      "emc": 4368
+    },
+    {
+      "item": "chisel:glowstone|0",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone|1",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone|2",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone|3",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone|4",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone|5",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone|6",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone|7",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone|8",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone1|1",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone1|0",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone|15",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone|14",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone|13",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone|12",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone|11",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone|10",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone|9",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone1|10",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone1|9",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone1|8",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone1|7",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone1|6",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone1|5",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone1|4",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone1|3",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone1|2",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone2|0",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone1|15",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone1|14",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone1|13",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone1|12",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:glowstone1|11",
+      "emc": 1024
+    },
+    {
+      "item": "actuallyadditions:block_lamp_powerer|0",
+      "emc": 4880
+    },
+    {
+      "item": "actuallyadditions:block_lava_factory_controller|0",
+      "emc": 12550
+    },
+    {
+      "item": "actuallyadditions:item_misc|13",
+      "emc": 16
+    },
+    {
+      "item": "actuallyadditions:block_canola_press|0",
+      "emc": 2478
+    },
+    {
+      "item": "actuallyadditions:block_misc|6",
+      "emc": 4096
+    },
+    {
+      "item": "actuallyadditions:block_misc|7",
+      "emc": 180
+    },
+    {
+      "item": "actuallyadditions:block_misc|5",
+      "emc": 288
+    },
+    {
+      "item": "actuallyadditions:block_misc|4",
+      "emc": 80
+    },
+    {
+      "item": "actuallyadditions:block_feeder|0",
+      "emc": 4640
+    },
+    {
+      "item": "actuallyadditions:block_phantomface|0",
+      "emc": 23008
+    },
+    {
+      "item": "actuallyadditions:block_placer|0",
+      "emc": 427
+    },
+    {
+      "item": "actuallyadditions:block_phantom_placer|0",
+      "emc": 23435
+    },
+    {
+      "item": "actuallyadditions:block_phantom_liquiface|0",
+      "emc": 24544
+    },
+    {
+      "item": "actuallyadditions:block_phantom_energyface|0",
+      "emc": 23688
+    },
+    {
+      "item": "actuallyadditions:block_phantom_redstoneface|0",
+      "emc": 23944
+    },
+    {
+      "item": "actuallyadditions:block_phantom_breaker|0",
+      "emc": 23431
+    },
+    {
+      "item": "actuallyadditions:block_grinder|0",
+      "emc": 2074
+    },
+    {
+      "item": "actuallyadditions:block_grinder_double|0",
+      "emc": 9720
+    },
+    {
+      "item": "actuallyadditions:block_giant_chest|0",
+      "emc": 368
+    },
+    {
+      "item": "actuallyadditions:block_giant_chest_medium|0",
+      "emc": 1552
+    },
+    {
+      "item": "actuallyadditions:block_giant_chest_large|0",
+      "emc": 3028
+    },
+    {
+      "item": "actuallyadditions:block_coal_generator|0",
+      "emc": 1238
+    },
+    {
+      "item": "actuallyadditions:block_oil_generator|0",
+      "emc": 2358
+    },
+    {
+      "item": "actuallyadditions:block_fermenting_barrel|0",
+      "emc": 544
+    },
+    {
+      "item": "actuallyadditions:block_compost|0",
+      "emc": 128
+    },
+    {
+      "item": "actuallyadditions:block_furnace_double|0",
+      "emc": 1698
+    },
+    {
+      "item": "actuallyadditions:block_inputter|0",
+      "emc": 464
+    },
+    {
+      "item": "actuallyadditions:block_inputter_advanced|0",
+      "emc": 2856
+    },
+    {
+      "item": "actuallyadditions:block_fishing_net|0",
+      "emc": 16581
+    },
+    {
+      "item": "actuallyadditions:block_furnace_solar|0",
+      "emc": 15036
+    },
+    {
+      "item": "actuallyadditions:block_heat_collector|0",
+      "emc": 6411
+    },
+    {
+      "item": "actuallyadditions:block_item_repairer|0",
+      "emc": 309730
+    },
+    {
+      "item": "actuallyadditions:block_greenhouse_glass|0",
+      "emc": 294
+    },
+    {
+      "item": "actuallyadditions:block_phantom_booster|0",
+      "emc": 45956
+    },
+    {
+      "item": "actuallyadditions:item_coffee_beans|0",
+      "emc": 32
+    },
+    {
+      "item": "actuallyadditions:block_coffee_machine|0",
+      "emc": 2000
+    },
+    {
+      "item": "actuallyadditions:block_fluid_collector|0",
+      "emc": 1959
+    },
+    {
+      "item": "actuallyadditions:block_fluid_placer|0",
+      "emc": 1963
+    },
+    {
+      "item": "actuallyadditions:block_dropper|0",
+      "emc": 2348
+    },
+    {
+      "item": "actuallyadditions:item_engineer_goggles|0",
+      "emc": 257
+    },
+    {
+      "item": "actuallyadditions:item_engineer_goggles_advanced|0",
+      "emc": 619
+    },
+    {
+      "item": "actuallyadditions:item_laser_upgrade_range|0",
+      "emc": 4516
+    },
+    {
+      "item": "actuallyadditions:item_laser_upgrade_invisibility|0",
+      "emc": 567
+    },
+    {
+      "item": "actuallyadditions:item_misc|20",
+      "emc": 16384
+    },
+    {
+      "item": "actuallyadditions:item_spawner_changer|0",
+      "emc": 140752
+    },
+    {
+      "item": "actuallyadditions:item_water_bowl|0",
+      "emc": 6
+    },
+    {
+      "item": "actuallyadditions:item_filter|0",
+      "emc": 896
+    },
+    {
+      "item": "actuallyadditions:item_player_probe|0",
+      "emc": 10196
+    },
+    {
+      "item": "actuallyadditions:item_worm|0",
+      "emc": 64
+    },
+    {
+      "item": "actuallyadditions:item_bag|0",
+      "emc": 496
+    },
+    {
+      "item": "actuallyadditions:item_void_bag|0",
+      "emc": 1872
+    },
+    {
+      "item": "actuallyadditions:item_filling_wand|0",
+      "emc": 29909
+    },
+    {
+      "item": "actuallyadditions:item_misc|1",
+      "emc": 1
+    },
+    {
+      "item": "actuallyadditions:item_misc|0",
+      "emc": 96
+    },
+    {
+      "item": "actuallyadditions:item_misc|3",
+      "emc": 36
+    },
+    {
+      "item": "actuallyadditions:item_misc|2",
+      "emc": 516
+    },
+    {
+      "item": "actuallyadditions:item_misc|4",
+      "emc": 24
+    },
+    {
+      "item": "actuallyadditions:item_food|16",
+      "emc": 24
+    },
+    {
+      "item": "actuallyadditions:item_misc|9",
+      "emc": 36
+    },
+    {
+      "item": "actuallyadditions:item_misc|22",
+      "emc": 16
+    },
+    {
+      "item": "actuallyadditions:item_misc|21",
+      "emc": 16
+    },
+    {
+      "item": "actuallyadditions:item_misc|12",
+      "emc": 36
+    },
+    {
+      "item": "actuallyadditions:item_misc|14",
+      "emc": 39
+    },
+    {
+      "item": "actuallyadditions:item_misc|15",
+      "emc": 1024
+    },
+    {
+      "item": "actuallyadditions:item_misc|18",
+      "emc": 136
+    },
+    {
+      "item": "thermalfoundation:storage|5",
+      "emc": 9216
+    },
+    {
+      "item": "redstonearsenal:material|32",
+      "emc": 1600
+    },
+    {
+      "item": "redstonearsenal:storage|0",
+      "emc": 14400
+    },
+    {
+      "item": "avaritia:resource|7",
+      "emc": 256
+    },
+    {
+      "item": "avaritia:resource|0",
+      "emc": 40960
+    },
+    {
+      "item": "avaritia:resource|1",
+      "emc": 442368
+    },
+    {
+      "item": "randomthings:beans|0",
+      "emc": 16
+    },
+    {
+      "item": "tp:raspberry_berry|0",
+      "emc": 16
+    },
+    {
+      "item": "tp:maloberry_berry|0",
+      "emc": 16
+    },
+    {
+      "item": "tp:blueberry_berry|0",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:persimmon|0",
+      "emc": 32
+    },
+    {
+      "item": "tp:blackberry_berry|0",
+      "emc": 16
+    },
+    {
+      "item": "tp:plump_peach|0",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:peach|0",
+      "emc": 32
+    },
+    {
+      "item": "tp:plump_pear|0",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:pear|0",
+      "emc": 32
+    },
+    {
+      "item": "avaritia:resource|2",
+      "emc": 147456
+    },
+    {
+      "item": "avaritia:resource|3",
+      "emc": 1327104
+    },
+    {
+      "item": "avaritia:resource|4",
+      "emc": 11943936
+    },
+    {
+      "item": "thermalfoundation:storage|6",
+      "emc": 36864
+    },
+    {
+      "item": "thermalfoundation:storage_alloy|7",
+      "emc": 21708
+    },
+    {
+      "item": "enderio:block_alloy|6",
+      "emc": 3168
+    },
+    {
+      "item": "thermalfoundation:storage_alloy|0",
+      "emc": 2592
+    },
+    {
+      "item": "avaritia:block_resource|2",
+      "emc": 3981312
+    },
+    {
+      "item": "avaritia:block_resource|1",
+      "emc": 191061579204
+    },
+    {
+      "item": "avaritia:block_resource|0",
+      "emc": 107495424
+    },
+    {
+      "item": "avaritia:compressed_crafting_table|0",
+      "emc": 288
+    },
+    {
+      "item": "avaritia:double_compressed_crafting_table|0",
+      "emc": 2592
+    },
+    {
+      "item": "avaritia:extreme_crafting_table|0",
+      "emc": 3541536
+    },
+    {
+      "item": "extrautils2:compressedcobblestone|0",
+      "emc": 9
+    },
+    {
+      "item": "extrautils2:compressedcobblestone|1",
+      "emc": 81
+    },
+    {
+      "item": "extrautils2:compressedcobblestone|2",
+      "emc": 729
+    },
+    {
+      "item": "extrautils2:compressedcobblestone|3",
+      "emc": 6561
+    },
+    {
+      "item": "extrautils2:compressedcobblestone|4",
+      "emc": 59049
+    },
+    {
+      "item": "extrautils2:compressedcobblestone|5",
+      "emc": 531441
+    },
+    {
+      "item": "extrautils2:compressedcobblestone|6",
+      "emc": 4782969
+    },
+    {
+      "item": "extrautils2:compressedcobblestone|7",
+      "emc": 43046721
+    },
+    {
+      "item": "extrautils2:compresseddirt|0",
+      "emc": 9
+    },
+    {
+      "item": "extrautils2:compresseddirt|1",
+      "emc": 81
+    },
+    {
+      "item": "extrautils2:compresseddirt|2",
+      "emc": 729
+    },
+    {
+      "item": "extrautils2:compresseddirt|3",
+      "emc": 6561
+    },
+    {
+      "item": "extrautils2:compressednetherrack|0",
+      "emc": 9
+    },
+    {
+      "item": "extrautils2:compressednetherrack|1",
+      "emc": 81
+    },
+    {
+      "item": "extrautils2:compressednetherrack|2",
+      "emc": 729
+    },
+    {
+      "item": "extrautils2:compressednetherrack|3",
+      "emc": 6561
+    },
+    {
+      "item": "extrautils2:compressednetherrack|4",
+      "emc": 59049
+    },
+    {
+      "item": "extrautils2:compressednetherrack|5",
+      "emc": 531441
+    },
+    {
+      "item": "actuallyadditions:item_more_damage_lens|0",
+      "emc": 21072
+    },
+    {
+      "item": "actuallyadditions:item_disenchanting_lens|0",
+      "emc": 75172
+    },
+    {
+      "item": "actuallyadditions:item_mining_lens|0",
+      "emc": 27340
+    },
+    {
+      "item": "thermalfoundation:material|192",
+      "emc": 14
+    },
+    {
+      "item": "cyclicmagic:chest_sack_empty|0",
+      "emc": 208
+    },
+    {
+      "item": "extrautils2:redorchid|0",
+      "emc": 64
+    },
+    {
+      "item": "actuallyadditions:item_fertilizer|0",
+      "emc": 4
+    },
+    {
+      "item": "tp:iron_apple|0",
+      "emc": 2176
+    },
+    {
+      "item": "tp:small_bandage|0",
+      "emc": 40
+    },
+    {
+      "item": "tp:large_bandage|0",
+      "emc": 60
+    },
+    {
+      "item": "tp:small_med_kit|0",
+      "emc": 120
+    },
+    {
+      "item": "tp:large_med_kit|0",
+      "emc": 480
+    },
+    {
+      "item": "techguns:itemshared|64",
+      "emc": 4265
+    },
+    {
+      "item": "techguns:itemshared|53",
+      "emc": 4265
+    },
+    {
+      "item": "techguns:t3_combat_boots|0",
+      "emc": 17060
+    },
+    {
+      "item": "techguns:t3_combat_leggings|0",
+      "emc": 29855
+    },
+    {
+      "item": "techguns:t3_combat_chestplate|0",
+      "emc": 34120
+    },
+    {
+      "item": "techguns:t3_combat_helmet|0",
+      "emc": 21325
+    },
+    {
+      "item": "techguns:itemshared|61",
+      "emc": 45
+    },
+    {
+      "item": "techguns:itemshared|77",
+      "emc": 109
+    },
+    {
+      "item": "techguns:itemshared|60",
+      "emc": 74
+    },
+    {
+      "item": "techguns:itemshared|84",
+      "emc": 352
+    },
+    {
+      "item": "techguns:t2_combat_helmet|0",
+      "emc": 1204
+    },
+    {
+      "item": "techguns:t2_combat_chestplate|0",
+      "emc": 2260
+    },
+    {
+      "item": "techguns:t2_combat_leggings|0",
+      "emc": 1630
+    },
+    {
+      "item": "techguns:t2_combat_boots|0",
+      "emc": 852
+    },
+    {
+      "item": "techguns:t2_riot_helmet|0",
+      "emc": 2446
+    },
+    {
+      "item": "techguns:t2_riot_chestplate|0",
+      "emc": 4232
+    },
+    {
+      "item": "techguns:t2_riot_leggings|0",
+      "emc": 3090
+    },
+    {
+      "item": "techguns:t2_riot_boots|0",
+      "emc": 2094
+    },
+    {
+      "item": "techguns:t2_commando_helmet|0",
+      "emc": 801
+    },
+    {
+      "item": "techguns:t2_commando_leggings|0",
+      "emc": 1184
+    },
+    {
+      "item": "techguns:t2_commando_boots|0",
+      "emc": 768
+    },
+    {
+      "item": "techguns:t1_combat_boots|0",
+      "emc": 660
+    },
+    {
+      "item": "techguns:t1_combat_leggings|0",
+      "emc": 1064
+    },
+    {
+      "item": "techguns:t1_combat_helmet|0",
+      "emc": 916
+    },
+    {
+      "item": "techguns:t1_combat_chestplate|0",
+      "emc": 1138
+    },
+    {
+      "item": "techguns:t1_scout_chestplate|0",
+      "emc": 592
+    },
+    {
+      "item": "techguns:t1_scout_helmet|0",
+      "emc": 370
+    },
+    {
+      "item": "techguns:t1_scout_boots|0",
+      "emc": 296
+    },
+    {
+      "item": "tp:cobblegen_block|0",
+      "emc": 71
+    },
+    {
+      "item": "tp:iron_cobblegen_block|0",
+      "emc": 2119
+    },
+    {
+      "item": "tp:diamond_cobblegen_block|0",
+      "emc": 67655
+    },
+    {
+      "item": "tp:blaze_cobblegen_block|0",
+      "emc": 79943
+    },
+    {
+      "item": "tp:emerald_cobblegen_block|0",
+      "emc": 211015
     }
   ]
 }

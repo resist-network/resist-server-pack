@@ -1,162 +1,5 @@
 {
   "kits": {
-    "starter": {
-      "ignoresPermission": false,
-      "displayMessage": true,
-      "cost": 0.0,
-      "firstJoin": true,
-      "hidden": false,
-      "stacks": [
-        {
-          "ContentVersion": 2,
-          "ItemType": "techguns:pistol",
-          "Count": 1,
-          "UnsafeDamage": 0,
-          "UnsafeData": {
-            "ammo": "18",
-            "ammovariant": "default",
-            "camo": "0"
-          }
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "techguns:scar",
-          "Count": 1,
-          "UnsafeDamage": 0,
-          "UnsafeData": {
-            "ammo": "15",
-            "ammovariant": "default",
-            "camo": "0"
-          }
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "techguns:powerhammer",
-          "Count": 1,
-          "UnsafeDamage": 0,
-          "UnsafeData": {
-            "ammo": "300",
-            "ammovariant": "default",
-            "miningHead": 0,
-            "camo": "0"
-          }
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "computercraft:pocket_computer",
-          "Count": 1,
-          "UnsafeDamage": 1,
-          "UnsafeData": {
-            "upgrade": "computercraft:wireless_modem"
-          }
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "techguns:itemshared",
-          "Count": 1,
-          "UnsafeDamage": 23
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "techguns:itemshared",
-          "Count": 2,
-          "UnsafeDamage": 11
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "galacticraftcore:food",
-          "Count": 1,
-          "UnsafeDamage": 3
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "galacticraftcore:food",
-          "Count": 1,
-          "UnsafeDamage": 2
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "galacticraftcore:food",
-          "Count": 1,
-          "UnsafeDamage": 1
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "galacticraftcore:food",
-          "Count": 1,
-          "UnsafeDamage": 0
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "techguns:gasmask",
-          "Count": 1,
-          "UnsafeDamage": 0
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "techguns:t2_combat_boots",
-          "Count": 1,
-          "UnsafeDamage": 0
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "techguns:t2_combat_leggings",
-          "Count": 1,
-          "UnsafeDamage": 0
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "techguns:t2_combat_chestplate",
-          "Count": 1,
-          "UnsafeDamage": 0
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "techguns:t2_combat_helmet",
-          "Count": 1,
-          "UnsafeDamage": 0
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "techguns:jetpack",
-          "Count": 1,
-          "UnsafeDamage": 0
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "techguns:itemshared",
-          "Count": 1,
-          "UnsafeDamage": 27
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "techguns:flamethrower",
-          "Count": 1,
-          "UnsafeDamage": 0,
-          "UnsafeData": {
-            "ammo": "100",
-            "ammovariant": "default",
-            "camo": "0"
-          }
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "techguns:itemshared",
-          "Count": 2,
-          "UnsafeDamage": 13
-        },
-        {
-          "ContentVersion": 2,
-          "ItemType": "techguns:scubatanks",
-          "Count": 1,
-          "UnsafeDamage": 0
-        }
-      ],
-      "autoRedeem": false,
-      "interval": 0,
-      "oneTime": false,
-      "commands": []
-    },
     "crates": {
       "ignoresPermission": false,
       "displayMessage": true,
@@ -440,6 +283,200 @@
           "ItemType": "immersiveengineering:metal_decoration2",
           "Count": 64,
           "UnsafeDamage": 5
+        }
+      ],
+      "autoRedeem": false,
+      "interval": 0,
+      "oneTime": false,
+      "commands": []
+    },
+    "creative": {
+      "ignoresPermission": false,
+      "displayMessage": true,
+      "cost": 0.0,
+      "firstJoin": false,
+      "hidden": false,
+      "stacks": [
+        {
+          "ContentVersion": 2,
+          "ItemType": "minecraft:mob_spawner",
+          "Count": 1,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "extrautils2:creativeenergy",
+          "Count": 1,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "extrautils2:creativechest",
+          "Count": 1,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "extrautils2:itemcreativebuilderswand",
+          "Count": 1,
+          "UnsafeDamage": 0
+        }
+      ],
+      "autoRedeem": false,
+      "interval": 0,
+      "oneTime": false,
+      "commands": []
+    },
+    "starter": {
+      "ignoresPermission": false,
+      "displayMessage": true,
+      "cost": 0.0,
+      "firstJoin": true,
+      "hidden": false,
+      "stacks": [
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:pistol",
+          "Count": 1,
+          "UnsafeDamage": 0,
+          "UnsafeData": {
+            "ammo": "18",
+            "ammovariant": "default",
+            "camo": "0"
+          }
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:scar",
+          "Count": 1,
+          "UnsafeDamage": 0,
+          "UnsafeData": {
+            "ammo": "15",
+            "ammovariant": "default",
+            "camo": "0"
+          }
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:powerhammer",
+          "Count": 1,
+          "UnsafeDamage": 0,
+          "UnsafeData": {
+            "ammo": "300",
+            "ammovariant": "default",
+            "miningHead": 0,
+            "camo": "0"
+          }
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "computercraft:pocket_computer",
+          "Count": 1,
+          "UnsafeDamage": 1,
+          "UnsafeData": {
+            "upgrade": "computercraft:wireless_modem"
+          }
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:itemshared",
+          "Count": 1,
+          "UnsafeDamage": 23
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:itemshared",
+          "Count": 2,
+          "UnsafeDamage": 11
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "galacticraftcore:food",
+          "Count": 1,
+          "UnsafeDamage": 3
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "galacticraftcore:food",
+          "Count": 1,
+          "UnsafeDamage": 2
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "galacticraftcore:food",
+          "Count": 1,
+          "UnsafeDamage": 1
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "galacticraftcore:food",
+          "Count": 1,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:gasmask",
+          "Count": 1,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:t2_combat_boots",
+          "Count": 1,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:t2_combat_leggings",
+          "Count": 1,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:t2_combat_chestplate",
+          "Count": 1,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:t2_combat_helmet",
+          "Count": 1,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:jetpack",
+          "Count": 1,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:itemshared",
+          "Count": 1,
+          "UnsafeDamage": 27
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:flamethrower",
+          "Count": 1,
+          "UnsafeDamage": 0,
+          "UnsafeData": {
+            "ammo": "100",
+            "ammovariant": "default",
+            "camo": "0"
+          }
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:itemshared",
+          "Count": 2,
+          "UnsafeDamage": 13
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "techguns:scubatanks",
+          "Count": 1,
+          "UnsafeDamage": 0
         }
       ],
       "autoRedeem": false,
