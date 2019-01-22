@@ -1,0 +1,15 @@
+activeRace=vulcandarus
+level=1
+races {
+    vulcandarus {
+        raceLevel=1
+        skillPoints=0
+        skillProgress=[
+            1,
+            0,
+            0,
+            0
+        ]
+        xp=0
+    }
+}
