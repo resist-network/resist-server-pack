@@ -36,10 +36,10 @@ Default:
   Description:
   - |-
     &4Want to play a game &l&a%player%&4?
-    &7Now with &8[&a&3Guns&7&8]&7, &8[&a&9Minigames&8]&7, and much more!
+    &7Now with &8[&a&3Guns&7&8]&7, &8[&a&9Dungeons&8]&7, and much more!
   - |-
     &4Want to play a game &l&a%player%&4?
-    &7Now with &8[&a&3Guns&8]&7, &8[&a&9Zombies&8]&7, and much more!
+    &7Now with &8[&a&3Guns&8]&7, &8[&a&9Helicopters&8]&7, and much more!
   Players:
     Hover:
     - |-
@@ -49,10 +49,10 @@ Personalized:
   Description:
   - |-
     &4Want to play a game &l&a%player%&4? 
-    &7Now with &8[&a&3Guns&8]&7, &8[&a&9Minigames&8]&7, and much more!
+    &7Now with &8[&a&3Guns&8]&7, &8[&a&9Dungeons&8]&7, and much more!
   - |-
     &4Want to play a game &l&a%player%&4? 
-    &7Now with &8[&a&3Guns&8]&7, &8[&a&9Zombies&8]&7, and much more!
+    &7Now with &8[&a&3Guns&8]&7, &8[&a&9Helicopters&8]&7, and much more!
   Players:
     Hover:
     - |-
