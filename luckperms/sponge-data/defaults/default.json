@@ -120,6 +120,15 @@
     },
     {
       "context": {
+        "gp_claim": "c9c987f7-70ff-49e6-958b-b3a2302a1f25"
+      },
+      "data": {
+        "griefprevention.flag.entity-chunk-spawn.minecraft.armor_stand": true,
+        "griefprevention.flag.entity-spawn.minecraft.armor_stand": true
+      }
+    },
+    {
+      "context": {
         "gp_claim": "a3cda6e2-9cae-40b8-998d-9272dbac024f"
       },
       "data": {
