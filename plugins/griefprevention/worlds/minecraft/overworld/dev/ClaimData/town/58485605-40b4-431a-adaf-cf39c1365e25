@@ -26,7 +26,7 @@ GriefPrevention {
     ]
     cuboid=false
     date-created="2019-01-21T07:19:33.192Z"
-    date-last-active="2019-01-21T07:19:33.192Z"
+    date-last-active="2019-01-23T02:56:35.478Z"
     deny-messages=true
     economyData {
         bankTransactionLog=[]
@@ -44,6 +44,8 @@ GriefPrevention {
     owner-uuid=e9893eaa-6432-447d-97d4-e61369479971
     pvp=UNDEFINED
     requires-claim-blocks=true
+    residentPastDueTaxTimestamps {}
+    residentTaxBalances {}
     resizable=true
     sizeRestrictions=false
     subdivisions {}

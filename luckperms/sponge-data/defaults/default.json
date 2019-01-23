@@ -2,8 +2,8 @@
   "permissions": [
     {
       "context": {
-        "gp_claim_defaults": "wilderness",
-        "world": "spawn"
+        "world": "spawn",
+        "gp_claim_defaults": "wilderness"
       },
       "data": {
         "griefprevention.flag.entity-chunk-spawn": false,
@@ -124,6 +124,21 @@
         "griefprevention.flag.interact-block-primary.minecraft.lever": true,
         "griefprevention.flag.interact-block-secondary.malisisdoors.garage_door": true,
         "griefprevention.flag.interact-block-secondary.minecraft.lever": true
+      }
+    },
+    {
+      "context": {
+        "gp_claim": "58485605-40b4-431a-adaf-cf39c1365e25"
+      },
+      "data": {
+        "griefprevention.flag.interact-block-secondary.minecraft.lever": true,
+        "griefprevention.flag.interact-block-secondary.minecraft.lever.0": true,
+        "griefprevention.flag.interact-block-secondary.minecraft.lever.1": true,
+        "griefprevention.flag.interact-block-secondary.minecraft.lever.9": true,
+        "griefprevention.flag.interact-block-secondary.minecraft.lever.source.minecraft.player": true,
+        "griefprevention.flag.interact-block-secondary.minecraft.lever.source.minecraft.player.0": true,
+        "griefprevention.flag.interact-block-secondary.minecraft.lever.source.minecraft.player.1": true,
+        "griefprevention.flag.interact-block-secondary.minecraft.lever.source.minecraft.player.9": true
       }
     },
     {
