@@ -155,6 +155,24 @@
     },
     {
       "context": {
+        "gp_claim": "966c5cb2-a01c-4e7f-9ead-312a3f3af776"
+      },
+      "data": {
+        "griefprevention.flag.entity-chunk-spawn.minecraft.armor_stand": true,
+        "griefprevention.flag.entity-spawn.minecraft.armor_stand": true
+      }
+    },
+    {
+      "context": {
+        "gp_claim": "63acba07-1ab6-4d87-bb33-34c0c6a0e475"
+      },
+      "data": {
+        "griefprevention.flag.entity-chunk-spawn.minecraft.armor_stand": true,
+        "griefprevention.flag.entity-spawn.minecraft.armor_stand": true
+      }
+    },
+    {
+      "context": {
         "gp_claim": "49721a14-d211-49a8-9230-7e410a0858a9"
       },
       "data": {
