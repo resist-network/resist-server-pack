@@ -12,9 +12,9 @@ IRC_PASSWORD=$(cat ~/.irc_password)
 MCR_PASS=$(cat ~/.mcr_pass)
 MONGO=$(cat ~/.mongo)
 JAR="forge-1.12.2-14.23.5.2807-universal.jar"
-RAM_MIN="512M"
-RAM_MAX="12G"
-CPU_CORES="5"
+RAM_MIN="1G"
+RAM_MAX="8G"
+CPU_CORES="3"
 #CURRENT_VERSION="$(curl -s 'https://raw.githubusercontent.com/worldautomation/WA-Launcher-Pack/master/app/assets/distribution.json' | awk '/version/{i++}i==2{print; exit}' | awk -F "\"*:\"*" '{print $2}' | cut -c 3- | cut -c -7)"
 if ! screen -list | grep -q "resist"; then
 	echo "Server is starting!"
