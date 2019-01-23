@@ -61,6 +61,9 @@
         "gp_claim_defaults": "admin"
       },
       "data": {
+        "griefprevention.flag.block-break": true,
+        "griefprevention.flag.block-place": true,
+        "griefprevention.flag.collide-block": true,
         "griefprevention.flag.entity-chunk-spawn": false,
         "griefprevention.flag.entity-damage": false,
         "griefprevention.flag.entity-riding": false,
@@ -157,6 +160,10 @@
         "gp_claim": "46d25c8c-2f66-43aa-a3ce-8bd77835022c"
       },
       "data": {
+        "griefprevention.flag.interact-block-primary.minecraft.lever.source.minecraft.player": true,
+        "griefprevention.flag.interact-block-primary.minecraft.lever.source.minecraft.player.0": true,
+        "griefprevention.flag.interact-block-primary.minecraft.lever.source.minecraft.player.1": true,
+        "griefprevention.flag.interact-block-primary.minecraft.lever.source.minecraft.player.9": true,
         "griefprevention.flag.interact-block-secondary": true,
         "griefprevention.flag.interact-block-secondary.minecraft.lever.source.minecraft.player": true,
         "griefprevention.flag.interact-block-secondary.minecraft.lever.source.minecraft.player.1": true,
