@@ -1,6 +1,6 @@
 #Minecraft server properties
 #Tue Jan 15 21:02:56 UTC 2019
-spawn-protection=64
+spawn-protection=0
 max-tick-time=60000
 query.port=25566
 generator-settings={"landScheme"\:"vanilla","tempScheme"\:"medium_zones","rainScheme"\:"tiny_zones","biomeSize"\:"tiny","amplitude"\:1.0,"generateBopOre"\:true,"generatePoisonIvy"\:true,"generateFlax"\:true,"generateBerryBushes"\:true,"generateThorns"\:true,"generateQuicksand"\:true,"generateLiquidPoison"\:true,"generateHotSprings"\:true,"generateNetherHives"\:true,"generateEndFeatures"\:true}
