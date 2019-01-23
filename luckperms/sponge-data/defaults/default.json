@@ -117,20 +117,12 @@
     },
     {
       "context": {
-        "gp_claim": "eb582671-865e-401d-b7a3-55754cb17043"
+        "gp_claim": "a3cda6e2-9cae-40b8-998d-9272dbac024f"
       },
       "data": {
-        "griefprevention.flag.interact-block-primary.malisisdoors.garage_door": true,
-        "griefprevention.flag.interact-block-primary.minecraft.lever": true,
-        "griefprevention.flag.interact-block-secondary.malisisdoors.garage_door": true,
-        "griefprevention.flag.interact-block-secondary.minecraft.lever": true
-      }
-    },
-    {
-      "context": {
-        "gp_claim": "58485605-40b4-431a-adaf-cf39c1365e25"
-      },
-      "data": {
+        "griefprevention.flag.entity-spawn": false,
+        "griefprevention.flag.interact-block-primary": true,
+        "griefprevention.flag.interact-block-secondary": true,
         "griefprevention.flag.interact-block-secondary.minecraft.lever": true,
         "griefprevention.flag.interact-block-secondary.minecraft.lever.0": true,
         "griefprevention.flag.interact-block-secondary.minecraft.lever.1": true,
@@ -138,7 +130,15 @@
         "griefprevention.flag.interact-block-secondary.minecraft.lever.source.minecraft.player": true,
         "griefprevention.flag.interact-block-secondary.minecraft.lever.source.minecraft.player.0": true,
         "griefprevention.flag.interact-block-secondary.minecraft.lever.source.minecraft.player.1": true,
-        "griefprevention.flag.interact-block-secondary.minecraft.lever.source.minecraft.player.9": true
+        "griefprevention.flag.interact-block-secondary.minecraft.lever.source.minecraft.player.10": true,
+        "griefprevention.flag.interact-block-secondary.minecraft.lever.source.minecraft.player.2": true,
+        "griefprevention.flag.interact-block-secondary.minecraft.lever.source.minecraft.player.9": true,
+        "griefprevention.flag.interact-entity-primary": true,
+        "griefprevention.flag.interact-entity-secondary": true,
+        "griefprevention.flag.interact-item-primary": true,
+        "griefprevention.flag.interact-item-secondary": true,
+        "griefprevention.flag.item-use": true,
+        "griefprevention.flag.portal-use": true
       }
     },
     {

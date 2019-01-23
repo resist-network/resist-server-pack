@@ -7,26 +7,16 @@
 
 GriefPrevention {
     accessor-groups=[]
-    accessors=[
-        "41c82c87-7afb-4024-ba57-13d2c99cae77"
-    ]
+    accessors=[]
     builder-groups=[]
     builders=[]
     claim-expiration=true
-    claim-farewell {
-        text="Leaving Testing Claim"
-    }
-    claim-greeting {
-        text="Entering Testing Claim"
-    }
-    claim-type=TOWN
+    claim-type=BASIC
     container-groups=[]
-    containers=[
-        "41c82c87-7afb-4024-ba57-13d2c99cae77"
-    ]
+    containers=[]
     cuboid=false
-    date-created="2019-01-21T07:19:33.192Z"
-    date-last-active="2019-01-23T02:56:35.478Z"
+    date-created="2019-01-23T03:36:41.171Z"
+    date-last-active="2019-01-23T03:36:41.171Z"
     deny-messages=true
     economyData {
         bankTransactionLog=[]
@@ -35,19 +25,18 @@ GriefPrevention {
         tax-balance=0.0
     }
     flag-overrides=true
-    greater-boundary-corner="47;255;-1089"
+    greater-boundary-corner="74;255;-337"
     inherit-parent=true
     isExpired=false
-    lesser-boundary-corner="32;0;-1104"
+    lesser-boundary-corner="70;0;-348"
     manager-groups=[]
     managers=[]
     owner-uuid=e9893eaa-6432-447d-97d4-e61369479971
+    parent=a3cda6e2-9cae-40b8-998d-9272dbac024f
     pvp=UNDEFINED
     requires-claim-blocks=true
-    residentPastDueTaxTimestamps {}
-    residentTaxBalances {}
     resizable=true
     sizeRestrictions=false
     subdivisions {}
-    world-uuid="23bc2eaf-4af4-43b4-9c1e-0bf7c47b53fb"
+    world-uuid="33f79f31-5e07-4b27-ad4d-33894bc3036f"
 }

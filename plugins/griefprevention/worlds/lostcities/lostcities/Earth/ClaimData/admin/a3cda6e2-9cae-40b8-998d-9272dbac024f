@@ -13,42 +13,12 @@ GriefPrevention {
     builder-groups=[]
     builders=[]
     claim-expiration=true
-    claim-farewell {
-        extra=[
-            {
-                bold=true
-                color="dark_red"
-                text=EARTH
-            },
-            {
-                color=reset
-                text=" Spawn!"
-            }
-        ]
-        text="You are leaving "
-    }
-    claim-greeting {
-        extra=[
-            {
-                bold=true
-                color="dark_red"
-                text=EARTH
-            },
-            {
-                color=reset
-                text=" Spawn!"
-            }
-        ]
-        text="Welcome to "
-    }
     claim-type=ADMIN
     container-groups=[]
-    containers=[
-        "41c82c87-7afb-4024-ba57-13d2c99cae77"
-    ]
+    containers=[]
     cuboid=false
-    date-created="2019-01-20T03:28:59.550Z"
-    date-last-active="2019-01-20T03:28:59.550Z"
+    date-created="2019-01-23T03:42:07.718Z"
+    date-last-active="2019-01-23T03:42:07.718Z"
     deny-messages=true
     economyData {
         bankTransactionLog=[]
@@ -57,10 +27,10 @@ GriefPrevention {
         tax-balance=0.0
     }
     flag-overrides=true
-    greater-boundary-corner="65;255;-332"
+    greater-boundary-corner="81;255;-331"
     inherit-parent=true
     isExpired=false
-    lesser-boundary-corner="-70;0;-509"
+    lesser-boundary-corner="-97;0;-516"
     manager-groups=[]
     managers=[]
     owner-uuid=e9893eaa-6432-447d-97d4-e61369479971
