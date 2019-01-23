@@ -157,22 +157,6 @@
     },
     {
       "context": {
-        "gp_claim": "46d25c8c-2f66-43aa-a3ce-8bd77835022c"
-      },
-      "data": {
-        "griefprevention.flag.interact-block-primary.minecraft.lever.source.minecraft.player": true,
-        "griefprevention.flag.interact-block-primary.minecraft.lever.source.minecraft.player.0": true,
-        "griefprevention.flag.interact-block-primary.minecraft.lever.source.minecraft.player.1": true,
-        "griefprevention.flag.interact-block-primary.minecraft.lever.source.minecraft.player.9": true,
-        "griefprevention.flag.interact-block-secondary": true,
-        "griefprevention.flag.interact-block-secondary.minecraft.lever.source.minecraft.player": true,
-        "griefprevention.flag.interact-block-secondary.minecraft.lever.source.minecraft.player.1": true,
-        "griefprevention.flag.interact-block-secondary.minecraft.lever.source.minecraft.player.2": true,
-        "griefprevention.flag.interact-block-secondary.minecraft.lever.source.minecraft.player.9": true
-      }
-    },
-    {
-      "context": {
         "gp_claim": "0aba5dff-1613-4697-a6fd-0246ae85e40d"
       },
       "data": {
