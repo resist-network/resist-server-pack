@@ -5131,6 +5131,18 @@
     {
       "item": "tp:emerald_cobblegen_block|0",
       "emc": 211015
+    },
+    {
+      "item": "actuallyadditions:item_laser_wrench|0",
+      "emc": 2712
+    },
+    {
+      "item": "actuallyadditions:item_chest_to_crate_upgrade|0",
+      "emc": 400
+    },
+    {
+      "item": "actuallyadditions:item_small_to_medium_crate_upgrade|0",
+      "emc": 1584
     }
   ]
 }
