@@ -66,9 +66,6 @@ dynmap/custom-*
 dynmap/web/css/
 dynmap/web/css/*
 dynmap/web/css
-dynmap/web/images/
-dynmap/web/images/*
-dynmap/web/images
 dynmap/web/config.js
 dynmap/web/gettiles.php
 dynmap/web/inactive.html
