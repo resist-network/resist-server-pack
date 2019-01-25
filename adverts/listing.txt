@@ -2,3 +2,5 @@
 2;Mars;https://i.pinimg.com/originals/c2/62/49/c2624920ee955cc1944b333b8968b7bb.jpg;704fcfe7882a1f29bac690083f6dd406
 3;Gas Mask Care;https://i.pinimg.com/originals/27/0f/0b/270f0b5ed45c64b2e49dd05786c38828.jpg;1bfc50671ab0fdd66e2be9a826736e07
 4;Science Builds the Future;http://moscowcoffeereview.com/carpecakem/wp-content/uploads/awesomepropagandascience-756c94e469a69b9565ddd3399999ce3a_h.jpg;a9410abae815e8f24324b392c2c848df
+5;Jetpack;https://i.ytimg.com/vi/pvD7jzPZZBM/maxresdefault.jpg;10f143d6c038d1a483975c8c7a249bb5
+6;Shelter;https://www.michigancivildefense.com/sitebuildercontent/sitebuilderpictures/webassets/PosterShelter.jpg;b245c3fac59ee89c7dc25ab3fa70ea27

@@ -13,6 +13,16 @@
     },
     {
       "context": {
+        "gp_claim_defaults": "town",
+        "world": "spawn"
+      },
+      "data": {
+        "griefprevention.flag.entity-damage": false,
+        "griefprevention.flag.entity-spawn": false
+      }
+    },
+    {
+      "context": {
         "world": "eden",
         "gp_claim_defaults": "basic"
       },
@@ -30,7 +40,10 @@
       "data": {
         "griefprevention.flag.entity-chunk-spawn": false,
         "griefprevention.flag.entity-spawn": false,
-        "griefprevention.flag.interact-block-secondary": true
+        "griefprevention.flag.interact-entity-secondary": false,
+        "griefprevention.flag.interact-inventory-click": false,
+        "griefprevention.flag.interact-item-primary": false,
+        "griefprevention.flag.interact-item-secondary": false
       }
     },
     {
@@ -66,7 +79,6 @@
         "griefprevention.flag.entity-damage": false,
         "griefprevention.flag.entity-riding": false,
         "griefprevention.flag.entity-spawn": false,
-        "griefprevention.flag.interact-block-secondary": true,
         "griefprevention.flag.interact-entity-secondary": false,
         "griefprevention.flag.interact-inventory-click": false,
         "griefprevention.flag.interact-item-primary": false,
