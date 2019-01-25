@@ -29,7 +29,8 @@
       },
       "data": {
         "griefprevention.flag.entity-chunk-spawn": false,
-        "griefprevention.flag.entity-spawn": false
+        "griefprevention.flag.entity-spawn": false,
+        "griefprevention.flag.interact-block-secondary": true
       }
     },
     {
@@ -61,17 +62,15 @@
         "gp_claim_defaults": "admin"
       },
       "data": {
-        "griefprevention.flag.block-break": true,
-        "griefprevention.flag.block-place": true,
-        "griefprevention.flag.collide-block": true,
         "griefprevention.flag.entity-chunk-spawn": false,
         "griefprevention.flag.entity-damage": false,
         "griefprevention.flag.entity-riding": false,
         "griefprevention.flag.entity-spawn": false,
-        "griefprevention.flag.interact-block-primary": true,
         "griefprevention.flag.interact-block-secondary": true,
-        "griefprevention.flag.interact-entity-primary": true,
-        "griefprevention.flag.interact-inventory": true
+        "griefprevention.flag.interact-entity-secondary": false,
+        "griefprevention.flag.interact-inventory-click": false,
+        "griefprevention.flag.interact-item-primary": false,
+        "griefprevention.flag.interact-item-secondary": false
       }
     },
     {
