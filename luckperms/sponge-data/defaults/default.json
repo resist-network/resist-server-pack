@@ -13,8 +13,8 @@
     },
     {
       "context": {
-        "gp_claim_defaults": "town",
-        "world": "spawn"
+        "world": "spawn",
+        "gp_claim_defaults": "town"
       },
       "data": {
         "griefprevention.flag.entity-damage": false,
@@ -63,10 +63,21 @@
         "gp_claim_defaults": "admin"
       },
       "data": {
-        "griefprevention.flag.entity-chunk-spawn": false,
-        "griefprevention.flag.entity-damage": false,
-        "griefprevention.flag.entity-riding": false,
-        "griefprevention.flag.entity-spawn": false
+        "griefprevention.flag.block-break": true,
+        "griefprevention.flag.block-place": true,
+        "griefprevention.flag.collide-block": true,
+        "griefprevention.flag.collide-entity": true,
+        "griefprevention.flag.explosion": true,
+        "griefprevention.flag.explosion-surface": true,
+        "griefprevention.flag.fire-spread": true,
+        "griefprevention.flag.interact-block-primary": true,
+        "griefprevention.flag.interact-block-secondary": true,
+        "griefprevention.flag.interact-entity-primary": true,
+        "griefprevention.flag.interact-inventory": true,
+        "griefprevention.flag.item-spawn": true,
+        "griefprevention.flag.liquid-flow": true,
+        "griefprevention.flag.projectile-impact-block": true,
+        "griefprevention.flag.projectile-impact-entity": true
       }
     },
     {

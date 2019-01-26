@@ -8,10 +8,6 @@
     "id": "minecraft:ender_eye"
   },
   {
-    "energy": 1024000,
-    "id": "minecraft:dragon_breath"
-  },
-  {
     "energy": 256000,
     "id": "actuallyadditions:block_misc:6"
   }

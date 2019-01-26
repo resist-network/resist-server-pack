@@ -3518,7 +3518,7 @@
     },
     {
       "item": "minecraft:potion|0",
-      "emc": 1
+      "emc": 0
     },
     {
       "item": "minecraft:glass_bottle|0",
@@ -5143,6 +5143,986 @@
     {
       "item": "actuallyadditions:item_small_to_medium_crate_upgrade|0",
       "emc": 1584
+    },
+    {
+      "item": "minecraft:farmland|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:totem_of_undying|0",
+      "emc": 147456
+    },
+    {
+      "item": "actuallyadditions:item_medium_to_large_crate_upgrade|0",
+      "emc": 3060
+    },
+    {
+      "item": "actuallyadditions:item_booklet|0",
+      "emc": 48
+    },
+    {
+      "item": "actuallyadditions:item_growth_ring|0",
+      "emc": 4572
+    },
+    {
+      "item": "actuallyadditions:item_water_removal_ring|0",
+      "emc": 36624
+    },
+    {
+      "item": "actuallyadditions:item_helm_emerald|0",
+      "emc": 81920
+    },
+    {
+      "item": "actuallyadditions:item_chest_emerald|0",
+      "emc": 131072
+    },
+    {
+      "item": "actuallyadditions:item_pants_emerald|0",
+      "emc": 114688
+    },
+    {
+      "item": "actuallyadditions:item_boots_emerald|0",
+      "emc": 65536
+    },
+    {
+      "item": "actuallyadditions:item_helm_obsidian|0",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:item_chest_obsidian|0",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:item_pants_obsidian|0",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:item_boots_obsidian|0",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:item_tele_staff|0",
+      "emc": 41828
+    },
+    {
+      "item": "actuallyadditions:item_wings_of_the_bats|0",
+      "emc": 358920
+    },
+    {
+      "item": "actuallyadditions:item_drill_upgrade_speed|0",
+      "emc": 1128
+    },
+    {
+      "item": "actuallyadditions:item_drill_upgrade_speed_ii|0",
+      "emc": 1236
+    },
+    {
+      "item": "actuallyadditions:item_drill_upgrade_speed_iii|0",
+      "emc": 125544
+    },
+    {
+      "item": "actuallyadditions:item_drill_upgrade_silk_touch|0",
+      "emc": 100908
+    },
+    {
+      "item": "actuallyadditions:item_drill_upgrade_fortune|0",
+      "emc": 78212
+    },
+    {
+      "item": "actuallyadditions:item_drill_upgrade_fortune_ii|0",
+      "emc": 17708
+    },
+    {
+      "item": "actuallyadditions:item_drill_upgrade_five_by_five|0",
+      "emc": 36148
+    },
+    {
+      "item": "actuallyadditions:item_drill_upgrade_block_placing|0",
+      "emc": 964
+    },
+    {
+      "item": "actuallyadditions:item_coffee|0",
+      "emc": 87
+    },
+    {
+      "item": "actuallyadditions:item_phantom_connector|0",
+      "emc": 4714
+    },
+    {
+      "item": "thermalfoundation:material|231",
+      "emc": 268
+    },
+    {
+      "item": "actuallyadditions:item_resonant_rice|0",
+      "emc": 484
+    },
+    {
+      "item": "actuallyadditions:item_food|0",
+      "emc": 48
+    },
+    {
+      "item": "actuallyadditions:item_food|1",
+      "emc": 150
+    },
+    {
+      "item": "actuallyadditions:item_food|2",
+      "emc": 65
+    },
+    {
+      "item": "actuallyadditions:item_food|5",
+      "emc": 32
+    },
+    {
+      "item": "actuallyadditions:item_food|3",
+      "emc": 224
+    },
+    {
+      "item": "actuallyadditions:item_food|4",
+      "emc": 192
+    },
+    {
+      "item": "actuallyadditions:item_food|7",
+      "emc": 24
+    },
+    {
+      "item": "actuallyadditions:item_food|6",
+      "emc": 78
+    },
+    {
+      "item": "actuallyadditions:item_food|9",
+      "emc": 77
+    },
+    {
+      "item": "actuallyadditions:item_food|8",
+      "emc": 222
+    },
+    {
+      "item": "actuallyadditions:item_food|10",
+      "emc": 12
+    },
+    {
+      "item": "actuallyadditions:item_food|11",
+      "emc": 280
+    },
+    {
+      "item": "actuallyadditions:item_food|12",
+      "emc": 264
+    },
+    {
+      "item": "actuallyadditions:item_food|13",
+      "emc": 136
+    },
+    {
+      "item": "actuallyadditions:item_food|14",
+      "emc": 280
+    },
+    {
+      "item": "actuallyadditions:item_food|18",
+      "emc": 24
+    },
+    {
+      "item": "actuallyadditions:item_food|19",
+      "emc": 89
+    },
+    {
+      "item": "actuallyadditions:item_food|20",
+      "emc": 21
+    },
+    {
+      "item": "actuallyadditions:item_jam|0",
+      "emc": 300
+    },
+    {
+      "item": "actuallyadditions:item_jam|1",
+      "emc": 300
+    },
+    {
+      "item": "actuallyadditions:item_jam|2",
+      "emc": 300
+    },
+    {
+      "item": "actuallyadditions:item_jam|3",
+      "emc": 300
+    },
+    {
+      "item": "actuallyadditions:item_jam|4",
+      "emc": 300
+    },
+    {
+      "item": "actuallyadditions:item_jam|5",
+      "emc": 300
+    },
+    {
+      "item": "actuallyadditions:item_jam|6",
+      "emc": 300
+    },
+    {
+      "item": "actuallyadditions:item_knife|0",
+      "emc": 552
+    },
+    {
+      "item": "actuallyadditions:item_crafter_on_a_stick|0",
+      "emc": 49
+    },
+    {
+      "item": "actuallyadditions:item_leaf_blower|0",
+      "emc": 3064
+    },
+    {
+      "item": "actuallyadditions:item_leaf_blower_advanced|0",
+      "emc": 18936
+    },
+    {
+      "item": "actuallyadditions:item_sword_emerald|0",
+      "emc": 32772
+    },
+    {
+      "item": "actuallyadditions:item_pickaxe_emerald|0",
+      "emc": 49160
+    },
+    {
+      "item": "actuallyadditions:item_shovel_emerald|0",
+      "emc": 16392
+    },
+    {
+      "item": "actuallyadditions:item_axe_emerald|0",
+      "emc": 49160
+    },
+    {
+      "item": "actuallyadditions:item_hoe_emerald|0",
+      "emc": 32776
+    },
+    {
+      "item": "actuallyadditions:emerald_paxel|0",
+      "emc": 180260
+    },
+    {
+      "item": "tp:emerald_spear|0",
+      "emc": 16392
+    },
+    {
+      "item": "tp:obsidian_sword|0",
+      "emc": 132
+    },
+    {
+      "item": "tp:obsidian_spear|0",
+      "emc": 72
+    },
+    {
+      "item": "tp:obsidian_helmet|0",
+      "emc": 320
+    },
+    {
+      "item": "tp:obsidian_chestplate|0",
+      "emc": 512
+    },
+    {
+      "item": "tp:obsidian_leggings|0",
+      "emc": 448
+    },
+    {
+      "item": "tp:obsidian_boots|0",
+      "emc": 256
+    },
+    {
+      "item": "actuallyadditions:wooden_paxel|0",
+      "emc": 118
+    },
+    {
+      "item": "actuallyadditions:stone_paxel|0",
+      "emc": 47
+    },
+    {
+      "item": "actuallyadditions:iron_paxel|0",
+      "emc": 2852
+    },
+    {
+      "item": "actuallyadditions:gold_paxel|0",
+      "emc": 22564
+    },
+    {
+      "item": "actuallyadditions:diamond_paxel|0",
+      "emc": 90148
+    },
+    {
+      "item": "actuallyadditions:item_sword_crystal_red|0",
+      "emc": 132
+    },
+    {
+      "item": "actuallyadditions:item_pickaxe_crystal_red|0",
+      "emc": 200
+    },
+    {
+      "item": "actuallyadditions:item_axe_crystal_red|0",
+      "emc": 200
+    },
+    {
+      "item": "actuallyadditions:item_shovel_crystal_red|0",
+      "emc": 72
+    },
+    {
+      "item": "actuallyadditions:item_hoe_crystal_red|0",
+      "emc": 136
+    },
+    {
+      "item": "actuallyadditions:item_paxel_crystal_red|0",
+      "emc": 740
+    },
+    {
+      "item": "actuallyadditions:item_sword_crystal_blue|0",
+      "emc": 76
+    },
+    {
+      "item": "actuallyadditions:item_hoe_crystal_blue|0",
+      "emc": 80
+    },
+    {
+      "item": "actuallyadditions:item_shovel_crystal_blue|0",
+      "emc": 44
+    },
+    {
+      "item": "actuallyadditions:item_pickaxe_crystal_blue|0",
+      "emc": 112
+    },
+    {
+      "item": "actuallyadditions:item_axe_crystal_blue|0",
+      "emc": 112
+    },
+    {
+      "item": "actuallyadditions:item_paxel_crystal_blue|0",
+      "emc": 424
+    },
+    {
+      "item": "actuallyadditions:item_sword_crystal_light_blue|0",
+      "emc": 16388
+    },
+    {
+      "item": "actuallyadditions:item_shovel_crystal_light_blue|0",
+      "emc": 8200
+    },
+    {
+      "item": "actuallyadditions:item_pickaxe_crystal_light_blue|0",
+      "emc": 24584
+    },
+    {
+      "item": "actuallyadditions:item_axe_crystal_light_blue|0",
+      "emc": 24584
+    },
+    {
+      "item": "actuallyadditions:item_hoe_crystal_light_blue|0",
+      "emc": 16392
+    },
+    {
+      "item": "actuallyadditions:item_helm_crystal_light_blue|0",
+      "emc": 40960
+    },
+    {
+      "item": "actuallyadditions:item_chest_crystal_light_blue|0",
+      "emc": 65536
+    },
+    {
+      "item": "actuallyadditions:item_pants_crystal_light_blue|0",
+      "emc": 57344
+    },
+    {
+      "item": "actuallyadditions:item_boots_crystal_light_blue|0",
+      "emc": 32768
+    },
+    {
+      "item": "actuallyadditions:item_paxel_crystal_light_blue|0",
+      "emc": 90148
+    },
+    {
+      "item": "OD|",
+      "emc": 320
+    },
+    {
+      "item": "actuallyadditions:item_chest_crystal_red|0",
+      "emc": 512
+    },
+    {
+      "item": "actuallyadditions:item_pants_crystal_red|0",
+      "emc": 448
+    },
+    {
+      "item": "actuallyadditions:item_boots_crystal_red|0",
+      "emc": 256
+    },
+    {
+      "item": "actuallyadditions:item_helm_crystal_blue|0",
+      "emc": 180
+    },
+    {
+      "item": "actuallyadditions:item_chest_crystal_blue|0",
+      "emc": 288
+    },
+    {
+      "item": "actuallyadditions:item_pants_crystal_blue|0",
+      "emc": 252
+    },
+    {
+      "item": "actuallyadditions:item_boots_crystal_blue|0",
+      "emc": 144
+    },
+    {
+      "item": "actuallyadditions:item_helm_crystal_red|0",
+      "emc": 180
+    },
+    {
+      "item": "actuallyadditions:item_sword_crystal_black|0",
+      "emc": 68
+    },
+    {
+      "item": "actuallyadditions:item_hoe_crystal_black|0",
+      "emc": 72
+    },
+    {
+      "item": "actuallyadditions:item_shovel_crystal_black|0",
+      "emc": 40
+    },
+    {
+      "item": "actuallyadditions:item_pickaxe_crystal_black|0",
+      "emc": 104
+    },
+    {
+      "item": "actuallyadditions:item_axe_crystal_black|0",
+      "emc": 104
+    },
+    {
+      "item": "actuallyadditions:item_helm_crystal_black|0",
+      "emc": 160
+    },
+    {
+      "item": "actuallyadditions:item_chest_crystal_black|0",
+      "emc": 256
+    },
+    {
+      "item": "actuallyadditions:item_pants_crystal_black|0",
+      "emc": 224
+    },
+    {
+      "item": "actuallyadditions:item_boots_crystal_black|0",
+      "emc": 128
+    },
+    {
+      "item": "actuallyadditions:item_paxel_crystal_black|0",
+      "emc": 388
+    },
+    {
+      "item": "actuallyadditions:item_sword_crystal_green|0",
+      "emc": 32772
+    },
+    {
+      "item": "actuallyadditions:item_hoe_crystal_green|0",
+      "emc": 32776
+    },
+    {
+      "item": "actuallyadditions:item_shovel_crystal_green|0",
+      "emc": 16392
+    },
+    {
+      "item": "actuallyadditions:item_pickaxe_crystal_green|0",
+      "emc": 49160
+    },
+    {
+      "item": "actuallyadditions:item_axe_crystal_green|0",
+      "emc": 49160
+    },
+    {
+      "item": "actuallyadditions:item_helm_crystal_green|0",
+      "emc": 81920
+    },
+    {
+      "item": "actuallyadditions:item_chest_crystal_green|0",
+      "emc": 131072
+    },
+    {
+      "item": "actuallyadditions:item_pants_crystal_green|0",
+      "emc": 114688
+    },
+    {
+      "item": "actuallyadditions:item_boots_crystal_green|0",
+      "emc": 65536
+    },
+    {
+      "item": "actuallyadditions:item_paxel_crystal_green|0",
+      "emc": 180260
+    },
+    {
+      "item": "actuallyadditions:item_sword_crystal_white|0",
+      "emc": 516
+    },
+    {
+      "item": "actuallyadditions:item_hoe_crystal_white|0",
+      "emc": 520
+    },
+    {
+      "item": "actuallyadditions:item_shovel_crystal_white|0",
+      "emc": 264
+    },
+    {
+      "item": "actuallyadditions:item_pickaxe_crystal_white|0",
+      "emc": 776
+    },
+    {
+      "item": "actuallyadditions:item_axe_crystal_white|0",
+      "emc": 776
+    },
+    {
+      "item": "actuallyadditions:item_helm_crystal_white|0",
+      "emc": 1280
+    },
+    {
+      "item": "actuallyadditions:item_chest_crystal_white|0",
+      "emc": 2048
+    },
+    {
+      "item": "actuallyadditions:item_pants_crystal_white|0",
+      "emc": 1792
+    },
+    {
+      "item": "actuallyadditions:item_boots_crystal_white|0",
+      "emc": 1024
+    },
+    {
+      "item": "actuallyadditions:item_paxel_crystal_white|0",
+      "emc": 2852
+    },
+    {
+      "item": "advgenerators:iron_frame|0",
+      "emc": 512
+    },
+    {
+      "item": "advgenerators:power_io|0",
+      "emc": 2296
+    },
+    {
+      "item": "advgenerators:iron_tubing|0",
+      "emc": 32
+    },
+    {
+      "item": "advgenerators:iron_wiring|0",
+      "emc": 48
+    },
+    {
+      "item": "advgenerators:controller|0",
+      "emc": 1408
+    },
+    {
+      "item": "advgenerators:pressure_valve|0",
+      "emc": 608
+    },
+    {
+      "item": "advgenerators:advanced_pressure_valve|0",
+      "emc": 8672
+    },
+    {
+      "item": "advgenerators:upgrade_kit|0",
+      "emc": 16
+    },
+    {
+      "item": "advgenerators:turbine_controller|0",
+      "emc": 3616
+    },
+    {
+      "item": "advgenerators:exchanger_controller|0",
+      "emc": 3600
+    },
+    {
+      "item": "advgenerators:steam_turbine_controller|0",
+      "emc": 3600
+    },
+    {
+      "item": "advgenerators:syngas_controller|0",
+      "emc": 4176
+    },
+    {
+      "item": "thermalfoundation:material|513",
+      "emc": 2176
+    },
+    {
+      "item": "advgenerators:rf_output|0",
+      "emc": 5544
+    },
+    {
+      "item": "advgenerators:eu_output_lv|0",
+      "emc": 4136
+    },
+    {
+      "item": "advgenerators:eu_output_mv|0",
+      "emc": 4354
+    },
+    {
+      "item": "advgenerators:eu_output_hv|0",
+      "emc": 5544
+    },
+    {
+      "item": "ic2:cable|0",
+      "emc": 0
+    },
+    {
+      "item": "ic2:cable|4",
+      "emc": 0
+    },
+    {
+      "item": "ic2:casing|0",
+      "emc": 80
+    },
+    {
+      "item": "ic2:advanced_re_battery|26",
+      "emc": 1136
+    },
+    {
+      "item": "ic2:cable|2",
+      "emc": 0
+    },
+    {
+      "item": "ic2:cable|3",
+      "emc": 0
+    },
+    {
+      "item": "ic2:crafting|5",
+      "emc": 768
+    },
+    {
+      "item": "ic2:te|77",
+      "emc": 1050
+    },
+    {
+      "item": "ic2:te|78",
+      "emc": 2240
+    },
+    {
+      "item": "ic2:crafting|1",
+      "emc": 960
+    },
+    {
+      "item": "ic2:dust|6",
+      "emc": 3676
+    },
+    {
+      "item": "ic2:cable|1",
+      "emc": 0
+    },
+    {
+      "item": "ic2:casing|1",
+      "emc": 64
+    },
+    {
+      "item": "ic2:casing|2",
+      "emc": 1024
+    },
+    {
+      "item": "ic2:casing|3",
+      "emc": 128
+    },
+    {
+      "item": "ic2:casing|4",
+      "emc": 256
+    },
+    {
+      "item": "ic2:casing|5",
+      "emc": 144
+    },
+    {
+      "item": "ic2:casing|6",
+      "emc": 128
+    },
+    {
+      "item": "ic2:re_battery|26",
+      "emc": 757
+    },
+    {
+      "item": "ic2:re_battery|0",
+      "emc": 757
+    },
+    {
+      "item": "ic2:advanced_re_battery|0",
+      "emc": 1136
+    },
+    {
+      "item": "ic2:dust|9",
+      "emc": 36
+    },
+    {
+      "item": "ic2:energy_crystal|0",
+      "emc": 33084
+    },
+    {
+      "item": "ic2:energy_crystal|26",
+      "emc": 33084
+    },
+    {
+      "item": "ic2:lapotron_crystal|26",
+      "emc": 36900
+    },
+    {
+      "item": "ic2:te|79",
+      "emc": 5488
+    },
+    {
+      "item": "ic2:te|80",
+      "emc": 44508
+    },
+    {
+      "item": "immersiveengineering:material|20",
+      "emc": 128
+    },
+    {
+      "item": "advgenerators:item_output|0",
+      "emc": 3392
+    },
+    {
+      "item": "advgenerators:eu_output_iv|0",
+      "emc": 52468
+    },
+    {
+      "item": "advgenerators:forge_output|0",
+      "emc": 3656
+    },
+    {
+      "item": "advgenerators:fluid_input|0",
+      "emc": 1824
+    },
+    {
+      "item": "advgenerators:fluid_output_select|0",
+      "emc": 1600
+    },
+    {
+      "item": "advgenerators:item_input|0",
+      "emc": 2816
+    },
+    {
+      "item": "advgenerators:eu_output_ev|0",
+      "emc": 8856
+    },
+    {
+      "item": "advgenerators:fuel_tank|0",
+      "emc": 2083
+    },
+    {
+      "item": "advgenerators:heating_chamber|0",
+      "emc": 2752
+    },
+    {
+      "item": "advgenerators:mixing_chamber|0",
+      "emc": 3328
+    },
+    {
+      "item": "advgenerators:heat_exchanger|0",
+      "emc": 2208
+    },
+    {
+      "item": "advgenerators:sensor|0",
+      "emc": 2432
+    },
+    {
+      "item": "advgenerators:control|0",
+      "emc": 2496
+    },
+    {
+      "item": "advgenerators:efficiency_upgrade_tier1|0",
+      "emc": 3480
+    },
+    {
+      "item": "advgenerators:efficiency_upgrade_tier2|0",
+      "emc": 19772
+    },
+    {
+      "item": "advgenerators:turbine_blade_enderium|0",
+      "emc": 3015
+    },
+    {
+      "item": "advgenerators:turbine_rotor_enderium|0",
+      "emc": 26532
+    },
+    {
+      "item": "advgenerators:turbine_kit_enderium|0",
+      "emc": 26548
+    },
+    {
+      "item": "advgenerators:turbine_enderium|0",
+      "emc": 28740
+    },
+    {
+      "item": "advgenerators:turbine_blade_steel|0",
+      "emc": 360
+    },
+    {
+      "item": "advgenerators:turbine_rotor_steel|0",
+      "emc": 3168
+    },
+    {
+      "item": "advgenerators:turbine_kit_steel|0",
+      "emc": 3184
+    },
+    {
+      "item": "advgenerators:turbine_steel|0",
+      "emc": 5376
+    },
+    {
+      "item": "advgenerators:turbine_blade_bronze|0",
+      "emc": 200
+    },
+    {
+      "item": "advgenerators:turbine_rotor_bronze|0",
+      "emc": 1760
+    },
+    {
+      "item": "advgenerators:turbine_kit_bronze|0",
+      "emc": 1776
+    },
+    {
+      "item": "advgenerators:turbine_bronze|0",
+      "emc": 3968
+    },
+    {
+      "item": "advgenerators:turbine_blade_manyullyn|0",
+      "emc": 2560
+    },
+    {
+      "item": "advgenerators:turbine_rotor_manyullyn|0",
+      "emc": 22528
+    },
+    {
+      "item": "advgenerators:turbine_kit_manyullyn|0",
+      "emc": 22544
+    },
+    {
+      "item": "advgenerators:turbine_manyullyn|0",
+      "emc": 24736
+    },
+    {
+      "item": "advgenerators:turbine_blade_iron|0",
+      "emc": 320
+    },
+    {
+      "item": "advgenerators:turbine_rotor_iron|0",
+      "emc": 2816
+    },
+    {
+      "item": "advgenerators:turbine_iron|0",
+      "emc": 5024
+    },
+    {
+      "item": "advgenerators:turbine_blade_adv_alloy|0",
+      "emc": 1260
+    },
+    {
+      "item": "ic2:crafting|30",
+      "emc": 2592
+    },
+    {
+      "item": "advgenerators:turbine_rotor_adv_alloy|0",
+      "emc": 12672
+    },
+    {
+      "item": "advgenerators:turbine_kit_adv_alloy|0",
+      "emc": 12688
+    },
+    {
+      "item": "advgenerators:turbine_adv_alloy|0",
+      "emc": 14880
+    },
+    {
+      "item": "advgenerators:power_capacitor_redstone|0",
+      "emc": 5552
+    },
+    {
+      "item": "advgenerators:capacitor_kit_advanced|0",
+      "emc": 33292
+    },
+    {
+      "item": "advgenerators:power_capacitor_advanced|0",
+      "emc": 38828
+    },
+    {
+      "item": "advgenerators:capacitor_kit_dense|0",
+      "emc": 37108
+    },
+    {
+      "item": "advgenerators:power_capacitor_dense|0",
+      "emc": 75920
+    },
+    {
+      "item": "advancedrocketry:launchpad|0",
+      "emc": 72
+    },
+    {
+      "item": "advancedrocketry:blastbrick|0",
+      "emc": 25
+    },
+    {
+      "item": "advancedrocketry:vitrifiedsand|0",
+      "emc": 1
+    },
+    {
+      "item": "projecte:item.pe_fuel|0",
+      "emc": 128
+    },
+    {
+      "item": "projecte:item.pe_fuel|1",
+      "emc": 512
+    },
+    {
+      "item": "projecte:item.pe_fuel|2",
+      "emc": 2048
+    },
+    {
+      "item": "projecte:item.pe_matter|0",
+      "emc": 90112
+    },
+    {
+      "item": "projecte:item.pe_matter|1",
+      "emc": 282624
+    },
+    {
+      "item": "auxiliumequivalence:matter|0",
+      "emc": 860160
+    },
+    {
+      "item": "auxiliumequivalence:matter|1",
+      "emc": 2592768
+    },
+    {
+      "item": "auxiliumequivalence:matter|2",
+      "emc": 7790592
+    },
+    {
+      "item": "auxiliumequivalence:matter|3",
+      "emc": 23384064
+    },
+    {
+      "item": "auxiliumequivalence:matter|4",
+      "emc": 70164480
+    },
+    {
+      "item": "biomesoplenty:dirt|2",
+      "emc": 1
+    },
+    {
+      "item": "extrautils2:teleporter|1",
+      "emc": 72
+    },
+    {
+      "item": "OD|Thaaer",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_material|22",
+      "emc": 6
+    },
+    {
+      "item": "enderio:item_alloy_nugget|5",
+      "emc": 142
+    },
+    {
+      "item": "enderio:item_item_conduit|0",
+      "emc": 55
+    },
+    {
+      "item": "enderio:item_liquid_conduit|0",
+      "emc": 3
     }
   ]
 }
