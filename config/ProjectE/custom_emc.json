@@ -6123,6 +6123,10 @@
     {
       "item": "enderio:item_liquid_conduit|0",
       "emc": 3
+    },
+    {
+      "item": "tconstruct:slime_congealed|0",
+      "emc": 128
     }
   ]
 }
