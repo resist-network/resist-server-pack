@@ -6143,6 +6143,26 @@
     {
       "item": "enderio:item_power_conduit|2",
       "emc": 1322
+    },
+    {
+      "item": "refinedstorage:processor_binding|0",
+      "emc": 7
+    },
+    {
+      "item": "refinedstorage:core|0",
+      "emc": 608
+    },
+    {
+      "item": "refinedstorage:core|1",
+      "emc": 480
+    },
+    {
+      "item": "refinedstorage:machine_casing|0",
+      "emc": 1793
+    },
+    {
+      "item": "refinedstorage:crafter|0",
+      "emc": 20353
     }
   ]
 }
