@@ -6127,6 +6127,18 @@
     {
       "item": "tconstruct:slime_congealed|0",
       "emc": 128
+    },
+    {
+      "item": "projecte:matter_block|0",
+      "emc": 360448
+    },
+    {
+      "item": "projecte:dm_pedestal|0",
+      "emc": 1802240
+    },
+    {
+      "item": "projecte:item.pe_time_watch|0",
+      "emc": 370880
     }
   ]
 }
