@@ -6139,6 +6139,10 @@
     {
       "item": "projecte:item.pe_time_watch|0",
       "emc": 370880
+    },
+    {
+      "item": "enderio:item_power_conduit|2",
+      "emc": 1322
     }
   ]
 }
