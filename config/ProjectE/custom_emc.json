@@ -6163,6 +6163,114 @@
     {
       "item": "refinedstorage:crafter|0",
       "emc": 20353
+    },
+    {
+      "item": "refinedstorage:storage_housing|0",
+      "emc": 802
+    },
+    {
+      "item": "refinedstorage:fluid_storage_part|0",
+      "emc": 355
+    },
+    {
+      "item": "refinedstorage:storage_part|0",
+      "emc": 419
+    },
+    {
+      "item": "refinedstorage:storage_part|1",
+      "emc": 2953
+    },
+    {
+      "item": "refinedstorage:storage_part|2",
+      "emc": 17723
+    },
+    {
+      "item": "refinedstorage:storage_part|3",
+      "emc": 86609
+    },
+    {
+      "item": "refinedstorage:fluid_storage_part|1",
+      "emc": 3465
+    },
+    {
+      "item": "refinedstorage:fluid_storage_part|2",
+      "emc": 19963
+    },
+    {
+      "item": "refinedstorage:fluid_storage_part|3",
+      "emc": 94033
+    },
+    {
+      "item": "refinedstorage:grid|0",
+      "emc": 7396
+    },
+    {
+      "item": "refinedstorage:grid|1",
+      "emc": 15716
+    },
+    {
+      "item": "refinedstorage:storage_disk|0",
+      "emc": 1221
+    },
+    {
+      "item": "refinedstorage:storage_disk|1",
+      "emc": 3755
+    },
+    {
+      "item": "refinedstorage:storage_disk|2",
+      "emc": 18525
+    },
+    {
+      "item": "refinedstorage:storage_disk|3",
+      "emc": 87411
+    },
+    {
+      "item": "refinedstorage:fluid_storage_disk|0",
+      "emc": 1157
+    },
+    {
+      "item": "refinedstorage:fluid_storage_disk|1",
+      "emc": 4267
+    },
+    {
+      "item": "refinedstorage:fluid_storage_disk|3",
+      "emc": 94835
+    },
+    {
+      "item": "refinedstorage:fluid_storage_disk|2",
+      "emc": 20765
+    },
+    {
+      "item": "refinedstorage:upgrade|0",
+      "emc": 3490
+    },
+    {
+      "item": "refinedstorage:upgrade|2",
+      "emc": 4640
+    },
+    {
+      "item": "refinedstorage:upgrade|3",
+      "emc": 5282
+    },
+    {
+      "item": "refinedstorage:upgrade|4",
+      "emc": 18610
+    },
+    {
+      "item": "refinedstorage:upgrade|1",
+      "emc": 7628
+    },
+    {
+      "item": "refinedstorage:disk_drive|0",
+      "emc": 13537
+    },
+    {
+      "item": "enderio:item_material|20",
+      "emc": 8
+    },
+    {
+      "item": "fluxnetworks:flux|0",
+      "emc": 64
     }
   ]
 }
