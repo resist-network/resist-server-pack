@@ -7,7 +7,7 @@ recipes.replaceAllOccurences(<projecte:item.pe_matter>, <projecte:item.pe_klein_
 //  [<projecte:item.pe_klein_star:5>,<minecraft:glowstone_block>,<projecte:item.pe_klein_star:5>]]);
 
 //ee klein
-recipes.replaceAllOccurences(<minecraft:diamond>, <projecte:matter_block:1>, <projecte:item.pe_klein_star:0>);
+recipes.replaceAllOccurences(<minecraft:diamond>, <projecte:matter_block:1>, <projecte:item.pe_klein_star>);
 //recipes.removeShaped(<projecte:item.pe_klein_star>);
 //recipes.addShaped("KleinStarFix", <projecte:pe_klein_star>,
 // [[<projecte:item.pe_fuel:1>,<projecte:item.pe_fuel:1>,<projecte:item.pe_fuel:1>],
