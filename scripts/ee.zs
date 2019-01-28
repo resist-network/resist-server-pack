@@ -7,7 +7,7 @@ recipes.replaceAllOccurences(<projecte:item.pe_matter>, <projecte:item.pe_klein_
 //  [<projecte:item.pe_klein_star:5>,<minecraft:glowstone_block>,<projecte:item.pe_klein_star:5>]]);
 
 //ee klein
-recipes.replaceAllOccurences(<minecraft:diamond>, <projecte:matter_block:1>, <projecte:item.pe_klein_star>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <projecte:matter_block:1>, <projecte:item.pe_klein_star>);
 //recipes.removeShaped(<projecte:item.pe_klein_star>);
 //recipes.addShaped("KleinStarFix", <projecte:pe_klein_star>,
 // [[<projecte:item.pe_fuel:1>,<projecte:item.pe_fuel:1>,<projecte:item.pe_fuel:1>],
@@ -15,7 +15,7 @@ recipes.replaceAllOccurences(<minecraft:diamond>, <projecte:matter_block:1>, <pr
 //  [<projecte:item.pe_fuel:1>,<projecte:item.pe_fuel:1>,<projecte:item.pe_fuel:1>]]);
 
 //mk1
-recipes.replaceAllOccurences(<minecraft:diamond>, <minecraft:diamond_block>, <projecte:condenser_mk1>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <ore:blockDiamond>, <projecte:condenser_mk1>);
 //recipes.removeShaped(<projecte:condenser_mk1>);
 //recipes.addShaped("MK1Fix", <projecte:condenser_mk1>,
 // [[<minecraft:obsidian>,<minecraft:diamond_block>,<minecraft:obsidian>],
@@ -23,10 +23,9 @@ recipes.replaceAllOccurences(<minecraft:diamond>, <minecraft:diamond_block>, <pr
 //  [<minecraft:obsidian>,<minecraft:diamond_block>,<minecraft:obsidian>]]);
 
 //philoshophers stone
-recipes.replaceAllOccurences(<minecraft:diamond>, <avaritia:block_resource:2>, <projecte:item.pe_philosophers_stone>);
+recipes.replaceAllOccurences(<ore:gemDiamond>, <avaritia:block_resource:2>, <projecte:item.pe_philosophers_stone>);
 //recipes.removeShaped(<projecte:item.pe_philosophers_stone>);
 //recipes.addShaped("PhilosphersStoneFix", <projecte:item.pe_philosophers_stone>,
 // [[<minecraft:redstone>,<minecraft:glowstone>,<minecraft:redstone>],
 //  [<minecraft:glowstone>,<avaritia:block_resource:2>,<minecraft:glowstone>],
 //  [<minecraft:redstone>,<minecraft:glowstone>,<minecraft:redstone>]]);
-
