@@ -246,3 +246,4 @@ mods.jei.JEI.removeAndHide(<techguns:pdw:0>);
 mods.jei.JEI.removeAndHide(<techguns:pulserifle:0>);
 mods.jei.JEI.removeAndHide(<techguns:mibgun:0>);
 mods.jei.JEI.removeAndHide(<techguns:alienblaster:0>);
+mods.jei.JEI.removeAndHide(<plethora:module:1>);
