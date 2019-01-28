@@ -15,17 +15,17 @@ recipes.replaceAllOccurences(<ore:gemDiamond>, <projecte:matter_block:1>, <proje
 //  [<projecte:item.pe_fuel:1>,<projecte:item.pe_fuel:1>,<projecte:item.pe_fuel:1>]]);
 
 //mk1
-recipes.replaceAllOccurences(<ore:gemDiamond>, <ore:blockDiamond>, <projecte:condenser_mk1>);
-//recipes.removeShaped(<projecte:condenser_mk1>);
-//recipes.addShaped("MK1Fix", <projecte:condenser_mk1>,
-// [[<minecraft:obsidian>,<minecraft:diamond_block>,<minecraft:obsidian>],
-//  [<minecraft:diamond_block>,<projecte:alchemical_chest>,<minecraft:diamond_block>],
-//  [<minecraft:obsidian>,<minecraft:diamond_block>,<minecraft:obsidian>]]);
+//recipes.replaceAllOccurences(<ore:gemDiamond>, <ore:blockDiamond>, <projecte:condenser_mk1>);
+recipes.removeShaped(<projecte:condenser_mk1>);
+recipes.addShaped("MK1Fix", <projecte:condenser_mk1>,
+ [[<minecraft:obsidian>,<minecraft:diamond_block>,<minecraft:obsidian>],
+  [<minecraft:diamond_block>,<projecte:alchemical_chest>,<minecraft:diamond_block>],
+  [<minecraft:obsidian>,<minecraft:diamond_block>,<minecraft:obsidian>]]);
 
 //philoshophers stone
-recipes.replaceAllOccurences(<ore:gemDiamond>, <avaritia:block_resource:2>, <projecte:item.pe_philosophers_stone>);
-//recipes.removeShaped(<projecte:item.pe_philosophers_stone>);
-//recipes.addShaped("PhilosphersStoneFix", <projecte:item.pe_philosophers_stone>,
-// [[<minecraft:redstone>,<minecraft:glowstone>,<minecraft:redstone>],
-//  [<minecraft:glowstone>,<avaritia:block_resource:2>,<minecraft:glowstone>],
-//  [<minecraft:redstone>,<minecraft:glowstone>,<minecraft:redstone>]]);
+//recipes.replaceAllOccurences(<ore:gemDiamond>, <avaritia:block_resource:2>, <projecte:item.pe_philosophers_stone>);
+recipes.removeShaped(<projecte:item.pe_philosophers_stone>);
+recipes.addShaped("PhilosphersStoneFix", <projecte:item.pe_philosophers_stone>,
+ [[<minecraft:redstone>,<minecraft:glowstone>,<minecraft:redstone>],
+  [<minecraft:glowstone>,<avaritia:block_resource:2>,<minecraft:glowstone>],
+  [<minecraft:redstone>,<minecraft:glowstone>,<minecraft:redstone>]]);
