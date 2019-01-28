@@ -1,2 +1,3 @@
-recipes.replaceAllOccurences(<*iron*>, <minecraft:iron_ingot>, <woot:stygianironore>);
-recipes.replaceAllOccurences(<*iron*>, <minecraft:iron_ingot>, <woot:stygianirondust>);
+recipes.replaceAllOccurences(<ore:oreIron>, <minecraft:iron_ingot>, <woot:stygianironore>);
+recipes.replaceAllOccurences(<ore:oreIron>, <minecraft:iron_ingot>, <woot:stygianirondust>);
+
