@@ -23,7 +23,7 @@ recipes.replaceAllOccurences(<minecraft:diamond>, <minecraft:diamond_block>, <pr
 //  [<minecraft:obsidian>,<minecraft:diamond_block>,<minecraft:obsidian>]]);
 
 //philoshophers stone
-recipes.replaceAllOccurences(<minecraft:diamond>, <avaritia:block_resource:2>, <projecte:item.pe_philosphers_stone>);
+recipes.replaceAllOccurences(<minecraft:diamond>, <avaritia:block_resource:2>, <projecte:item.pe_philosophers_stone>);
 //recipes.removeShaped(<projecte:item.pe_philosophers_stone>);
 //recipes.addShaped("PhilosphersStoneFix", <projecte:item.pe_philosophers_stone>,
 // [[<minecraft:redstone>,<minecraft:glowstone>,<minecraft:redstone>],
