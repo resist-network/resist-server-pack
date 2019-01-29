@@ -6138,7 +6138,7 @@
     },
     {
       "item": "projecte:item.pe_time_watch|0",
-      "emc": 370880
+      "emc": 0
     },
     {
       "item": "enderio:item_power_conduit|2",
@@ -6271,6 +6271,22 @@
     {
       "item": "fluxnetworks:flux|0",
       "emc": 64
+    },
+    {
+      "item": "thermalfoundation:material|167",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|165",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:nether_star|0",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_material|51",
+      "emc": 108
     }
   ]
 }
