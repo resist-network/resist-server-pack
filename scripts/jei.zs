@@ -247,3 +247,15 @@ mods.jei.JEI.removeAndHide(<techguns:pulserifle:0>);
 mods.jei.JEI.removeAndHide(<techguns:mibgun:0>);
 mods.jei.JEI.removeAndHide(<techguns:alienblaster:0>);
 mods.jei.JEI.removeAndHide(<plethora:module:1>);
+
+
+
+//ee armor
+mods.jei.JEI.removeAndHide(<projecte:item.pe_rm_armor_0>);
+mods.jei.JEI.removeAndHide(<projecte:item.pe_rm_armor_1>);
+mods.jei.JEI.removeAndHide(<projecte:item.pe_rm_armor_2>);
+mods.jei.JEI.removeAndHide(<projecte:item.pe_rm_armor_3>);
+mods.jei.JEI.removeAndHide(<projecte:item.pe_dm_armor_0>);
+mods.jei.JEI.removeAndHide(<projecte:item.pe_dm_armor_1>);
+mods.jei.JEI.removeAndHide(<projecte:item.pe_dm_armor_2>);
+mods.jei.JEI.removeAndHide(<projecte:item.pe_dm_armor_3>);
