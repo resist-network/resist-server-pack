@@ -16,6 +16,7 @@ recipes.replaceAllOccurences(<ore:gemDiamond>, <projecte:matter_block:1>, <proje
 
 //mk1
 //recipes.replaceAllOccurences(<ore:gemDiamond>, <ore:blockDiamond>, <projecte:condenser_mk1>);
+recipes.remove(<projecte:condenser_mk1>, false);
 recipes.removeShaped(<projecte:condenser_mk1>);
 recipes.addShaped("MK1Fix", <projecte:condenser_mk1>,
  [[<minecraft:obsidian>,<minecraft:diamond_block>,<minecraft:obsidian>],
@@ -24,6 +25,7 @@ recipes.addShaped("MK1Fix", <projecte:condenser_mk1>,
 
 //philoshophers stone
 //recipes.replaceAllOccurences(<ore:gemDiamond>, <avaritia:block_resource:2>, <projecte:item.pe_philosophers_stone>);
+recipes.remove(<projecte:item.pe_philosophers_stone>, false);
 recipes.removeShaped(<projecte:item.pe_philosophers_stone>);
 recipes.addShaped("PhilosphersStoneFix", <projecte:item.pe_philosophers_stone>,
  [[<minecraft:redstone>,<minecraft:glowstone>,<minecraft:redstone>],
