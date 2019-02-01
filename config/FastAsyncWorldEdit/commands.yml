@@ -1,109 +1,4 @@
 MaskCommands:
-  '#region':
-    help: ''
-    aliases:
-    - '#region'
-    - '#selection'
-    - '#sel'
-    usage: ''
-    desc: inside the provided selection
-  '#wall':
-    help: ''
-    aliases:
-    - '#wall'
-    usage: ''
-    desc: Restrict to walls (any block n,e,s,w of air)
-  '|':
-    help: ''
-    aliases:
-    - '|'
-    usage: <mask> <min> <max>
-    desc: sides with a specific number of other blocks
-  '#liquid':
-    help: ''
-    aliases:
-    - '#liquid'
-    usage: ''
-    desc: If there is a solid block
-  '>':
-    help: ''
-    aliases:
-    - '>'
-    usage: <mask>
-    desc: above a specific block
-  <:
-    help: ''
-    aliases:
-    - <
-    usage: <mask>
-    desc: below a specific block
-  '#light':
-    help: ''
-    aliases:
-    - '#light'
-    usage: <min> <max>
-    desc: Restrict to specific light levels
-  '#surface':
-    help: ''
-    aliases:
-    - '#surface'
-    usage: ''
-    desc: Restrict to surfaces (any solid block touching air)
-  '#brightness':
-    help: ''
-    aliases:
-    - '#brightness'
-    usage: <min> <max>
-    desc: Restrict to specific block brightness
-  '#skylight':
-    help: ''
-    aliases:
-    - '#skylight'
-    usage: <min> <max>
-    desc: Restrict to specific sky light levels
-  '#solid':
-    help: ''
-    aliases:
-    - '#solid'
-    usage: ''
-    desc: If there is a solid block
-  '#haslight':
-    help: ''
-    aliases:
-    - '#haslight'
-    usage: ''
-    desc: Restricts to blocks with light (sky or emitted)
-  '#blocklight':
-    help: ''
-    aliases:
-    - '#blocklight'
-    - '#emittedlight'
-    usage: <min> <max>
-    desc: Restrict to specific block light levels
-  '#simplex':
-    help: ''
-    aliases:
-    - '#simplex'
-    usage: <scale=10> <min=0> <max=100>
-    desc: Use simplex noise as the mask
-  'false':
-    help: ''
-    aliases:
-    - 'false'
-    usage: ''
-    desc: Always false
-  'true':
-    help: ''
-    aliases:
-    - 'true'
-    usage: ''
-    desc: Always true
-  '#nolight':
-    help: ''
-    aliases:
-    - '#nolight'
-    usage: ''
-    desc: Restrict to blocks without light (sky or emitted)
   '#dregion':
     help: ''
     aliases:
@@ -112,12 +7,6 @@ MaskCommands:
     - '#dsel'
     usage: ''
     desc: inside the player's selection
-  '#xaxis':
-    help: ''
-    aliases:
-    - '#xaxis'
-    usage: ''
-    desc: Restrict to initial x axis
   '#yaxis':
     help: ''
     aliases:
@@ -149,6 +38,109 @@ MaskCommands:
     - '#roc'
     usage: <min> <max> [distance=4]
     desc: Restrict to near specific terrain slope rate of change
+  '#simplex':
+    help: ''
+    aliases:
+    - '#simplex'
+    usage: <scale=10> <min=0> <max=100>
+    desc: Use simplex noise as the mask
+  'false':
+    help: ''
+    aliases:
+    - 'false'
+    usage: ''
+    desc: Always false
+  'true':
+    help: ''
+    aliases:
+    - 'true'
+    usage: ''
+    desc: Always true
+  '#blocklight':
+    help: ''
+    aliases:
+    - '#blocklight'
+    - '#emittedlight'
+    usage: <min> <max>
+    desc: Restrict to specific block light levels
+  '#nolight':
+    help: ''
+    aliases:
+    - '#nolight'
+    usage: ''
+    desc: Restrict to blocks without light (sky or emitted)
+  '#liquid':
+    help: ''
+    aliases:
+    - '#liquid'
+    usage: ''
+    desc: If there is a solid block
+  <:
+    help: ''
+    aliases:
+    - <
+    usage: <mask>
+    desc: below a specific block
+  '>':
+    help: ''
+    aliases:
+    - '>'
+    usage: <mask>
+    desc: above a specific block
+  '#light':
+    help: ''
+    aliases:
+    - '#light'
+    usage: <min> <max>
+    desc: Restrict to specific light levels
+  '|':
+    help: ''
+    aliases:
+    - '|'
+    usage: <mask> <min> <max>
+    desc: sides with a specific number of other blocks
+  '#wall':
+    help: ''
+    aliases:
+    - '#wall'
+    usage: ''
+    desc: Restrict to walls (any block n,e,s,w of air)
+  '#solid':
+    help: ''
+    aliases:
+    - '#solid'
+    usage: ''
+    desc: If there is a solid block
+  '#skylight':
+    help: ''
+    aliases:
+    - '#skylight'
+    usage: <min> <max>
+    desc: Restrict to specific sky light levels
+  '#xaxis':
+    help: ''
+    aliases:
+    - '#xaxis'
+    usage: ''
+    desc: Restrict to initial x axis
+  '#brightness':
+    help: ''
+    aliases:
+    - '#brightness'
+    usage: <min> <max>
+    desc: Restrict to specific block brightness
+  '#surface':
+    help: ''
+    aliases:
+    - '#surface'
+    usage: ''
+    desc: Restrict to surfaces (any solid block touching air)
+  '#haslight':
+    help: ''
+    aliases:
+    - '#haslight'
+    usage: ''
+    desc: Restricts to blocks with light (sky or emitted)
   ^:
     help: |-
       Restrict to near specific terrain extrema
@@ -161,6 +153,14 @@ MaskCommands:
     - '#extrema'
     usage: <min> <max> [distance=1]
     desc: Restrict to near specific terrain extrema
+  '#region':
+    help: ''
+    aliases:
+    - '#region'
+    - '#selection'
+    - '#sel'
+    usage: ''
+    desc: inside the provided selection
   '#data':
     help: ''
     aliases:
@@ -187,26 +187,6 @@ MaskCommands:
     - '#negate'
     usage: <mask>
     desc: Negate another mask
-  \:
-    help: |-
-      Restrict to specific terrain angle
-      The -o flag will only overlay
-      Example: /[0d][45d]
-      Explanation: Allows any block where the adjacent block is between 0 and 45 degrees.
-      Example: /[3][20]
-      Explanation: Allows any block where the adjacent block is between 3 and 20 blocks below
-    aliases:
-    - \
-    - /
-    - '#angle'
-    usage: <min> <max> [distance=1]
-    desc: Restrict to specific terrain angle
-  '#opacity':
-    help: ''
-    aliases:
-    - '#opacity'
-    usage: <min> <max>
-    desc: Restrict to specific opacity levels
   '~':
     help: ''
     aliases:
@@ -226,6 +206,26 @@ MaskCommands:
     - '#biome'
     usage: <biome>
     desc: in a specific biome
+  '#opacity':
+    help: ''
+    aliases:
+    - '#opacity'
+    usage: <min> <max>
+    desc: Restrict to specific opacity levels
+  \:
+    help: |-
+      Restrict to specific terrain angle
+      The -o flag will only overlay
+      Example: /[0d][45d]
+      Explanation: Allows any block where the adjacent block is between 0 and 45 degrees.
+      Example: /[3][20]
+      Explanation: Allows any block where the adjacent block is between 3 and 20 blocks below
+    aliases:
+    - \
+    - /
+    - '#angle'
+    usage: <min> <max> [distance=1]
+    desc: Restrict to specific terrain angle
   '#offset':
     help: ''
     aliases:
@@ -245,26 +245,12 @@ MaskCommands:
     usage: ''
     desc: Restrict to initial id
 PatternCommands:
-  '#clipboard':
+  '#saturate':
     help: ''
     aliases:
-    - '#clipboard'
-    - '#copy'
-    usage: ''
-    desc: Use the blocks in your clipboard as the pattern
-  '#lighten':
-    help: ''
-    aliases:
-    - '#lighten'
-    usage: ''
-    desc: Lighten the existing block
-  '#linear':
-    help: ''
-    aliases:
-    - '#linear'
-    - '#l'
-    usage: <pattern>
-    desc: Sequentially set blocks from a list of patterns
+    - '#saturate'
+    usage: <color>
+    desc: Saturate the existing block with a color
   '#averagecolor':
     help: ''
     aliases:
@@ -277,30 +263,24 @@ PatternCommands:
     - '#desaturate'
     usage: '[percent=100] [randomize=true] [max-complexity=100]'
     desc: Desaturated color of the existing block
+  '#lighten':
+    help: ''
+    aliases:
+    - '#lighten'
+    usage: ''
+    desc: Lighten the existing block
   '#darken':
     help: ''
     aliases:
     - '#darken'
     usage: ''
     desc: Darken the existing block
-  '#anglecolor':
+  '#fullcopy':
     help: ''
     aliases:
-    - '#anglecolor'
-    usage: '[randomize=true] [max-complexity=100] [distance=1]'
-    desc: A darker block based on the existing terrain angle
-  '#angledata':
-    help: ''
-    aliases:
-    - '#angledata'
-    usage: '[distance=1]'
-    desc: Block data based on the existing terrain angle
-  '#saturate':
-    help: ''
-    aliases:
-    - '#saturate'
-    usage: <color>
-    desc: Saturate the existing block with a color
+    - '#fullcopy'
+    usage: '[schem|folder|url=#copy] [rotate=false] [flip=false]'
+    desc: Places your full clipboard at each block
   '#buffer2d':
     help: ''
     aliases:
@@ -315,12 +295,64 @@ PatternCommands:
     - '#iddatamask'
     usage: <bitmask=15> <pattern>
     desc: Use the pattern's id and the existing blocks data with the provided mask
+  '#surfacespread':
+    help: ''
+    aliases:
+    - '#surfacespread'
+    usage: <distance> <pattern>
+    desc: Applies to only blocks on a surface. Selects a block from provided pattern with a given ranomized offset `[0, <distance>)`. e.g. Use `#existing` to randomly offset blocks in the world, or `#copy` to offset blocks in your clipboard
+  '#solidspread':
+    help: ''
+    aliases:
+    - '#solidspread'
+    usage: <dx> <dy> <dz> <pattern>
+    desc: Randomly spread solid blocks
+  '#linear':
+    help: ''
+    aliases:
+    - '#linear'
+    - '#l'
+    usage: <pattern>
+    desc: Sequentially set blocks from a list of patterns
+  '#linear3d':
+    help: ''
+    aliases:
+    - '#linear3d'
+    - '#l3d'
+    usage: <pattern>
+    desc: Use the x,y,z coordinate to pick a block from the list
+  '#linear2d':
+    help: ''
+    aliases:
+    - '#linear2d'
+    - '#l2d'
+    usage: <pattern>
+    desc: Use the x,z coordinate to pick a block from the list
   '#simplex':
     help: ''
     aliases:
     - '#simplex'
     usage: <scale=10> <pattern>
     desc: 'Use simplex noise to randomize blocks. Tutorial: https://imgur.com/a/rwVAE'
+  '#anglecolor':
+    help: ''
+    aliases:
+    - '#anglecolor'
+    usage: '[randomize=true] [max-complexity=100] [distance=1]'
+    desc: A darker block based on the existing terrain angle
+  '#angledata':
+    help: ''
+    aliases:
+    - '#angledata'
+    usage: '[distance=1]'
+    desc: Block data based on the existing terrain angle
+  '#clipboard':
+    help: ''
+    aliases:
+    - '#clipboard'
+    - '#copy'
+    usage: ''
+    desc: Use the blocks in your clipboard as the pattern
   '#!x':
     help: |-
       The pattern will not be provided the z axis info.
@@ -347,52 +379,6 @@ PatternCommands:
     - '#noz'
     usage: <pattern>
     desc: The pattern will not be provided the z axis info
-  '#fullcopy':
-    help: ''
-    aliases:
-    - '#fullcopy'
-    usage: '[schem|folder|url=#copy] [rotate=false] [flip=false]'
-    desc: Places your full clipboard at each block
-  '#surfacespread':
-    help: ''
-    aliases:
-    - '#surfacespread'
-    usage: <distance> <pattern>
-    desc: Applies to only blocks on a surface. Selects a block from provided pattern with a given ranomized offset `[0, <distance>)`. e.g. Use `#existing` to randomly offset blocks in the world, or `#copy` to offset blocks in your clipboard
-  '#solidspread':
-    help: ''
-    aliases:
-    - '#solidspread'
-    usage: <dx> <dy> <dz> <pattern>
-    desc: Randomly spread solid blocks
-  '#linear3d':
-    help: ''
-    aliases:
-    - '#linear3d'
-    - '#l3d'
-    usage: <pattern>
-    desc: Use the x,y,z coordinate to pick a block from the list
-  '#linear2d':
-    help: ''
-    aliases:
-    - '#linear2d'
-    - '#l2d'
-    usage: <pattern>
-    desc: Use the x,z coordinate to pick a block from the list
-  '#color':
-    help: ''
-    aliases:
-    - '#color'
-    usage: <color>
-    desc: Use the block closest to a specific color
-  '#buffer':
-    help: |-
-      Only place a block once while a pattern is in use
-      Use with a brush when you don't want to apply to the same spot twice
-    aliases:
-    - '#buffer'
-    usage: <pattern>
-    desc: Only place a block once while a pattern is in use
   '#data':
     help: ''
     aliases:
@@ -406,6 +392,20 @@ PatternCommands:
     - $
     usage: <biome>
     desc: Set the biome
+  '#buffer':
+    help: |-
+      Only place a block once while a pattern is in use
+      Use with a brush when you don't want to apply to the same spot twice
+    aliases:
+    - '#buffer'
+    usage: <pattern>
+    desc: Only place a block once while a pattern is in use
+  '#color':
+    help: ''
+    aliases:
+    - '#color'
+    usage: <color>
+    desc: Use the block closest to a specific color
   '#existing':
     help: ''
     aliases:
@@ -454,6 +454,12 @@ PatternCommands:
     usage: <dx> <dy> <dz> <pattern>
     desc: Randomly spread blocks
 AnvilCommands:
+  removelayers:
+    help: Remove if all the selected layers in a chunk match the provided id
+    aliases:
+    - removelayers
+    usage: <id>
+    desc: Removes matching chunk layers
   deleteallunvisited:
     help: "Delete all chunks which haven't been occupied for `age-ticks` (20t = 1s)\
       \ and \nHave not been accessed since `file-duration` (ms) after creation and\n\
@@ -514,12 +520,6 @@ AnvilCommands:
     - deletebiomechunks
     usage: ''
     desc: Delete chunks matching a specific biome
-  remapall:
-    help: Remap the world between MCPE/PC values
-    aliases:
-    - remapall
-    usage: <folder>
-    desc: Remap the world between MCPE/PC values
   trimallair:
     help: ''
     aliases:
@@ -552,12 +552,12 @@ AnvilCommands:
     - distr
     usage: ''
     desc: Replace all blocks in the selection with another
-  removelayers:
-    help: Remove if all the selected layers in a chunk match the provided id
+  remapall:
+    help: Remap the world between MCPE/PC values
     aliases:
-    - removelayers
-    usage: <id>
-    desc: Removes matching chunk layers
+    - remapall
+    usage: <folder>
+    desc: Remap the world between MCPE/PC values
   paste:
     help: |-
       Paste the chunks from your anvil clipboard.
@@ -617,13 +617,15 @@ AnvilCommands:
     usage: <to-pattern>
     desc: Set all blocks in the selection with a pattern
 BiomeCommands:
-  biomelist:
-    help: ''
+  /setbiome:
+    help: |-
+      Set the biome of the region.
+      By default use all the blocks contained in your selection.
+      -p use the block you are currently in
     aliases:
-    - biomelist
-    - biomels
-    usage: '[page]'
-    desc: Gets all biomes available.
+    - /setbiome
+    usage: <biome>
+    desc: Sets the biome of the player's current block or region.
   biomeinfo:
     help: |-
       Get the biome of the block.
@@ -634,15 +636,13 @@ BiomeCommands:
     - biomeinfo
     usage: ''
     desc: Get the biome of the targeted block.
-  /setbiome:
-    help: |-
-      Set the biome of the region.
-      By default use all the blocks contained in your selection.
-      -p use the block you are currently in
+  biomelist:
+    help: ''
     aliases:
-    - /setbiome
-    usage: <biome>
-    desc: Sets the biome of the player's current block or region.
+    - biomelist
+    - biomels
+    usage: '[page]'
+    desc: Gets all biomes available.
 ChunkCommands:
   chunkinfo:
     help: ''
@@ -663,6 +663,19 @@ ChunkCommands:
     usage: ''
     desc: Deprecated, use anvil commands
 ClipboardCommands:
+  /paste:
+    help: |-
+      Pastes the clipboard's contents.
+      Flags:
+        -a skips air blocks
+        -b skips pasting biomes
+        -e skips pasting entities
+        -o pastes at the original position
+        -s selects the region after pasting
+    aliases:
+    - /paste
+    usage: ''
+    desc: Paste the clipboard's contents
   /cut:
     help: |-
       Copy the selection to the clipboard
@@ -675,6 +688,18 @@ ClipboardCommands:
     - /cut
     usage: '[leave-id]'
     desc: Cut the selection to the clipboard
+  /lazycopy:
+    help: |-
+      Lazily copy the selection to the clipboard
+      Flags:
+        -e skips copying entities
+        -m sets a source mask so that excluded blocks become air
+        -b copies biomes
+      WARNING: Pasting entities cannot yet be undone!
+    aliases:
+    - /lazycopy
+    usage: ''
+    desc: Lazily copy the selection to the clipboard
   download:
     help: ''
     aliases:
@@ -689,31 +714,6 @@ ClipboardCommands:
     - makeasset
     usage: '[category]'
     desc: Create an asset
-  /lazycopy:
-    help: |-
-      Lazily copy the selection to the clipboard
-      Flags:
-        -e skips copying entities
-        -m sets a source mask so that excluded blocks become air
-        -b copies biomes
-      WARNING: Pasting entities cannot yet be undone!
-    aliases:
-    - /lazycopy
-    usage: ''
-    desc: Lazily copy the selection to the clipboard
-  /paste:
-    help: |-
-      Pastes the clipboard's contents.
-      Flags:
-        -a skips air blocks
-        -b skips pasting biomes
-        -e skips pasting entities
-        -o pastes at the original position
-        -s selects the region after pasting
-    aliases:
-    - /paste
-    usage: ''
-    desc: Paste the clipboard's contents
   /lazycut:
     help: |-
       Lazily cut the selection to the clipboard
@@ -779,6 +779,12 @@ OptionsCommands:
     - tips
     usage: ''
     desc: Toggle FAWE tips
+  /fast:
+    help: ''
+    aliases:
+    - /fast
+    usage: '[on|off]'
+    desc: Toggles FAWE undo
   /gtexture:
     help: The global destination mask applies to all edits you do and masks based on the destination blocks (i.e. the blocks in the world).
     aliases:
@@ -831,12 +837,6 @@ OptionsCommands:
     - searchitem
     usage: <query>
     desc: Search for an item
-  /fast:
-    help: ''
-    aliases:
-    - /fast
-    usage: '[on|off]'
-    desc: Toggles FAWE undo
 GenerationCommands:
   /ore:
     help: Generates ores
@@ -856,6 +856,13 @@ GenerationCommands:
     - pumpkins
     usage: '[size]'
     desc: Generate pumpkin patches
+  /caves:
+    help: Generates a cave network
+    aliases:
+    - /caves
+    usage: '[size=8] [freq=40] [rarity=7] [minY=8] [maxY=127] [sysFreq=1] [sysRarity=25]
+      [pocketRarity=0] [pocketMin=0] [pocketMax=3]'
+    desc: Generates caves
   /hcyl:
     help: |-
       Generates a hollow cylinder.
@@ -886,16 +893,6 @@ GenerationCommands:
     - /hsphere
     usage: <pattern> <radius>[,<radius>,<radius>] [raised?]
     desc: Generates a hollow sphere.
-  /sphere:
-    help: |-
-      Generates a filled sphere.
-      By specifying 3 radii, separated by commas,
-      you can generate an ellipsoid. The order of the ellipsoid radii
-      is north/south, up/down, east/west.
-    aliases:
-    - /sphere
-    usage: <pattern> <radius>[,<radius>,<radius>] [raised?]
-    desc: Generates a filled sphere.
   forestgen:
     help: ''
     aliases:
@@ -914,13 +911,6 @@ GenerationCommands:
     - /pyramid
     usage: <pattern> <size>
     desc: Generate a filled pyramid
-  /caves:
-    help: Generates a cave network
-    aliases:
-    - /caves
-    usage: '[size=8] [freq=40] [rarity=7] [minY=8] [maxY=127] [sysFreq=1] [sysRarity=25]
-      [pocketRarity=0] [pocketMin=0] [pocketMax=3]'
-    desc: Generates caves
   /generatebiome:
     help: |-
       Generates a shape according to a formula that is expected to
@@ -939,6 +929,23 @@ GenerationCommands:
     - /gb
     usage: <biome> <expression>
     desc: Sets biome according to a formula.
+  /sphere:
+    help: |-
+      Generates a filled sphere.
+      By specifying 3 radii, separated by commas,
+      you can generate an ellipsoid. The order of the ellipsoid radii
+      is north/south, up/down, east/west.
+    aliases:
+    - /sphere
+    usage: <pattern> <radius>[,<radius>,<radius>] [raised?]
+    desc: Generates a filled sphere.
+  /image:
+    help: ''
+    aliases:
+    - /image
+    - /img
+    usage: <imgur> [randomize=true] [complexity=100] [dimensions=100,100]
+    desc: Generate an image
   /generate:
     help: |-
       Generates a shape according to a formula that is expected to
@@ -957,13 +964,6 @@ GenerationCommands:
     - /g
     usage: <pattern> <expression>
     desc: Generates a shape according to a formula.
-  /image:
-    help: ''
-    aliases:
-    - /image
-    - /img
-    usage: <imgur> [randomize=true] [complexity=100] [dimensions=100,100]
-    desc: Generate an image
 HistoryCommands:
   /clearhistory:
     help: ''
@@ -984,15 +984,6 @@ HistoryCommands:
     desc: |-
       Undo a specific edit.  - The time uses s, m, h, d, y.
        - Import from disk: /frb #import
-  /fawerestore:
-    help: ''
-    aliases:
-    - /fawerestore
-    - /frestore
-    usage: <user=Empire92|*> <radius=5> <time=3d4h>
-    desc: |-
-      Redo a specific edit.  - The time uses s, m, h, d, y.
-       - Import from disk: /frb #import
   /redo:
     help: ''
     aliases:
@@ -1007,14 +998,16 @@ HistoryCommands:
     - undo
     usage: '[times] [player]'
     desc: Undoes the last action
-NavigationCommands:
-  unstuck:
+  /fawerestore:
     help: ''
     aliases:
-    - unstuck
-    - '!'
-    usage: ''
-    desc: Escape from being stuck inside a block
+    - /fawerestore
+    - /frestore
+    usage: <user=Empire92|*> <radius=5> <time=3d4h>
+    desc: |-
+      Redo a specific edit.  - The time uses s, m, h, d, y.
+       - Import from disk: /frb #import
+NavigationCommands:
   ascend:
     help: ''
     aliases:
@@ -1044,6 +1037,13 @@ NavigationCommands:
     desc: |-
       Teleport to a locationFlags:
         -f forces the specified position to be used
+  unstuck:
+    help: ''
+    aliases:
+    - unstuck
+    - '!'
+    usage: ''
+    desc: Escape from being stuck inside a block
   ceil:
     help: ''
     aliases:
@@ -1076,6 +1076,48 @@ RegionCommands:
     - /flora
     usage: '[density]'
     desc: Make flora within the region
+  /regen:
+    help: |-
+      Regenerates the contents of the current selection.
+      This command might affect things outside the selection,
+      if they are within the same chunk.
+    aliases:
+    - /regen
+    usage: '[biome] [seed]'
+    desc: Regenerates the contents of the selection
+  /getlighting:
+    help: ''
+    aliases:
+    - /getlighting
+    usage: ''
+    desc: Get the light at a position
+  /fixlighting:
+    help: ''
+    aliases:
+    - /fixlighting
+    usage: ''
+    desc: Get the light at a position
+  /removelight:
+    help: ''
+    aliases:
+    - /removelight
+    - /removelighting
+    usage: ''
+    desc: Removing lighting in a selection
+  /nbtinfo:
+    help: ''
+    aliases:
+    - /nbtinfo
+    - /nbt
+    usage: ''
+    desc: View nbt info for a block
+  /setblocklight:
+    help: ''
+    aliases:
+    - /setblocklight
+    - /setlight
+    usage: ''
+    desc: Set block lighting in a selection
   /setskylight:
     help: ''
     aliases:
@@ -1125,48 +1167,6 @@ RegionCommands:
     - /deform
     usage: <expression>
     desc: Deforms a selected region with an expression
-  /regen:
-    help: |-
-      Regenerates the contents of the current selection.
-      This command might affect things outside the selection,
-      if they are within the same chunk.
-    aliases:
-    - /regen
-    usage: '[biome] [seed]'
-    desc: Regenerates the contents of the selection
-  /getlighting:
-    help: ''
-    aliases:
-    - /getlighting
-    usage: ''
-    desc: Get the light at a position
-  /removelight:
-    help: ''
-    aliases:
-    - /removelight
-    - /removelighting
-    usage: ''
-    desc: Removing lighting in a selection
-  /nbtinfo:
-    help: ''
-    aliases:
-    - /nbtinfo
-    - /nbt
-    usage: ''
-    desc: View nbt info for a block
-  /setblocklight:
-    help: ''
-    aliases:
-    - /setblocklight
-    - /setlight
-    usage: ''
-    desc: Set block lighting in a selection
-  /fixlighting:
-    help: ''
-    aliases:
-    - /fixlighting
-    usage: ''
-    desc: Get the light at a position
   /curve:
     help: |-
       Draws a spline through selected points.
@@ -1178,14 +1178,6 @@ RegionCommands:
     - /spline
     usage: <pattern> [thickness]
     desc: Draws a spline through selected points
-  /fall:
-    help: |-
-      Make the blocks in the selection fall
-      The -m flag will only fall within the vertical selection.
-    aliases:
-    - /fall
-    usage: '[replace]'
-    desc: Have the blocks in the selection fall
   /line:
     help: |-
       Draws a line segment between cuboid selection corners.
@@ -1217,6 +1209,33 @@ RegionCommands:
     - /hollow
     usage: '[<thickness>[ <pattern>]]'
     desc: Hollows out the object contained in this selection
+  /center:
+    help: ''
+    aliases:
+    - /center
+    - /middle
+    usage: <pattern>
+    desc: Set the center block(s)
+  /overlay:
+    help: ''
+    aliases:
+    - /overlay
+    usage: <pattern>
+    desc: Set a block on top of blocks in the region
+  /fall:
+    help: |-
+      Make the blocks in the selection fall
+      The -m flag will only fall within the vertical selection.
+    aliases:
+    - /fall
+    usage: '[replace]'
+    desc: Have the blocks in the selection fall
+  /forest:
+    help: ''
+    aliases:
+    - /forest
+    usage: '[type] [density]'
+    desc: Make a forest within the region
   /smooth:
     help: |-
       Smooths the elevation in the selection.
@@ -1226,25 +1245,6 @@ RegionCommands:
     - /smooth
     usage: '[iterations]'
     desc: Smooth the elevation in the selection
-  /forest:
-    help: ''
-    aliases:
-    - /forest
-    usage: '[type] [density]'
-    desc: Make a forest within the region
-  /overlay:
-    help: ''
-    aliases:
-    - /overlay
-    usage: <pattern>
-    desc: Set a block on top of blocks in the region
-  /center:
-    help: ''
-    aliases:
-    - /center
-    - /middle
-    usage: <pattern>
-    desc: Set the center block(s)
   /replace:
     help: ''
     aliases:
@@ -1285,26 +1285,6 @@ ScriptingCommands:
     usage: <filename> [args...]
     desc: Execute a CraftScript
 SelectionCommands:
-  /outset:
-    help: |
-      Expands the selection by the given amount in all directions.
-      Flags:
-        -h only expand horizontally
-        -v only expand vertically
-    aliases:
-    - /outset
-    usage: <amount>
-    desc: Outset the selection area
-  /inset:
-    help: |
-      Contracts the selection by the given amount in all directions.
-      Flags:
-        -h only contract horizontally
-        -v only contract vertically
-    aliases:
-    - /inset
-    usage: <amount>
-    desc: Inset the selection area
   /distr:
     help: |-
       Gets the distribution of blocks in the selection.
@@ -1314,6 +1294,12 @@ SelectionCommands:
     - /distr
     usage: ''
     desc: Get the distribution of blocks in the selection
+  toggleeditwand:
+    help: ''
+    aliases:
+    - toggleeditwand
+    usage: ''
+    desc: Toggle functionality of the edit wand
   /hpos1:
     help: ''
     aliases:
@@ -1326,12 +1312,12 @@ SelectionCommands:
     - /hpos2
     usage: ''
     desc: Set position 2 to targeted block
-  toggleeditwand:
+  /contract:
     help: ''
     aliases:
-    - toggleeditwand
-    usage: ''
-    desc: Toggle functionality of the edit wand
+    - /contract
+    usage: <amount> [reverse-amount] [direction]
+    desc: Contract the selection area
   /wand:
     help: ''
     aliases:
@@ -1339,12 +1325,26 @@ SelectionCommands:
     - /w
     usage: ''
     desc: Get the wand object
-  /contract:
-    help: ''
+  /inset:
+    help: |
+      Contracts the selection by the given amount in all directions.
+      Flags:
+        -h only contract horizontally
+        -v only contract vertically
     aliases:
-    - /contract
-    usage: <amount> [reverse-amount] [direction]
-    desc: Contract the selection area
+    - /inset
+    usage: <amount>
+    desc: Inset the selection area
+  /outset:
+    help: |
+      Expands the selection by the given amount in all directions.
+      Flags:
+        -h only expand horizontally
+        -v only expand vertically
+    aliases:
+    - /outset
+    usage: <amount>
+    desc: Outset the selection area
   /pos1:
     help: ''
     aliases:
@@ -1423,23 +1423,6 @@ BrushOptionsCommands:
     - scroll
     usage: '[none|clipboard|mask|pattern|range|size|visual|target|targetoffset]'
     desc: Toggle between different target modes
-  targetmask:
-    help: ''
-    aliases:
-    - targetmask
-    - tarmask
-    - tm
-    usage: '[mask]'
-    desc: Set the targeting mask
-  smask:
-    help: Set the brush source mask
-    aliases:
-    - smask
-    - /smask
-    - /sourcemask
-    - sourcemask
-    usage: '[mask]'
-    desc: Set the brush source mask
   savebrush:
     help: |-
       Save your current brush
@@ -1463,6 +1446,23 @@ BrushOptionsCommands:
     - ','
     usage: '[on|off]'
     desc: Toggle the super pickaxe function
+  targetmask:
+    help: ''
+    aliases:
+    - targetmask
+    - tarmask
+    - tm
+    usage: '[mask]'
+    desc: Set the targeting mask
+  smask:
+    help: Set the brush source mask
+    aliases:
+    - smask
+    - /smask
+    - /sourcemask
+    - sourcemask
+    usage: '[mask]'
+    desc: Set the brush source mask
   transform:
     help: ''
     aliases:
@@ -1501,12 +1501,6 @@ BrushOptionsCommands:
     - to
     usage: '[mask]'
     desc: Set the targeting mask
-  secondary:
-    help: Set the left click brush
-    aliases:
-    - secondary
-    usage: '[brush-arguments]'
-    desc: Set the left click brush
   mat:
     help: ''
     aliases:
@@ -1514,6 +1508,12 @@ BrushOptionsCommands:
     - material
     usage: '[pattern]'
     desc: Set the brush material
+  secondary:
+    help: Set the left click brush
+    aliases:
+    - secondary
+    usage: '[brush-arguments]'
+    desc: Set the left click brush
   target:
     help: ''
     aliases:
@@ -1625,6 +1625,27 @@ UtilityCommands:
     - /gui
     usage: ''
     desc: Open the GUI
+  /ex:
+    help: ''
+    aliases:
+    - /ex
+    - /ext
+    - /extinguish
+    - ex
+    - ext
+    - extinguish
+    usage: '[radius]'
+    desc: Extinguish nearby fire
+  /calc:
+    help: ''
+    aliases:
+    - /calc
+    - /calculate
+    - /eval
+    - /evaluate
+    - /solve
+    usage: <expression>
+    desc: Evaluate a mathematical expression
   /heightmapinterface:
     help: ''
     aliases:
@@ -1658,17 +1679,6 @@ UtilityCommands:
     - replacenear
     usage: <size> <from-id> <to-id>
     desc: Replace nearby blocks
-  /ex:
-    help: ''
-    aliases:
-    - /ex
-    - /ext
-    - /extinguish
-    - ex
-    - ext
-    - extinguish
-    usage: '[radius]'
-    desc: Extinguish nearby fire
   /removeabove:
     help: ''
     aliases:
@@ -1738,6 +1748,13 @@ UtilityCommands:
     - /confirm
     usage: ''
     desc: Confirm a command
+  /snow:
+    help: ''
+    aliases:
+    - /snow
+    - snow
+    usage: '[radius]'
+    desc: Simulates snow
   butcher:
     help: |-
       Kills nearby mobs, based on radius, if none is given uses default in configuration.
@@ -1755,23 +1772,6 @@ UtilityCommands:
     - butcher
     usage: '[radius]'
     desc: Kill all or nearby mobs
-  /snow:
-    help: ''
-    aliases:
-    - /snow
-    - snow
-    usage: '[radius]'
-    desc: Simulates snow
-  /calc:
-    help: ''
-    aliases:
-    - /calc
-    - /calculate
-    - /eval
-    - /evaluate
-    - /solve
-    usage: <expression>
-    desc: Evaluate a mathematical expression
   remove:
     help: ''
     aliases:
@@ -2353,13 +2353,6 @@ SuperPickaxeCommands:
     usage: ''
     desc: Enable the single block super pickaxe mode
 TransformCommands:
-  '#spread':
-    help: ''
-    aliases:
-    - '#spread'
-    - '#randomoffset'
-    usage: <dx> <dy> <dz> [transform]
-    desc: Random offset transform
   '#linear':
     help: ''
     aliases:
@@ -2374,6 +2367,13 @@ TransformCommands:
     - '#l3d'
     usage: <transform>
     desc: Use the x,y,z coordinate to pick a transform from the list
+  '#spread':
+    help: ''
+    aliases:
+    - '#spread'
+    - '#randomoffset'
+    usage: <dx> <dy> <dz> [transform]
+    desc: Random offset transform
   '#pattern':
     help: ''
     aliases:

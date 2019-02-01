@@ -26,8 +26,8 @@
 			<fluidStack>water 10</fluidStack>
 		</input>
 		<output>
-			<fluidStack>oxygen 100</fluidStack>
 			<fluidStack>hydrogen 100</fluidStack>
+			<fluidStack>oxygen 100</fluidStack>
 		</output>
 	</Recipe>
 </Recipes>
