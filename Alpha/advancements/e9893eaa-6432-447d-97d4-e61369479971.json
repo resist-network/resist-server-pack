@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2019-02-03 03:54:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
       "entered_water": "2019-02-03 00:47:32 +0000"
@@ -8,6 +14,12 @@
   "biomesoplenty:recipes/transportation/boat_mahogany": {
     "criteria": {
       "entered_water": "2019-02-03 00:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2019-02-03 03:54:52 +0000"
     },
     "done": true
   },
@@ -23,6 +35,18 @@
     },
     "done": true
   },
+  "refinedstorage:upgrading": {
+    "criteria": {
+      "upgrade_in_inventory": "2019-02-03 03:57:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2019-02-03 03:54:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_jacaranda": {
     "criteria": {
       "entered_water": "2019-02-03 00:47:32 +0000"
@@ -35,6 +59,18 @@
     },
     "done": true
   },
+  "refinedstorage:drives": {
+    "criteria": {
+      "disk_drive_in_inventory": "2019-02-03 03:49:17 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2019-02-03 03:47:45 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "wasteland": "2019-02-03 00:44:27 +0000",
@@ -42,6 +78,30 @@
       "ominous_woods": "2019-02-03 00:46:22 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2019-02-03 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2019-02-03 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2019-02-03 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2019-02-03 03:54:52 +0000"
+    },
+    "done": true
   },
   "cfm:root": {
     "criteria": {
@@ -52,6 +112,12 @@
   "biomesoplenty:recipes/transportation/boat_fir": {
     "criteria": {
       "entered_water": "2019-02-03 00:47:32 +0000"
+    },
+    "done": true
+  },
+  "projecte:transmutation_tablet": {
+    "criteria": {
+      "trans_tablet": "2019-02-03 03:53:09 +0000"
     },
     "done": true
   },
@@ -79,6 +145,24 @@
     },
     "done": true
   },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_ender2": "2019-02-03 04:08:13 +0000"
+    },
+    "done": false
+  },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2019-02-03 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2019-02-03 03:54:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_hellbark": {
     "criteria": {
       "entered_water": "2019-02-03 00:47:32 +0000"
@@ -88,6 +172,18 @@
   "biomesoplenty:recipes/transportation/boat_willow": {
     "criteria": {
       "entered_water": "2019-02-03 00:47:32 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:energy/1_energy_conduit": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit": "2019-02-03 04:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2019-02-03 03:54:52 +0000"
     },
     "done": true
   },
@@ -109,6 +205,12 @@
     },
     "done": true
   },
+  "enderioconduits:energy/3_energy_conduit_ender": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_ender": "2019-02-03 04:08:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2019-02-03 00:47:32 +0000"
@@ -121,15 +223,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2019-02-03 03:54:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
       "entered_water": "2019-02-03 00:47:32 +0000"
     },
     "done": true
   },
+  "refinedstorage:importing": {
+    "criteria": {
+      "importer_in_inventory": "2019-02-03 03:55:34 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_redwood": {
     "criteria": {
       "entered_water": "2019-02-03 00:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2019-02-03 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:upgrading_your_grid": {
+    "criteria": {
+      "crafting_grid_in_inventory": "2019-02-03 03:48:55 +0000"
     },
     "done": true
   },
