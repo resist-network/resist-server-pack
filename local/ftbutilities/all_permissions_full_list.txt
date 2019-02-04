@@ -18506,6 +18506,9 @@ command.tellraw
 command.testfor
 command.testforblock
 command.testforblocks
+command.tickprofiler.dump
+command.tickprofiler.profile
+command.tickprofiler.tps
 command.time
 command.tinkertoolleveling.leveluptool
 command.title
