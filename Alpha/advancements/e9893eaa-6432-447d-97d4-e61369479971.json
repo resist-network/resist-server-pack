@@ -1,7 +1,8 @@
 {
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "cold_desert": "2019-02-04 13:09:20 +0000"
+      "cold_desert": "2019-02-04 13:09:20 +0000",
+      "wasteland": "2019-02-04 13:26:49 +0000"
     },
     "done": false
   },
