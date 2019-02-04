@@ -17803,6 +17803,7 @@ command.ftbutilities.rtp
 command.ftbutilities.sethome
 command.ftbutilities.setwarp
 command.ftbutilities.shutdown
+command.ftbutilities.shutdown_time
 command.ftbutilities.spawn
 command.ftbutilities.tpa
 command.ftbutilities.tpaccept
