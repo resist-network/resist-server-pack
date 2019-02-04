@@ -1,4 +1,4 @@
-16644 nodes in total
+16754 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -65,6 +65,8 @@ enderio.gui.item_advanced_item_filter: ALL
 enderio.gui.item_basic_item_filter: ALL
 enderio.gui.item_big_advanced_item_filter: ALL
 enderio.gui.item_big_item_filter: ALL
+enderio.gui.item_enchantment_filter_big: ALL
+enderio.gui.item_enchantment_filter_normal: ALL
 enderio.gui.item_existing_item_filter: ALL
 enderio.gui.item_fluid_filter: ALL
 enderio.gui.item_limited_item_filter: ALL
@@ -1355,6 +1357,7 @@ ftbutilities.claims.block.edit.enderio.block_fused_quartz: OP
 ftbutilities.claims.block.edit.enderio.block_gauge: OP
 ftbutilities.claims.block.edit.enderio.block_impulse_hopper: OP
 ftbutilities.claims.block.edit.enderio.block_industrial_insulation: OP
+ftbutilities.claims.block.edit.enderio.block_infinity: OP
 ftbutilities.claims.block.edit.enderio.block_infinity_fog: OP
 ftbutilities.claims.block.edit.enderio.block_inhibitor_obelisk: OP
 ftbutilities.claims.block.edit.enderio.block_killer_joe: OP
@@ -1378,6 +1381,7 @@ ftbutilities.claims.block.edit.enderio.block_painted_iron_trapdoor: OP
 ftbutilities.claims.block.edit.enderio.block_painted_pressure_plate: OP
 ftbutilities.claims.block.edit.enderio.block_painted_redstone: OP
 ftbutilities.claims.block.edit.enderio.block_painted_redstone_solid: OP
+ftbutilities.claims.block.edit.enderio.block_painted_reinforced_obsidian: OP
 ftbutilities.claims.block.edit.enderio.block_painted_slab: OP
 ftbutilities.claims.block.edit.enderio.block_painted_stair: OP
 ftbutilities.claims.block.edit.enderio.block_painted_stone: OP
@@ -2470,6 +2474,7 @@ ftbutilities.claims.block.edit.ic2.wall: OP
 ftbutilities.claims.block.edit.ic2.weed_ex: OP
 ftbutilities.claims.block.edit.icbmclassic.batterybox: OP
 ftbutilities.claims.block.edit.icbmclassic.concrete: OP
+ftbutilities.claims.block.edit.icbmclassic.cruiselauncher: OP
 ftbutilities.claims.block.edit.icbmclassic.emptower: OP
 ftbutilities.claims.block.edit.icbmclassic.explosives: OP
 ftbutilities.claims.block.edit.icbmclassic.glassbutton: OP
@@ -3177,6 +3182,8 @@ ftbutilities.claims.block.edit.opensecurity.energy_turret: OP
 ftbutilities.claims.block.edit.opensecurity.entity_detector: OP
 ftbutilities.claims.block.edit.opensecurity.keypad: OP
 ftbutilities.claims.block.edit.opensecurity.mag_reader: OP
+ftbutilities.claims.block.edit.opensecurity.nanofog: OP
+ftbutilities.claims.block.edit.opensecurity.nanofog_terminal: OP
 ftbutilities.claims.block.edit.opensecurity.private_secure_door: OP
 ftbutilities.claims.block.edit.opensecurity.rfid_reader: OP
 ftbutilities.claims.block.edit.opensecurity.secure_door: OP
@@ -5333,6 +5340,7 @@ ftbutilities.claims.block.interact.enderio.block_fused_quartz: OP
 ftbutilities.claims.block.interact.enderio.block_gauge: OP
 ftbutilities.claims.block.interact.enderio.block_impulse_hopper: OP
 ftbutilities.claims.block.interact.enderio.block_industrial_insulation: OP
+ftbutilities.claims.block.interact.enderio.block_infinity: OP
 ftbutilities.claims.block.interact.enderio.block_infinity_fog: OP
 ftbutilities.claims.block.interact.enderio.block_inhibitor_obelisk: OP
 ftbutilities.claims.block.interact.enderio.block_killer_joe: OP
@@ -5356,6 +5364,7 @@ ftbutilities.claims.block.interact.enderio.block_painted_iron_trapdoor: OP
 ftbutilities.claims.block.interact.enderio.block_painted_pressure_plate: OP
 ftbutilities.claims.block.interact.enderio.block_painted_redstone: OP
 ftbutilities.claims.block.interact.enderio.block_painted_redstone_solid: OP
+ftbutilities.claims.block.interact.enderio.block_painted_reinforced_obsidian: OP
 ftbutilities.claims.block.interact.enderio.block_painted_slab: OP
 ftbutilities.claims.block.interact.enderio.block_painted_stair: OP
 ftbutilities.claims.block.interact.enderio.block_painted_stone: OP
@@ -6448,6 +6457,7 @@ ftbutilities.claims.block.interact.ic2.wall: OP
 ftbutilities.claims.block.interact.ic2.weed_ex: OP
 ftbutilities.claims.block.interact.icbmclassic.batterybox: OP
 ftbutilities.claims.block.interact.icbmclassic.concrete: OP
+ftbutilities.claims.block.interact.icbmclassic.cruiselauncher: OP
 ftbutilities.claims.block.interact.icbmclassic.emptower: OP
 ftbutilities.claims.block.interact.icbmclassic.explosives: OP
 ftbutilities.claims.block.interact.icbmclassic.glassbutton: OP
@@ -7155,6 +7165,8 @@ ftbutilities.claims.block.interact.opensecurity.energy_turret: OP
 ftbutilities.claims.block.interact.opensecurity.entity_detector: OP
 ftbutilities.claims.block.interact.opensecurity.keypad: OP
 ftbutilities.claims.block.interact.opensecurity.mag_reader: OP
+ftbutilities.claims.block.interact.opensecurity.nanofog: OP
+ftbutilities.claims.block.interact.opensecurity.nanofog_terminal: OP
 ftbutilities.claims.block.interact.opensecurity.private_secure_door: ALL
 ftbutilities.claims.block.interact.opensecurity.rfid_reader: OP
 ftbutilities.claims.block.interact.opensecurity.secure_door: ALL
@@ -9782,6 +9794,7 @@ ftbutilities.claims.item.enderio.block_fused_quartz: ALL
 ftbutilities.claims.item.enderio.block_gauge: ALL
 ftbutilities.claims.item.enderio.block_impulse_hopper: ALL
 ftbutilities.claims.item.enderio.block_industrial_insulation: ALL
+ftbutilities.claims.item.enderio.block_infinity: ALL
 ftbutilities.claims.item.enderio.block_infinity_fog: ALL
 ftbutilities.claims.item.enderio.block_inhibitor_obelisk: ALL
 ftbutilities.claims.item.enderio.block_killer_joe: ALL
@@ -9801,6 +9814,7 @@ ftbutilities.claims.item.enderio.block_painted_iron_trapdoor: ALL
 ftbutilities.claims.item.enderio.block_painted_pressure_plate: ALL
 ftbutilities.claims.item.enderio.block_painted_redstone: ALL
 ftbutilities.claims.item.enderio.block_painted_redstone_solid: ALL
+ftbutilities.claims.item.enderio.block_painted_reinforced_obsidian: ALL
 ftbutilities.claims.item.enderio.block_painted_slab: ALL
 ftbutilities.claims.item.enderio.block_painted_stair: ALL
 ftbutilities.claims.item.enderio.block_painted_stone: ALL
@@ -9873,6 +9887,8 @@ ftbutilities.claims.item.enderio.item_dark_steel_pickaxe: ALL
 ftbutilities.claims.item.enderio.item_dark_steel_shears: ALL
 ftbutilities.claims.item.enderio.item_dark_steel_sword: ALL
 ftbutilities.claims.item.enderio.item_dark_steel_treetap: ALL
+ftbutilities.claims.item.enderio.item_enchantment_filter_big: ALL
+ftbutilities.claims.item.enderio.item_enchantment_filter_normal: ALL
 ftbutilities.claims.item.enderio.item_end_steel_axe: ALL
 ftbutilities.claims.item.enderio.item_end_steel_boots: ALL
 ftbutilities.claims.item.enderio.item_end_steel_bow: ALL
@@ -11429,6 +11445,7 @@ ftbutilities.claims.item.icbmclassic.bombcart: ALL
 ftbutilities.claims.item.icbmclassic.circuit: ALL
 ftbutilities.claims.item.icbmclassic.clump: ALL
 ftbutilities.claims.item.icbmclassic.concrete: ALL
+ftbutilities.claims.item.icbmclassic.cruiselauncher: ALL
 ftbutilities.claims.item.icbmclassic.defuser: ALL
 ftbutilities.claims.item.icbmclassic.emptower: ALL
 ftbutilities.claims.item.icbmclassic.explosives: ALL
@@ -12917,6 +12934,9 @@ ftbutilities.claims.item.opensecurity.keypad: ALL
 ftbutilities.claims.item.opensecurity.mag_card: ALL
 ftbutilities.claims.item.opensecurity.mag_reader: ALL
 ftbutilities.claims.item.opensecurity.movement_upgrade: ALL
+ftbutilities.claims.item.opensecurity.nanodna: ALL
+ftbutilities.claims.item.opensecurity.nanofog: ALL
+ftbutilities.claims.item.opensecurity.nanofog_terminal: ALL
 ftbutilities.claims.item.opensecurity.private_secure_door: ALL
 ftbutilities.claims.item.opensecurity.rfid_card: ALL
 ftbutilities.claims.item.opensecurity.rfid_reader: ALL
@@ -14910,6 +14930,12 @@ openentity.capability.iauthoritycapability.permissions.entity.forestry.butterfly
 openentity.capability.iauthoritycapability.permissions.entity.forestry.cart.apiary: ALL
 openentity.capability.iauthoritycapability.permissions.entity.forestry.cart.beehouse: ALL
 openentity.capability.iauthoritycapability.permissions.entity.icbmclassic.cart.bomb: ALL
+openentity.capability.iauthoritycapability.permissions.entity.icbmclassic.skeleton.xmas.boss: ALL
+openentity.capability.iauthoritycapability.permissions.entity.icbmclassic.skeleton.xmas.elf: ALL
+openentity.capability.iauthoritycapability.permissions.entity.icbmclassic.skeleton.xmas.snowman: ALL
+openentity.capability.iauthoritycapability.permissions.entity.icbmclassic.zombie.xmas.boss: ALL
+openentity.capability.iauthoritycapability.permissions.entity.icbmclassic.zombie.xmas.creeper: ALL
+openentity.capability.iauthoritycapability.permissions.entity.icbmclassic.zombie.xmas.elf: ALL
 openentity.capability.iauthoritycapability.permissions.entity.industrialforegoing.pink_slime: ALL
 openentity.capability.iauthoritycapability.permissions.entity.matteroverdrive.drone: ALL
 openentity.capability.iauthoritycapability.permissions.entity.matteroverdrive.failed_chicken: ALL
@@ -15026,6 +15052,12 @@ openentity.capability.icosmeticcapability.permissions.entity.forestry.butterflyg
 openentity.capability.icosmeticcapability.permissions.entity.forestry.cart.apiary: ALL
 openentity.capability.icosmeticcapability.permissions.entity.forestry.cart.beehouse: ALL
 openentity.capability.icosmeticcapability.permissions.entity.icbmclassic.cart.bomb: ALL
+openentity.capability.icosmeticcapability.permissions.entity.icbmclassic.skeleton.xmas.boss: ALL
+openentity.capability.icosmeticcapability.permissions.entity.icbmclassic.skeleton.xmas.elf: ALL
+openentity.capability.icosmeticcapability.permissions.entity.icbmclassic.skeleton.xmas.snowman: ALL
+openentity.capability.icosmeticcapability.permissions.entity.icbmclassic.zombie.xmas.boss: ALL
+openentity.capability.icosmeticcapability.permissions.entity.icbmclassic.zombie.xmas.creeper: ALL
+openentity.capability.icosmeticcapability.permissions.entity.icbmclassic.zombie.xmas.elf: ALL
 openentity.capability.icosmeticcapability.permissions.entity.industrialforegoing.pink_slime: ALL
 openentity.capability.icosmeticcapability.permissions.entity.matteroverdrive.drone: ALL
 openentity.capability.icosmeticcapability.permissions.entity.matteroverdrive.failed_chicken: ALL
@@ -15142,6 +15174,12 @@ openentity.capability.icustominventorycapability.permissions.entity.forestry.but
 openentity.capability.icustominventorycapability.permissions.entity.forestry.cart.apiary: ALL
 openentity.capability.icustominventorycapability.permissions.entity.forestry.cart.beehouse: ALL
 openentity.capability.icustominventorycapability.permissions.entity.icbmclassic.cart.bomb: ALL
+openentity.capability.icustominventorycapability.permissions.entity.icbmclassic.skeleton.xmas.boss: ALL
+openentity.capability.icustominventorycapability.permissions.entity.icbmclassic.skeleton.xmas.elf: ALL
+openentity.capability.icustominventorycapability.permissions.entity.icbmclassic.skeleton.xmas.snowman: ALL
+openentity.capability.icustominventorycapability.permissions.entity.icbmclassic.zombie.xmas.boss: ALL
+openentity.capability.icustominventorycapability.permissions.entity.icbmclassic.zombie.xmas.creeper: ALL
+openentity.capability.icustominventorycapability.permissions.entity.icbmclassic.zombie.xmas.elf: ALL
 openentity.capability.icustominventorycapability.permissions.entity.industrialforegoing.pink_slime: ALL
 openentity.capability.icustominventorycapability.permissions.entity.matteroverdrive.drone: ALL
 openentity.capability.icustominventorycapability.permissions.entity.matteroverdrive.failed_chicken: ALL
@@ -15258,6 +15296,12 @@ openentity.capability.ienergycapability.permissions.entity.forestry.butterflyge:
 openentity.capability.ienergycapability.permissions.entity.forestry.cart.apiary: ALL
 openentity.capability.ienergycapability.permissions.entity.forestry.cart.beehouse: ALL
 openentity.capability.ienergycapability.permissions.entity.icbmclassic.cart.bomb: ALL
+openentity.capability.ienergycapability.permissions.entity.icbmclassic.skeleton.xmas.boss: ALL
+openentity.capability.ienergycapability.permissions.entity.icbmclassic.skeleton.xmas.elf: ALL
+openentity.capability.ienergycapability.permissions.entity.icbmclassic.skeleton.xmas.snowman: ALL
+openentity.capability.ienergycapability.permissions.entity.icbmclassic.zombie.xmas.boss: ALL
+openentity.capability.ienergycapability.permissions.entity.icbmclassic.zombie.xmas.creeper: ALL
+openentity.capability.ienergycapability.permissions.entity.icbmclassic.zombie.xmas.elf: ALL
 openentity.capability.ienergycapability.permissions.entity.industrialforegoing.pink_slime: ALL
 openentity.capability.ienergycapability.permissions.entity.matteroverdrive.drone: ALL
 openentity.capability.ienergycapability.permissions.entity.matteroverdrive.failed_chicken: ALL
@@ -15374,6 +15418,12 @@ openentity.capability.iequipmentcapability.permissions.entity.forestry.butterfly
 openentity.capability.iequipmentcapability.permissions.entity.forestry.cart.apiary: ALL
 openentity.capability.iequipmentcapability.permissions.entity.forestry.cart.beehouse: ALL
 openentity.capability.iequipmentcapability.permissions.entity.icbmclassic.cart.bomb: ALL
+openentity.capability.iequipmentcapability.permissions.entity.icbmclassic.skeleton.xmas.boss: ALL
+openentity.capability.iequipmentcapability.permissions.entity.icbmclassic.skeleton.xmas.elf: ALL
+openentity.capability.iequipmentcapability.permissions.entity.icbmclassic.skeleton.xmas.snowman: ALL
+openentity.capability.iequipmentcapability.permissions.entity.icbmclassic.zombie.xmas.boss: ALL
+openentity.capability.iequipmentcapability.permissions.entity.icbmclassic.zombie.xmas.creeper: ALL
+openentity.capability.iequipmentcapability.permissions.entity.icbmclassic.zombie.xmas.elf: ALL
 openentity.capability.iequipmentcapability.permissions.entity.industrialforegoing.pink_slime: ALL
 openentity.capability.iequipmentcapability.permissions.entity.matteroverdrive.drone: ALL
 openentity.capability.iequipmentcapability.permissions.entity.matteroverdrive.failed_chicken: ALL
@@ -15490,6 +15540,12 @@ openentity.capability.iexperiencecapability.permissions.entity.forestry.butterfl
 openentity.capability.iexperiencecapability.permissions.entity.forestry.cart.apiary: ALL
 openentity.capability.iexperiencecapability.permissions.entity.forestry.cart.beehouse: ALL
 openentity.capability.iexperiencecapability.permissions.entity.icbmclassic.cart.bomb: ALL
+openentity.capability.iexperiencecapability.permissions.entity.icbmclassic.skeleton.xmas.boss: ALL
+openentity.capability.iexperiencecapability.permissions.entity.icbmclassic.skeleton.xmas.elf: ALL
+openentity.capability.iexperiencecapability.permissions.entity.icbmclassic.skeleton.xmas.snowman: ALL
+openentity.capability.iexperiencecapability.permissions.entity.icbmclassic.zombie.xmas.boss: ALL
+openentity.capability.iexperiencecapability.permissions.entity.icbmclassic.zombie.xmas.creeper: ALL
+openentity.capability.iexperiencecapability.permissions.entity.icbmclassic.zombie.xmas.elf: ALL
 openentity.capability.iexperiencecapability.permissions.entity.industrialforegoing.pink_slime: ALL
 openentity.capability.iexperiencecapability.permissions.entity.matteroverdrive.drone: ALL
 openentity.capability.iexperiencecapability.permissions.entity.matteroverdrive.failed_chicken: ALL
@@ -15606,6 +15662,12 @@ openentity.capability.ifluidscapability.permissions.entity.forestry.butterflyge:
 openentity.capability.ifluidscapability.permissions.entity.forestry.cart.apiary: ALL
 openentity.capability.ifluidscapability.permissions.entity.forestry.cart.beehouse: ALL
 openentity.capability.ifluidscapability.permissions.entity.icbmclassic.cart.bomb: ALL
+openentity.capability.ifluidscapability.permissions.entity.icbmclassic.skeleton.xmas.boss: ALL
+openentity.capability.ifluidscapability.permissions.entity.icbmclassic.skeleton.xmas.elf: ALL
+openentity.capability.ifluidscapability.permissions.entity.icbmclassic.skeleton.xmas.snowman: ALL
+openentity.capability.ifluidscapability.permissions.entity.icbmclassic.zombie.xmas.boss: ALL
+openentity.capability.ifluidscapability.permissions.entity.icbmclassic.zombie.xmas.creeper: ALL
+openentity.capability.ifluidscapability.permissions.entity.icbmclassic.zombie.xmas.elf: ALL
 openentity.capability.ifluidscapability.permissions.entity.industrialforegoing.pink_slime: ALL
 openentity.capability.ifluidscapability.permissions.entity.matteroverdrive.drone: ALL
 openentity.capability.ifluidscapability.permissions.entity.matteroverdrive.failed_chicken: ALL
@@ -15722,6 +15784,12 @@ openentity.capability.ihotkeyscapability.permissions.entity.forestry.butterflyge
 openentity.capability.ihotkeyscapability.permissions.entity.forestry.cart.apiary: ALL
 openentity.capability.ihotkeyscapability.permissions.entity.forestry.cart.beehouse: ALL
 openentity.capability.ihotkeyscapability.permissions.entity.icbmclassic.cart.bomb: ALL
+openentity.capability.ihotkeyscapability.permissions.entity.icbmclassic.skeleton.xmas.boss: ALL
+openentity.capability.ihotkeyscapability.permissions.entity.icbmclassic.skeleton.xmas.elf: ALL
+openentity.capability.ihotkeyscapability.permissions.entity.icbmclassic.skeleton.xmas.snowman: ALL
+openentity.capability.ihotkeyscapability.permissions.entity.icbmclassic.zombie.xmas.boss: ALL
+openentity.capability.ihotkeyscapability.permissions.entity.icbmclassic.zombie.xmas.creeper: ALL
+openentity.capability.ihotkeyscapability.permissions.entity.icbmclassic.zombie.xmas.elf: ALL
 openentity.capability.ihotkeyscapability.permissions.entity.industrialforegoing.pink_slime: ALL
 openentity.capability.ihotkeyscapability.permissions.entity.matteroverdrive.drone: ALL
 openentity.capability.ihotkeyscapability.permissions.entity.matteroverdrive.failed_chicken: ALL
@@ -15838,6 +15906,12 @@ openentity.capability.iinfocapability.permissions.entity.forestry.butterflyge: A
 openentity.capability.iinfocapability.permissions.entity.forestry.cart.apiary: ALL
 openentity.capability.iinfocapability.permissions.entity.forestry.cart.beehouse: ALL
 openentity.capability.iinfocapability.permissions.entity.icbmclassic.cart.bomb: ALL
+openentity.capability.iinfocapability.permissions.entity.icbmclassic.skeleton.xmas.boss: ALL
+openentity.capability.iinfocapability.permissions.entity.icbmclassic.skeleton.xmas.elf: ALL
+openentity.capability.iinfocapability.permissions.entity.icbmclassic.skeleton.xmas.snowman: ALL
+openentity.capability.iinfocapability.permissions.entity.icbmclassic.zombie.xmas.boss: ALL
+openentity.capability.iinfocapability.permissions.entity.icbmclassic.zombie.xmas.creeper: ALL
+openentity.capability.iinfocapability.permissions.entity.icbmclassic.zombie.xmas.elf: ALL
 openentity.capability.iinfocapability.permissions.entity.industrialforegoing.pink_slime: ALL
 openentity.capability.iinfocapability.permissions.entity.matteroverdrive.drone: ALL
 openentity.capability.iinfocapability.permissions.entity.matteroverdrive.failed_chicken: ALL
@@ -15954,6 +16028,12 @@ openentity.capability.iopencomputercapability.permissions.entity.forestry.butter
 openentity.capability.iopencomputercapability.permissions.entity.forestry.cart.apiary: ALL
 openentity.capability.iopencomputercapability.permissions.entity.forestry.cart.beehouse: ALL
 openentity.capability.iopencomputercapability.permissions.entity.icbmclassic.cart.bomb: ALL
+openentity.capability.iopencomputercapability.permissions.entity.icbmclassic.skeleton.xmas.boss: ALL
+openentity.capability.iopencomputercapability.permissions.entity.icbmclassic.skeleton.xmas.elf: ALL
+openentity.capability.iopencomputercapability.permissions.entity.icbmclassic.skeleton.xmas.snowman: ALL
+openentity.capability.iopencomputercapability.permissions.entity.icbmclassic.zombie.xmas.boss: ALL
+openentity.capability.iopencomputercapability.permissions.entity.icbmclassic.zombie.xmas.creeper: ALL
+openentity.capability.iopencomputercapability.permissions.entity.icbmclassic.zombie.xmas.elf: ALL
 openentity.capability.iopencomputercapability.permissions.entity.industrialforegoing.pink_slime: ALL
 openentity.capability.iopencomputercapability.permissions.entity.matteroverdrive.drone: ALL
 openentity.capability.iopencomputercapability.permissions.entity.matteroverdrive.failed_chicken: ALL
@@ -16070,6 +16150,12 @@ openentity.capability.iredstonecapability.permissions.entity.forestry.butterflyg
 openentity.capability.iredstonecapability.permissions.entity.forestry.cart.apiary: ALL
 openentity.capability.iredstonecapability.permissions.entity.forestry.cart.beehouse: ALL
 openentity.capability.iredstonecapability.permissions.entity.icbmclassic.cart.bomb: ALL
+openentity.capability.iredstonecapability.permissions.entity.icbmclassic.skeleton.xmas.boss: ALL
+openentity.capability.iredstonecapability.permissions.entity.icbmclassic.skeleton.xmas.elf: ALL
+openentity.capability.iredstonecapability.permissions.entity.icbmclassic.skeleton.xmas.snowman: ALL
+openentity.capability.iredstonecapability.permissions.entity.icbmclassic.zombie.xmas.boss: ALL
+openentity.capability.iredstonecapability.permissions.entity.icbmclassic.zombie.xmas.creeper: ALL
+openentity.capability.iredstonecapability.permissions.entity.icbmclassic.zombie.xmas.elf: ALL
 openentity.capability.iredstonecapability.permissions.entity.industrialforegoing.pink_slime: ALL
 openentity.capability.iredstonecapability.permissions.entity.matteroverdrive.drone: ALL
 openentity.capability.iredstonecapability.permissions.entity.matteroverdrive.failed_chicken: ALL
@@ -16186,6 +16272,12 @@ openentity.capability.isocialcapability.permissions.entity.forestry.butterflyge:
 openentity.capability.isocialcapability.permissions.entity.forestry.cart.apiary: ALL
 openentity.capability.isocialcapability.permissions.entity.forestry.cart.beehouse: ALL
 openentity.capability.isocialcapability.permissions.entity.icbmclassic.cart.bomb: ALL
+openentity.capability.isocialcapability.permissions.entity.icbmclassic.skeleton.xmas.boss: ALL
+openentity.capability.isocialcapability.permissions.entity.icbmclassic.skeleton.xmas.elf: ALL
+openentity.capability.isocialcapability.permissions.entity.icbmclassic.skeleton.xmas.snowman: ALL
+openentity.capability.isocialcapability.permissions.entity.icbmclassic.zombie.xmas.boss: ALL
+openentity.capability.isocialcapability.permissions.entity.icbmclassic.zombie.xmas.creeper: ALL
+openentity.capability.isocialcapability.permissions.entity.icbmclassic.zombie.xmas.elf: ALL
 openentity.capability.isocialcapability.permissions.entity.industrialforegoing.pink_slime: ALL
 openentity.capability.isocialcapability.permissions.entity.matteroverdrive.drone: ALL
 openentity.capability.isocialcapability.permissions.entity.matteroverdrive.failed_chicken: ALL
@@ -16302,6 +16394,12 @@ openentity.capability.iteleportcapability.permissions.entity.forestry.butterflyg
 openentity.capability.iteleportcapability.permissions.entity.forestry.cart.apiary: ALL
 openentity.capability.iteleportcapability.permissions.entity.forestry.cart.beehouse: ALL
 openentity.capability.iteleportcapability.permissions.entity.icbmclassic.cart.bomb: ALL
+openentity.capability.iteleportcapability.permissions.entity.icbmclassic.skeleton.xmas.boss: ALL
+openentity.capability.iteleportcapability.permissions.entity.icbmclassic.skeleton.xmas.elf: ALL
+openentity.capability.iteleportcapability.permissions.entity.icbmclassic.skeleton.xmas.snowman: ALL
+openentity.capability.iteleportcapability.permissions.entity.icbmclassic.zombie.xmas.boss: ALL
+openentity.capability.iteleportcapability.permissions.entity.icbmclassic.zombie.xmas.creeper: ALL
+openentity.capability.iteleportcapability.permissions.entity.icbmclassic.zombie.xmas.elf: ALL
 openentity.capability.iteleportcapability.permissions.entity.industrialforegoing.pink_slime: ALL
 openentity.capability.iteleportcapability.permissions.entity.matteroverdrive.drone: ALL
 openentity.capability.iteleportcapability.permissions.entity.matteroverdrive.failed_chicken: ALL
@@ -16418,6 +16516,12 @@ openentity.capability.iupgradeitemscapability.permissions.entity.forestry.butter
 openentity.capability.iupgradeitemscapability.permissions.entity.forestry.cart.apiary: ALL
 openentity.capability.iupgradeitemscapability.permissions.entity.forestry.cart.beehouse: ALL
 openentity.capability.iupgradeitemscapability.permissions.entity.icbmclassic.cart.bomb: ALL
+openentity.capability.iupgradeitemscapability.permissions.entity.icbmclassic.skeleton.xmas.boss: ALL
+openentity.capability.iupgradeitemscapability.permissions.entity.icbmclassic.skeleton.xmas.elf: ALL
+openentity.capability.iupgradeitemscapability.permissions.entity.icbmclassic.skeleton.xmas.snowman: ALL
+openentity.capability.iupgradeitemscapability.permissions.entity.icbmclassic.zombie.xmas.boss: ALL
+openentity.capability.iupgradeitemscapability.permissions.entity.icbmclassic.zombie.xmas.creeper: ALL
+openentity.capability.iupgradeitemscapability.permissions.entity.icbmclassic.zombie.xmas.elf: ALL
 openentity.capability.iupgradeitemscapability.permissions.entity.industrialforegoing.pink_slime: ALL
 openentity.capability.iupgradeitemscapability.permissions.entity.matteroverdrive.drone: ALL
 openentity.capability.iupgradeitemscapability.permissions.entity.matteroverdrive.failed_chicken: ALL
@@ -16540,6 +16644,12 @@ openentity.settingsgeneral.permissions.entity.forestry.butterflyge: ALL
 openentity.settingsgeneral.permissions.entity.forestry.cart.apiary: ALL
 openentity.settingsgeneral.permissions.entity.forestry.cart.beehouse: ALL
 openentity.settingsgeneral.permissions.entity.icbmclassic.cart.bomb: ALL
+openentity.settingsgeneral.permissions.entity.icbmclassic.skeleton.xmas.boss: ALL
+openentity.settingsgeneral.permissions.entity.icbmclassic.skeleton.xmas.elf: ALL
+openentity.settingsgeneral.permissions.entity.icbmclassic.skeleton.xmas.snowman: ALL
+openentity.settingsgeneral.permissions.entity.icbmclassic.zombie.xmas.boss: ALL
+openentity.settingsgeneral.permissions.entity.icbmclassic.zombie.xmas.creeper: ALL
+openentity.settingsgeneral.permissions.entity.icbmclassic.zombie.xmas.elf: ALL
 openentity.settingsgeneral.permissions.entity.industrialforegoing.pink_slime: ALL
 openentity.settingsgeneral.permissions.entity.matteroverdrive.drone: ALL
 openentity.settingsgeneral.permissions.entity.matteroverdrive.failed_chicken: ALL
@@ -16687,16 +16797,11 @@ command.debug
 command.defaultgamemode
 command.deop
 command.difficulty
-command.discordintegration.discord
 command.dldungeonsjbg.dlddimid
 command.dldungeonsjbg.dldforceinstallthemes
 command.dldungeonsjbg.dldinstallthemes
 command.dldungeonsjbg.dldreload
 command.dldungeonsjbg.dldspawn
-command.dynmap.dmap
-command.dynmap.dmarker
-command.dynmap.dynmap
-command.dynmap.dynmapexp
 command.effect
 command.enchant
 command.endercore.reloadserverconfigs
@@ -16823,6 +16928,7 @@ command.hammercore.hc_timetoticks
 command.hammercore.hc_tpx
 command.help
 command.ic2.ic2
+command.icbmclassic.icbm
 command.icbmclassic.icbmc
 command.immersiveengineering.ie.clearshaders
 command.immersiveengineering.ie.help.clearshaders
@@ -16836,6 +16942,7 @@ command.immersiveengineering.ie.mineral.list
 command.immersiveengineering.ie.mineral.set
 command.immersiveengineering.ie.mineral.setdepletion
 command.industrialwires.iw
+command.journeymap.jtp
 command.justenoughdimensions.jed
 command.justenoughdimensions.tpj
 command.k4lib.coords
@@ -16929,9 +17036,6 @@ command.tellraw
 command.testfor
 command.testforblock
 command.testforblocks
-command.tickprofiler.dump
-command.tickprofiler.profile
-command.tickprofiler.tps
 command.time
 command.tinkertoolleveling.leveluptool
 command.title
