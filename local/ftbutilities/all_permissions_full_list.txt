@@ -16942,7 +16942,6 @@ command.immersiveengineering.ie.mineral.list
 command.immersiveengineering.ie.mineral.set
 command.immersiveengineering.ie.mineral.setdepletion
 command.industrialwires.iw
-command.journeymap.jtp
 command.justenoughdimensions.jed
 command.justenoughdimensions.tpj
 command.k4lib.coords

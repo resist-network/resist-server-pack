@@ -42,3 +42,5 @@ motd=Resist.Network
 enable-rcon=true
 rcon.port=25567
 rcon.password=MCR_PASS
+fml.readTimeout=90
+fml.loginTimeout=900

@@ -281,15 +281,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2019-02-03 05:47:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2019-02-03 05:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2019-02-03 05:47:04 +0000"
     },
     "done": true
   },
@@ -334,15 +334,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2019-02-03 06:11:15 +0000"
-    },
-    "done": true
-  },
   "computercraft:recipes/advanced_computer": {
     "criteria": {
       "has_redstone": "2019-02-03 05:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2019-02-03 06:11:15 +0000"
     },
     "done": true
   },
@@ -454,15 +454,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-02-03 06:11:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2019-02-03 05:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-02-03 06:11:15 +0000"
     },
     "done": true
   },
@@ -616,15 +616,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pink_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-02-03 06:11:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_block": {
     "criteria": {
       "has_gold_block": "2019-02-03 05:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-02-03 06:11:15 +0000"
     },
     "done": true
   },
