@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2019-02-04 11:32:56 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:root": {
     "criteria": {
       "controller_in_inventory": "2019-02-03 03:47:45 +0000"
@@ -525,6 +531,12 @@
       "has_glass": "2019-02-03 06:11:15 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2019-02-04 11:32:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
