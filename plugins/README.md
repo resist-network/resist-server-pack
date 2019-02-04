@@ -1,1 +1,0 @@
-This location is for Spongeforge Plugins only.

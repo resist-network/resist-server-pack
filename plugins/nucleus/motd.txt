@@ -1,7 +1,0 @@
-&7Web: &ehttps://resist.network
-&7Discord: &ehttps://discord.gg/5AJ5GUh
-&6Players online:&c {{onlineplayers}} &6- World time:&c {{time}}
-&7Use &l&3/help&r&7 for help!
-&7Land claim information will be displayed when you place a chest!
-&7Use &l&3/vote&r&7 to vote daily for rewards!
-&8&m================================================
