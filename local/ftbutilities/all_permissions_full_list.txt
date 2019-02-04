@@ -1,4 +1,4 @@
-18223 nodes in total
+18231 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -4085,6 +4085,7 @@ ftbutilities.claims.block.edit.rftoolspower.cell1: OP
 ftbutilities.claims.block.edit.rftoolspower.cell2: OP
 ftbutilities.claims.block.edit.rftoolspower.cell3: OP
 ftbutilities.claims.block.edit.rftoolspower.information_screen: OP
+ftbutilities.claims.block.edit.scalinghealth.crystalore: OP
 ftbutilities.claims.block.edit.securitycraft.alarm: OP
 ftbutilities.claims.block.edit.securitycraft.alarm_lit: OP
 ftbutilities.claims.block.edit.securitycraft.bogus_lava: OP
@@ -8411,6 +8412,7 @@ ftbutilities.claims.block.interact.rftoolspower.cell1: OP
 ftbutilities.claims.block.interact.rftoolspower.cell2: OP
 ftbutilities.claims.block.interact.rftoolspower.cell3: OP
 ftbutilities.claims.block.interact.rftoolspower.information_screen: OP
+ftbutilities.claims.block.interact.scalinghealth.crystalore: OP
 ftbutilities.claims.block.interact.securitycraft.alarm: OP
 ftbutilities.claims.block.interact.securitycraft.alarm_lit: OP
 ftbutilities.claims.block.interact.securitycraft.bogus_lava: OP
@@ -14988,6 +14990,12 @@ ftbutilities.claims.item.rftoolspower.information_screen: ALL
 ftbutilities.claims.item.rftoolspower.power_core1: ALL
 ftbutilities.claims.item.rftoolspower.power_core2: ALL
 ftbutilities.claims.item.rftoolspower.power_core3: ALL
+ftbutilities.claims.item.scalinghealth.crystalore: ALL
+ftbutilities.claims.item.scalinghealth.crystalshard: ALL
+ftbutilities.claims.item.scalinghealth.difficultychanger: ALL
+ftbutilities.claims.item.scalinghealth.healingitem: ALL
+ftbutilities.claims.item.scalinghealth.heartcontainer: ALL
+ftbutilities.claims.item.scalinghealth.heartdust: ALL
 ftbutilities.claims.item.securitycraft.admin_tool: ALL
 ftbutilities.claims.item.securitycraft.alarm: ALL
 ftbutilities.claims.item.securitycraft.blacklist_module: ALL
@@ -18478,10 +18486,12 @@ command.rftools.rfttp
 command.rftoolsdim.rftdb
 command.rftoolsdim.rftdim
 command.roguelike.roguelike
+command.rpreload
 command.save-all
 command.save-off
 command.save-on
 command.say
+command.scalinghealth.scalinghealth
 command.scoreboard
 command.securitycraft.module
 command.securitycraft.sc
