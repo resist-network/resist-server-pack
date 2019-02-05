@@ -286,7 +286,7 @@
 			<fogColor>1.0,1.0,1.0</fogColor>
 			<skyColor>0.0,0.84335387,1.0</skyColor>
 			<gravitationalMultiplier>130</gravitationalMultiplier>
-			<orbitalDistance>204</orbitalDistance>
+			<orbitalDistance>200</orbitalDistance>
 			<orbitalPhi>0</orbitalPhi>
 			<rotationalPeriod>10923</rotationalPeriod>
 			<atmosphereDensity>0</atmosphereDensity>
@@ -573,7 +573,7 @@
 			<isKnown>false</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
 			<skyColor>0.8,0.88066196,0.21884865</skyColor>
-			<gravitationalMultiplier>117</gravitationalMultiplier>
+			<gravitationalMultiplier>116</gravitationalMultiplier>
 			<orbitalDistance>2</orbitalDistance>
 			<orbitalPhi>-1</orbitalPhi>
 			<rotationalPeriod>14607</rotationalPeriod>
@@ -1077,7 +1077,7 @@
 			<fogColor>1.0,1.0,1.0</fogColor>
 			<skyColor>0.0,0.67668164,1.0</skyColor>
 			<gravitationalMultiplier>113</gravitationalMultiplier>
-			<orbitalDistance>204</orbitalDistance>
+			<orbitalDistance>200</orbitalDistance>
 			<orbitalPhi>2</orbitalPhi>
 			<rotationalPeriod>16633</rotationalPeriod>
 			<atmosphereDensity>21</atmosphereDensity>

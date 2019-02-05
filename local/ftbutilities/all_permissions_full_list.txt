@@ -17924,6 +17924,12 @@ command.setworldspawn
 command.silentlib.silentlib_datadump
 command.solarflux.solarflux.reload
 command.spawnpoint
+command.spawnprotection.sp-allow
+command.spawnprotection.sp-debug
+command.spawnprotection.sp-dimension
+command.spawnprotection.sp-display
+command.spawnprotection.sp-ignore
+command.spawnprotection.sp-radius
 command.spreadplayers
 command.stats
 command.stop
