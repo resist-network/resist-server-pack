@@ -1,0 +1,101 @@
+{
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2019-02-06 06:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2019-02-06 06:57:31 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_ender2": "2019-02-06 07:11:13 +0000",
+      "inv_changed-enderio:liquid_conduit2": "2019-02-06 07:20:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-02-06 07:23:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "skeleton": "2019-02-06 07:01:30 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/1_fluid_conduit": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit": "2019-02-06 07:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "skeleton": "2019-02-06 07:01:30 +0000"
+    },
+    "done": false
+  },
+  "enderioconduits:energy/1_energy_conduit": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit": "2019-02-06 07:11:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2019-02-06 06:54:29 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:energy/3_energy_conduit_ender": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_ender": "2019-02-06 07:11:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "steppe": "2019-02-06 07:06:03 +0000",
+      "cold_desert": "2019-02-06 06:57:24 +0000",
+      "wasteland": "2019-02-06 06:54:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2019-02-06 06:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2019-02-06 06:57:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2019-02-06 06:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2019-02-06 06:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2019-02-06 06:57:31 +0000"
+    },
+    "done": true
+  }
+}

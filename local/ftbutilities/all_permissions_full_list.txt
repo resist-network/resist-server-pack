@@ -1,4 +1,4 @@
-17654 nodes in total
+17649 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -12199,7 +12199,6 @@ ftbutilities.claims.item.jaopca.item_gearardite: ALL
 ftbutilities.claims.item.jaopca.item_gearboron: ALL
 ftbutilities.claims.item.jaopca.item_gearcoal: ALL
 ftbutilities.claims.item.jaopca.item_gearcobalt: ALL
-ftbutilities.claims.item.jaopca.item_geardilithium: ALL
 ftbutilities.claims.item.jaopca.item_geardimensionalshard: ALL
 ftbutilities.claims.item.jaopca.item_gearenderbiotite: ALL
 ftbutilities.claims.item.jaopca.item_gearlapis: ALL
@@ -12220,7 +12219,6 @@ ftbutilities.claims.item.jaopca.item_nuggetamethyst: ALL
 ftbutilities.claims.item.jaopca.item_nuggetapatite: ALL
 ftbutilities.claims.item.jaopca.item_nuggetboron: ALL
 ftbutilities.claims.item.jaopca.item_nuggetcoal: ALL
-ftbutilities.claims.item.jaopca.item_nuggetdilithium: ALL
 ftbutilities.claims.item.jaopca.item_nuggetdimensionalshard: ALL
 ftbutilities.claims.item.jaopca.item_nuggetenderbiotite: ALL
 ftbutilities.claims.item.jaopca.item_nuggetlapis: ALL
@@ -12270,7 +12268,6 @@ ftbutilities.claims.item.jaopca.item_platedenseboron: ALL
 ftbutilities.claims.item.jaopca.item_platedensecoal: ALL
 ftbutilities.claims.item.jaopca.item_platedensecobalt: ALL
 ftbutilities.claims.item.jaopca.item_platedensediamond: ALL
-ftbutilities.claims.item.jaopca.item_platedensedilithium: ALL
 ftbutilities.claims.item.jaopca.item_platedensedimensionalshard: ALL
 ftbutilities.claims.item.jaopca.item_platedenseemerald: ALL
 ftbutilities.claims.item.jaopca.item_platedenseenderbiotite: ALL
@@ -12293,7 +12290,6 @@ ftbutilities.claims.item.jaopca.item_platedensetitanium: ALL
 ftbutilities.claims.item.jaopca.item_platedensetopaz: ALL
 ftbutilities.claims.item.jaopca.item_platedenseuranium: ALL
 ftbutilities.claims.item.jaopca.item_platediamond: ALL
-ftbutilities.claims.item.jaopca.item_platedilithium: ALL
 ftbutilities.claims.item.jaopca.item_platedimensionalshard: ALL
 ftbutilities.claims.item.jaopca.item_plateemerald: ALL
 ftbutilities.claims.item.jaopca.item_plateenderbiotite: ALL
@@ -12316,7 +12312,6 @@ ftbutilities.claims.item.jaopca.item_stickboron: ALL
 ftbutilities.claims.item.jaopca.item_stickcoal: ALL
 ftbutilities.claims.item.jaopca.item_stickcobalt: ALL
 ftbutilities.claims.item.jaopca.item_stickdiamond: ALL
-ftbutilities.claims.item.jaopca.item_stickdilithium: ALL
 ftbutilities.claims.item.jaopca.item_stickdimensionalshard: ALL
 ftbutilities.claims.item.jaopca.item_stickemerald: ALL
 ftbutilities.claims.item.jaopca.item_stickenderbiotite: ALL
