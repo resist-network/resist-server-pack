@@ -1,26 +1,5 @@
 <galaxy>
 	<star name="Sol" temp="100" x="0" y="0" size="1.0" numPlanets="0" numGasGiants="0" >
-		<planet name="Earth" DIMID="0" dimMapping="">
-			<isKnown>true</isKnown>
-			<fogColor>1.0,1.0,1.0</fogColor>
-			<skyColor>1.0,1.0,1.0</skyColor>
-			<gravitationalMultiplier>100</gravitationalMultiplier>
-			<orbitalDistance>100</orbitalDistance>
-			<orbitalPhi>0</orbitalPhi>
-			<rotationalPeriod>24000</rotationalPeriod>
-			<atmosphereDensity>100</atmosphereDensity>
-			<planet name="Luna" DIMID="2">
-				<isKnown>false</isKnown>
-				<fogColor>1.0,1.0,1.0</fogColor>
-				<skyColor>1.0,1.0,1.0</skyColor>
-				<gravitationalMultiplier>16</gravitationalMultiplier>
-				<orbitalDistance>150</orbitalDistance>
-				<orbitalPhi>0</orbitalPhi>
-				<rotationalPeriod>128000</rotationalPeriod>
-				<atmosphereDensity>0</atmosphereDensity>
-				<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-			</planet>
-		</planet>
 		<planet name="Sol-16" DIMID="16">
 			<isKnown>false</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
@@ -57,25 +36,24 @@
 			</planet>
 			<oceanBlock>minecraft:lava</oceanBlock>
 		</planet>
-		<planet name="Sol-3" DIMID="3">
-			<isKnown>false</isKnown>
-			<GasGiant>true</GasGiant>
+		<planet name="Earth" DIMID="0" dimMapping="">
+			<isKnown>true</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
 			<skyColor>1.0,1.0,1.0</skyColor>
-			<gravitationalMultiplier>104</gravitationalMultiplier>
-			<orbitalDistance>200</orbitalDistance>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>100</orbitalDistance>
 			<orbitalPhi>0</orbitalPhi>
 			<rotationalPeriod>24000</rotationalPeriod>
-			<atmosphereDensity>112</atmosphereDensity>
-			<planet name="Sol-3: 0" DIMID="4">
+			<atmosphereDensity>100</atmosphereDensity>
+			<planet name="Luna" DIMID="2">
 				<isKnown>false</isKnown>
 				<fogColor>1.0,1.0,1.0</fogColor>
-				<skyColor>0.0,0.8259423,1.0</skyColor>
-				<gravitationalMultiplier>38</gravitationalMultiplier>
-				<orbitalDistance>170</orbitalDistance>
-				<orbitalPhi>1</orbitalPhi>
-				<rotationalPeriod>437381</rotationalPeriod>
-				<atmosphereDensity>20</atmosphereDensity>
+				<skyColor>1.0,1.0,1.0</skyColor>
+				<gravitationalMultiplier>16</gravitationalMultiplier>
+				<orbitalDistance>150</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>128000</rotationalPeriod>
+				<atmosphereDensity>0</atmosphereDensity>
 				<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
 			</planet>
 		</planet>
@@ -102,6 +80,28 @@
 				<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
 			</planet>
 			<oceanBlock>advancedrocketry:oxygenfluid</oceanBlock>
+		</planet>
+		<planet name="Sol-3" DIMID="3">
+			<isKnown>false</isKnown>
+			<GasGiant>true</GasGiant>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>104</gravitationalMultiplier>
+			<orbitalDistance>200</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<atmosphereDensity>112</atmosphereDensity>
+			<planet name="Sol-3: 0" DIMID="4">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.8259423,1.0</skyColor>
+				<gravitationalMultiplier>38</gravitationalMultiplier>
+				<orbitalDistance>170</orbitalDistance>
+				<orbitalPhi>1</orbitalPhi>
+				<rotationalPeriod>437381</rotationalPeriod>
+				<atmosphereDensity>20</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+			</planet>
 		</planet>
 		<planet name="Sol-5" DIMID="5">
 			<isKnown>false</isKnown>
@@ -244,7 +244,7 @@
 			<fogColor>1.0,1.0,1.0</fogColor>
 			<skyColor>0.0,0.5399431,1.0</skyColor>
 			<gravitationalMultiplier>130</gravitationalMultiplier>
-			<orbitalDistance>204</orbitalDistance>
+			<orbitalDistance>200</orbitalDistance>
 			<orbitalPhi>-2</orbitalPhi>
 			<rotationalPeriod>10923</rotationalPeriod>
 			<atmosphereDensity>0</atmosphereDensity>
@@ -289,7 +289,7 @@
 			<isKnown>false</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
 			<skyColor>0.8,0.70162785,0.824185</skyColor>
-			<gravitationalMultiplier>117</gravitationalMultiplier>
+			<gravitationalMultiplier>116</gravitationalMultiplier>
 			<orbitalDistance>5</orbitalDistance>
 			<orbitalPhi>0</orbitalPhi>
 			<rotationalPeriod>14607</rotationalPeriod>
@@ -660,7 +660,7 @@
 			<isKnown>false</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
 			<skyColor>0.8,0.5539887,0.9158228</skyColor>
-			<gravitationalMultiplier>105</gravitationalMultiplier>
+			<gravitationalMultiplier>104</gravitationalMultiplier>
 			<orbitalDistance>78</orbitalDistance>
 			<orbitalPhi>3</orbitalPhi>
 			<rotationalPeriod>20150</rotationalPeriod>
@@ -1023,7 +1023,7 @@
 			<fogColor>1.0,1.0,1.0</fogColor>
 			<skyColor>0.0,0.7677721,1.0</skyColor>
 			<gravitationalMultiplier>130</gravitationalMultiplier>
-			<orbitalDistance>202</orbitalDistance>
+			<orbitalDistance>200</orbitalDistance>
 			<orbitalPhi>4</orbitalPhi>
 			<rotationalPeriod>10923</rotationalPeriod>
 			<atmosphereDensity>0</atmosphereDensity>
