@@ -1,50 +1,25 @@
 {
-  "advancedrocketry:normal/suitedup": {
+  "minecraft:recipes/decorations/item_frame": {
     "criteria": {
-      "suited": "2019-02-08 20:22:52 +0000"
+      "has_leather": "2019-02-08 20:57:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
-      "has_stonebrick": "2019-02-08 20:06:48 +0000"
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
     },
     "done": true
   },
-  "enderioconduits:goals/all_conduits": {
+  "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
-      "inv_changed-enderio:power_conduit_ender2": "2019-02-08 20:10:25 +0000",
-      "inv_changed-enderio:liquid_conduit2": "2019-02-08 20:11:30 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2019-02-08 20:06:57 +0000"
-    },
-    "done": true
-  },
-  "enderioconduits:fluid/1_fluid_conduit": {
-    "criteria": {
-      "inv_changed-enderio:liquid_conduit": "2019-02-08 20:11:30 +0000"
+      "has_leather": "2019-02-08 20:57:06 +0000"
     },
     "done": true
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "enderman": "2019-02-08 20:06:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_quartz_block": "2019-02-08 20:06:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_quartz_block": "2019-02-08 20:06:48 +0000"
     },
     "done": true
   },
@@ -61,6 +36,163 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2019-02-08 20:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2019-02-08 20:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "wasteland": "2019-02-08 20:03:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2019-02-08 20:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2019-02-08 20:57:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2019-02-08 20:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/suitedup": {
+    "criteria": {
+      "suited": "2019-02-08 20:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2019-02-08 20:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-02-08 20:06:57 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_ender2": "2019-02-08 20:10:25 +0000",
+      "inv_changed-enderio:liquid_conduit2": "2019-02-08 20:11:30 +0000"
+    },
+    "done": false
+  },
+  "enderioconduits:fluid/1_fluid_conduit": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit": "2019-02-08 20:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2019-02-08 20:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2019-02-08 20:06:48 +0000"
+    },
+    "done": true
+  },
   "enderioconduits:energy/1_energy_conduit": {
     "criteria": {
       "inv_changed-enderio:power_conduit": "2019-02-08 20:10:25 +0000"
@@ -73,33 +205,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_brick_block": "2019-02-08 20:10:58 +0000"
-    },
-    "done": true
-  },
   "enderioconduits:energy/3_energy_conduit_ender": {
     "criteria": {
       "inv_changed-enderio:power_conduit_ender": "2019-02-08 20:10:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_slab": {
+  "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
-      "has_brick_block": "2019-02-08 20:10:58 +0000"
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/all_biomes": {
+  "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
-      "wasteland": "2019-02-08 20:03:01 +0000"
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2019-02-08 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2019-02-08 20:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2019-02-08 20:57:06 +0000"
     },
     "done": true
   },
@@ -115,15 +265,15 @@
     },
     "done": true
   },
-  "cfm:root": {
+  "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
-      "tick": "2019-02-08 20:03:02 +0000"
+      "has_leather": "2019-02-08 20:57:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+  "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
-      "has_quartz_block": "2019-02-08 20:06:48 +0000"
+      "has_iron_ingot": "2019-02-08 20:57:20 +0000"
     },
     "done": true
   }

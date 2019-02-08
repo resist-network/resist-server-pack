@@ -16759,6 +16759,7 @@ command.debug
 command.defaultgamemode
 command.deop
 command.difficulty
+command.discordintegration.discord
 command.effect
 command.enchant
 command.endercore.reloadserverconfigs
