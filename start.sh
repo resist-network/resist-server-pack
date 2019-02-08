@@ -4,8 +4,8 @@ rm -rf logs/*.gz
 MCR_PASS=$(cat ~/.mcr_pass)
 JAR="forge-1.12.2-14.23.5.2807-universal.jar"
 RAM_MIN="1G"
-RAM_MAX="8G"
-CPU_CORES="3"
+RAM_MAX="4G"
+CPU_CORES="2"
 #CURRENT_VERSION="$(curl -s 'https://raw.githubusercontent.com/worldautomation/WA-Launcher-Pack/master/app/assets/distribution.json' | awk '/version/{i++}i==2{print; exit}' | awk -F "\"*:\"*" '{print $2}' | cut -c 3- | cut -c -7)"
 if ! screen -list | grep -q "resist"; then
 	echo "Server is starting!"
