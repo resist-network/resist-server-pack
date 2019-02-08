@@ -1,11 +1,11 @@
 # These first 6 aren't configurable
 issues: "https://github.com/boy0001/FastAsyncWorldedit/issues"
 wiki: "https://github.com/boy0001/FastAsyncWorldedit/wiki/"
-date: "25 Nov 2018 00:00:00 GMT"
-build: "https://ci.athion.net/job/FastAsyncWorldEdit/1227"
-commit: "https://github.com/boy0001/FastAsyncWorldedit/commit/626169a"
+date: "12 Feb 2019 00:00:00 GMT"
+build: "https://ci.athion.net/job/FastAsyncWorldEdit/1245"
+commit: "https://github.com/boy0001/FastAsyncWorldedit/commit/dc2d277"
 platform: "forge"
-# Options: cn, de, es, fr, nl, ru, tr
+# Options: cn, de, es, fr, it, nl, ru, tr
 # Create a PR to contribute a translation: https://github.com/boy0001/FastAsyncWorldedit/new/master/core/src/main/resources
 language: ''
 # Enable or disable automatic updates
