@@ -29,15 +29,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_umbran": {
-    "criteria": {
-      "entered_water": "2019-02-08 11:15:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "skeleton": "2019-02-08 10:47:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_umbran": {
+    "criteria": {
+      "entered_water": "2019-02-08 11:15:23 +0000"
     },
     "done": true
   },
@@ -79,6 +79,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-02-08 10:56:07 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2019-02-08 11:15:23 +0000"
@@ -88,12 +94,6 @@
   "biomesoplenty:recipes/transportation/boat_ebony": {
     "criteria": {
       "entered_water": "2019-02-08 11:15:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2019-02-08 10:56:07 +0000"
     },
     "done": true
   },
@@ -109,15 +109,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_hellbark": {
-    "criteria": {
-      "entered_water": "2019-02-08 11:15:23 +0000"
-    },
-    "done": true
-  },
   "enderioconduits:energy/1_energy_conduit": {
     "criteria": {
       "inv_changed-enderio:power_conduit": "2019-02-08 10:55:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_hellbark": {
+    "criteria": {
+      "entered_water": "2019-02-08 11:15:23 +0000"
     },
     "done": true
   },
@@ -139,15 +139,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_mangrove": {
-    "criteria": {
-      "entered_water": "2019-02-08 11:15:23 +0000"
-    },
-    "done": true
-  },
   "enderioconduits:energy/3_energy_conduit_ender": {
     "criteria": {
       "inv_changed-enderio:power_conduit_ender": "2019-02-08 10:55:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mangrove": {
+    "criteria": {
+      "entered_water": "2019-02-08 11:15:23 +0000"
     },
     "done": true
   },
