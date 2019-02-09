@@ -7,7 +7,7 @@ logs/
 logs/*
 backups
 backups/*
-config/Chikachi/*
+config/Chikachi/discordintegration.json
 *.zip
 snapshots-server
 snapshots-server/*
