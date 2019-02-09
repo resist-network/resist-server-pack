@@ -43,7 +43,7 @@
     {
       "target": "white",
       "weight": 750,
-      "id": "OD:oreIron"
+      "id": "jaopca:item_orechunkiron"
     },
     {
       "target": "white",
@@ -63,7 +63,7 @@
     {
       "target": "yellow",
       "weight": 311,
-      "id": "OD:oreGold"
+      "id": "jaopca:item_orechunkgold"
     },
     {
       "target": "cyan",
@@ -83,37 +83,37 @@
     {
       "target": "orange",
       "weight": 584,
-      "id": "OD:oreCopper"
+      "id": "jaopca:item_orechunkcopper"
     },
     {
       "target": "gray",
       "weight": 602,
-      "id": "OD:oreTin"
+      "id": "jaopca:item_orechunktin"
     },
     {
       "target": "silver",
       "weight": 381,
-      "id": "OD:oreSilver"
+      "id": "jaopca:item_orechunksiler"
     },
     {
       "target": "purple",
       "weight": 500,
-      "id": "OD:oreLead"
+      "id": "jaopca:item_orechunklead"
     },
     {
       "target": "white",
       "weight": 422,
-      "id": "OD:oreAluminum"
+      "id": "jaopca:item_orechunkaluminum"
     },
     {
       "target": "green",
       "weight": 140,
-      "id": "OD:oreUranium"
+      "id": "jaopca:item_orechunkuranium"
     },
     {
       "target": "yellow",
       "weight": 156,
-      "id": "OD:oreYellorite"
+      "id": "jaopca:item_orechunkyellorium"
     },
     {
       "target": "light_blue",
@@ -138,17 +138,22 @@
     {
       "target": "gray",
       "weight": 232,
-      "id": "OD:oreNickel"
+      "id": "jaopca:item_orechunknickel"
     },
     {
       "target": "light_blue",
       "weight": 150,
-      "id": "OD:orePlatinum"
+      "id": "jaopca:item_orechunkplatinum"
     },
     {
       "target": "light_blue",
       "weight": 169,
-      "id": "OD:oreMithril"
+      "id": "jaopca:item_orechunkmithril"
+    },
+    {
+      "target": "light_blue",
+      "weight": 203,
+      "id": "OD:oreOsmium"
     },
     {
       "target": "black",
@@ -198,7 +203,7 @@
     {
       "target": "orange",
       "weight": 159,
-      "id": "OD:oreArdite"
+      "id": "jaopca:item_orechunkardite"
     },
     {
       "target": "light_blue",
@@ -261,7 +266,7 @@
       "id": "OD:oreTungsten"
     },
     {
-      "target": "light_blue",
+      "target": "silver",
       "weight": 251,
       "id": "OD:oreOsmium"
     },
@@ -296,39 +301,39 @@
       "id": "OD:oreBrainstone"
     },
     {
-      "target": "white",
-      "weight": 111,
-      "id": "thaumcraft:crystal_ordo"
-    },
-    {
       "target": "yellow",
       "weight": 111,
-      "id": "thaumcraft:crystal_air"
+      "id": "OD:oreCrystalAir"
     },
     {
       "target": "orange",
       "weight": 111,
-      "id": "thaumcraft:crystal_fire"
+      "id": "OD:oreCrystalFire"
+    },
+    {
+      "target": "light_blue",
+      "weight": 111,
+      "id": "OD:oreCrystalWater"
+    },
+    {
+      "target": "lime",
+      "weight": 111,
+      "id": "OD:oreCrystalEarth"
+    },
+    {
+      "target": "white",
+      "weight": 111,
+      "id": "OD:oreCrystalOrder"
     },
     {
       "target": "black",
       "weight": 111,
-      "id": "thaumcraft:crystal_perditio"
+      "id": "OD:oreCrystalEntropy"
     },
     {
       "target": "purple",
       "weight": 111,
-      "id": "thaumcraft:crystal_vitium"
-    },
-    {
-      "target": "blue",
-      "weight": 111,
-      "id": "thaumcraft:crystal_aqua"
-    },
-    {
-      "target": "green",
-      "weight": 111,
-      "id": "thaumcraft:crystal_terra"
+      "id": "OD:oreCrystalTaint"
     },
     {
       "target": "lime",
@@ -338,12 +343,12 @@
     {
       "target": "white",
       "weight": 223,
-      "id": "OD:oreTitaniumIron"
+      "id": "jaopca:item_orechunktitaniumIron"
     },
     {
       "target": "purple",
       "weight": 333,
-      "id": "OD:oreSilicon"
+      "id": "jaopca:item_orechunksilicon"
     },
     {
       "target": "white",
@@ -458,7 +463,7 @@
     {
       "target": "yellow",
       "weight": 200,
-      "id": "OD:oreGoldenBeryl"
+      "id": "jaopca:item_orechunkgoldenBeryl"
     },
     {
       "target": "green",
