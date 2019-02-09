@@ -16,8 +16,41 @@
         },
         "commands": []
       },
-      "channels": {}
-    }
+      "minecraft": {
+        "commandPrefix": "!",
+        "canExecuteCommands": false,
+        "stripMinecraftCodes": true,
+        "allowDMCommands": false,
+        "relayChat": true,
+        "messages": {
+          "chatMessage": "[{USER}] {MESSAGE}"
+        },
+        "commands": []
+      },
+      "531517547284004874": {
+        "commandPrefix": "!",
+        "canExecuteCommands": false,
+        "stripMinecraftCodes": true,
+        "allowDMCommands": false,
+        "relayChat": true,
+        "messages": {
+          "chatMessage": "[{USER}] {MESSAGE}"
+        },
+        "commands": []
+      },
+
+      "channels": {
+	      "531517547284004874": {
+	        "commandPrefix": "!",
+	        "canExecuteCommands": false,
+	        "stripMinecraftCodes": true,
+	        "allowDMCommands": false,
+	        "relayChat": true,
+	        "messages": {
+	          "chatMessage": "[{USER}] {MESSAGE}"
+	        },
+		"commands": []	
+	}
   },
   "minecraft": {
     "dimensions": {
