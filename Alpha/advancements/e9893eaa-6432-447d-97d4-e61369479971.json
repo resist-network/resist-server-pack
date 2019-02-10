@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "refinedstorage:upgrading": {
+    "criteria": {
+      "upgrade_in_inventory": "2019-02-10 08:40:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2019-02-09 00:11:15 +0000"
@@ -206,6 +212,12 @@
   "computercraft:recipes/normal_monitor": {
     "criteria": {
       "has_advanced": "2019-02-09 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:hollow_covering": {
+    "criteria": {
+      "hollow_cover_in_inventory": "2019-02-10 08:40:42 +0000"
     },
     "done": true
   },
@@ -278,6 +290,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-02-09 02:26:45 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2019-02-10 08:41:04 +0000"
     },
     "done": true
   },
@@ -565,6 +583,12 @@
     },
     "done": true
   },
+  "refinedstorage:importing": {
+    "criteria": {
+      "importer_in_inventory": "2019-02-10 08:41:12 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:upgrading_your_grid": {
     "criteria": {
       "crafting_grid_in_inventory": "2019-02-09 10:45:17 +0000"
@@ -761,6 +785,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-02-09 00:11:15 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:covering": {
+    "criteria": {
+      "cover_in_inventory": "2019-02-10 08:40:44 +0000"
     },
     "done": true
   },

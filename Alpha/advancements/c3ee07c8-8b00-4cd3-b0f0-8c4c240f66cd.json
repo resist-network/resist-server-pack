@@ -1,10 +1,22 @@
 {
+  "advancedrocketry:normal/givingitallshesgot": {
+    "criteria": {
+      "givingitallshesgot": "2019-02-10 08:43:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "outback": "2019-02-10 06:46:47 +0000",
       "wasteland": "2019-02-10 06:44:07 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2019-02-10 06:46:39 +0000"
+    },
+    "done": true
   },
   "enderioconduits:goals/all_conduits": {
     "criteria": {
@@ -15,12 +27,6 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2019-02-10 07:04:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2019-02-10 06:46:39 +0000"
     },
     "done": true
   },
