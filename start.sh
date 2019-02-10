@@ -15,6 +15,11 @@ if ! screen -list | grep -q "resist"; then
 	
 	rm server.properties
 	sed s/MCR_PASS/$MCR_PASS/g server.properties.template > server.properties
+
+	# UltimateChat MySQL
+	rm /storage/resist-server-pack/config/Chikachi/discordintegration.json;
+	sed "s#DISCORD_TOKEN#$DISCORD#g" /storage/resist-server-pack/config/Chikachi/discordintegration.json.template > /storage/resist-server-pack/config/Chikachi/discordintegration.json;
+
 	#sudo screen -dmS resist sudo java -Xmx8G -Xms6G -jar forge-1.12.2-14.23.5.2768-universal.jar nogui
 	sudo screen -dmS resist sudo java -server -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=$CPU_CORES -XX:+AggressiveOpts -Xms$RAM_MIN -Xmx$RAM_MAX -jar $JAR nogui
 else
