@@ -1,2 +1,5 @@
 <OreConfig>
+ <oreGen>
+  <ore block="jaopca:item_orechunkyellorium" minHeight="20" maxHeight="80" clumpSize="32" chancePerChunk="64" />
+ </oreGen>
 </OreConfig>
