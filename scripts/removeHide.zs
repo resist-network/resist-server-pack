@@ -8,7 +8,6 @@ mods.jei.JEI.removeAndHide(<lootbags:itemlootbag:2>);
 mods.jei.JEI.removeAndHide(<lootbags:itemlootbag:1>);
 mods.jei.JEI.removeAndHide(<lootbags:loot_storage>);
 mods.jei.JEI.removeAndHide(<lootbags:loot_recycler>);
-
 //Bad Textures
 mods.jei.JEI.removeAndHide(<advgenerators:generators_data_port:0>);
 mods.jei.JEI.removeAndHide(<advancedrocketry:oxygenfluid:0>);
@@ -40,10 +39,8 @@ mods.jei.JEI.removeAndHide(<icbmclassic:batterybox:0>);
 mods.jei.JEI.removeAndHide(<libvulpes:blockphantom:0>);
 mods.jei.JEI.removeAndHide(<securitycraft:bogus_lava_flowing:0>);
 mods.jei.JEI.removeAndHide(<securitycraft:bogus_water_flowing:0>);
-mods.jei.JEI.removeAndHide(<projecte:item.pe_fire_projectile:0>);
 mods.jei.JEI.removeAndHide(<cfm:item_drink:0>);
 mods.jei.JEI.removeAndHide(<cfm:item_crayfish:0>);
-mods.jei.JEI.removeAndHide(<projecte:item.pe_wind_projectile:0>);
 mods.jei.JEI.removeAndHide(<littlelooter:soda_sarsaparilla:0>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:upgrade:256>);
 mods.jei.JEI.removeAndHide(<refinedstorageaddons:wireless_crafting_grid:1>);
@@ -108,7 +105,6 @@ mods.jei.JEI.removeAndHide(<rftools:solid_shield_block_opaque:0>);
 mods.jei.JEI.removeAndHide(<rftools:notick_solid_shield_block_opaque:0>);
 mods.jei.JEI.removeAndHide(<rftools:camo_shield_block_opaque:0>);
 mods.jei.JEI.removeAndHide(<rftools:notick_camo_shield_block_opaque:0>);
-
 //second batch
 mods.jei.JEI.removeAndHide(<cyclicmagic:emerald_sword:0>);
 mods.jei.JEI.removeAndHide(<cyclicmagic:emerald_pickaxe:0>);
@@ -150,8 +146,6 @@ mods.jei.JEI.removeAndHide(<actuallyadditions:obsidian_paxel:0>);
 mods.jei.JEI.removeAndHide(<advgenerators:turbine_rotor_gold:0>);
 mods.jei.JEI.removeAndHide(<advgenerators:turbine_kit_gold:0>);
 mods.jei.JEI.removeAndHide(<advgenerators:turbine_gold:0>);
-
-
 //techguns
 mods.jei.JEI.removeAndHide(<techguns:t3_combat_helmet:0>);
 mods.jei.JEI.removeAndHide(<techguns:t3_combat_chestplate:0>);
@@ -230,4 +224,3 @@ mods.jei.JEI.removeAndHide(<techguns:pulserifle:0>);
 mods.jei.JEI.removeAndHide(<techguns:mibgun:0>);
 mods.jei.JEI.removeAndHide(<techguns:alienblaster:0>);
 mods.jei.JEI.removeAndHide(<plethora:module:1>);
-
