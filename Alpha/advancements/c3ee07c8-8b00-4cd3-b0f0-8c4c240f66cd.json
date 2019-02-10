@@ -1,0 +1,63 @@
+{
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "outback": "2019-02-10 06:46:47 +0000",
+      "wasteland": "2019-02-10 06:44:07 +0000"
+    },
+    "done": false
+  },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_ender2": "2019-02-10 06:50:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-02-10 07:04:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2019-02-10 06:46:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:dingdong": {
+    "criteria": {
+      "clicked_doorbell": "2019-02-10 07:15:25 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:energy/1_energy_conduit": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit": "2019-02-10 06:50:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2019-02-10 06:44:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2019-02-10 06:44:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "desert": "2019-02-10 06:46:04 +0000"
+    },
+    "done": false
+  },
+  "enderioconduits:energy/3_energy_conduit_ender": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_ender": "2019-02-10 06:50:31 +0000"
+    },
+    "done": true
+  }
+}
