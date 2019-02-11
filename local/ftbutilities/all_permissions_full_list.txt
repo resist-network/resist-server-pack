@@ -1,4 +1,4 @@
-17346 nodes in total
+17333 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -626,10 +626,6 @@ ftbutilities.claims.block.edit.botany.plant: OP
 ftbutilities.claims.block.edit.botany.soil: OP
 ftbutilities.claims.block.edit.botany.soil_no_weed: OP
 ftbutilities.claims.block.edit.botany.stained: OP
-ftbutilities.claims.block.edit.catwalks.cable: OP
-ftbutilities.claims.block.edit.catwalks.catwalk: OP
-ftbutilities.claims.block.edit.catwalks.ladder: OP
-ftbutilities.claims.block.edit.catwalks.stair: OP
 ftbutilities.claims.block.edit.cfm.bar_stool: OP
 ftbutilities.claims.block.edit.cfm.basin: OP
 ftbutilities.claims.block.edit.cfm.bath_bottom: OP
@@ -4619,10 +4615,6 @@ ftbutilities.claims.block.interact.botany.plant: OP
 ftbutilities.claims.block.interact.botany.soil: OP
 ftbutilities.claims.block.interact.botany.soil_no_weed: OP
 ftbutilities.claims.block.interact.botany.stained: OP
-ftbutilities.claims.block.interact.catwalks.cable: OP
-ftbutilities.claims.block.interact.catwalks.catwalk: OP
-ftbutilities.claims.block.interact.catwalks.ladder: OP
-ftbutilities.claims.block.interact.catwalks.stair: OP
 ftbutilities.claims.block.interact.cfm.bar_stool: OP
 ftbutilities.claims.block.interact.cfm.basin: OP
 ftbutilities.claims.block.interact.cfm.bath_bottom: OP
@@ -8942,11 +8934,6 @@ ftbutilities.claims.item.botany.trowel_gold: ALL
 ftbutilities.claims.item.botany.trowel_iron: ALL
 ftbutilities.claims.item.botany.trowel_stone: ALL
 ftbutilities.claims.item.botany.trowel_wood: ALL
-ftbutilities.claims.item.catwalks.blowtorch: ALL
-ftbutilities.claims.item.catwalks.cable: ALL
-ftbutilities.claims.item.catwalks.catwalk: ALL
-ftbutilities.claims.item.catwalks.ladder: ALL
-ftbutilities.claims.item.catwalks.stair: ALL
 ftbutilities.claims.item.cfm.bar_stool: ALL
 ftbutilities.claims.item.cfm.basin: ALL
 ftbutilities.claims.item.cfm.bath_bottom: ALL
