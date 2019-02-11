@@ -488,5 +488,12 @@
 		"index": 70,
 		"success": true,
 		"size": 34652356
+	},
+	{
+		"time": 1549900800362,
+		"file": "2019-02-11-16-00-00.zip",
+		"index": 71,
+		"success": true,
+		"size": 73934993
 	}
 ]

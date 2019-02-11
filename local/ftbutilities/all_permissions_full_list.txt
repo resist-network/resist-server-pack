@@ -1,4 +1,4 @@
-17322 nodes in total
+17346 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -457,6 +457,12 @@ ftbutilities.claims.block.edit.advgenerators.turbine_enderium: OP
 ftbutilities.claims.block.edit.advgenerators.turbine_gold: OP
 ftbutilities.claims.block.edit.advgenerators.turbine_iron: OP
 ftbutilities.claims.block.edit.advgenerators.turbine_steel: OP
+ftbutilities.claims.block.edit.alchemistry.atomizer: OP
+ftbutilities.claims.block.edit.alchemistry.chemical_combiner: OP
+ftbutilities.claims.block.edit.alchemistry.chemical_dissolver: OP
+ftbutilities.claims.block.edit.alchemistry.electrolyzer: OP
+ftbutilities.claims.block.edit.alchemistry.evaporator: OP
+ftbutilities.claims.block.edit.alchemistry.liquifier: OP
 ftbutilities.claims.block.edit.astromechs.bb8statue: OP
 ftbutilities.claims.block.edit.astromechs.bb9estatue: OP
 ftbutilities.claims.block.edit.astromechs.chopperstatue: OP
@@ -4444,6 +4450,12 @@ ftbutilities.claims.block.interact.advgenerators.turbine_enderium: OP
 ftbutilities.claims.block.interact.advgenerators.turbine_gold: OP
 ftbutilities.claims.block.interact.advgenerators.turbine_iron: OP
 ftbutilities.claims.block.interact.advgenerators.turbine_steel: OP
+ftbutilities.claims.block.interact.alchemistry.atomizer: OP
+ftbutilities.claims.block.interact.alchemistry.chemical_combiner: OP
+ftbutilities.claims.block.interact.alchemistry.chemical_dissolver: OP
+ftbutilities.claims.block.interact.alchemistry.electrolyzer: OP
+ftbutilities.claims.block.interact.alchemistry.evaporator: OP
+ftbutilities.claims.block.interact.alchemistry.liquifier: OP
 ftbutilities.claims.block.interact.astromechs.bb8statue: OP
 ftbutilities.claims.block.interact.astromechs.bb9estatue: OP
 ftbutilities.claims.block.interact.astromechs.chopperstatue: OP
@@ -8676,6 +8688,18 @@ ftbutilities.claims.item.advgenerators.turbine_rotor_iron: ALL
 ftbutilities.claims.item.advgenerators.turbine_rotor_steel: ALL
 ftbutilities.claims.item.advgenerators.turbine_steel: ALL
 ftbutilities.claims.item.advgenerators.upgrade_kit: ALL
+ftbutilities.claims.item.alchemistry.atomizer: ALL
+ftbutilities.claims.item.alchemistry.chemical_combiner: ALL
+ftbutilities.claims.item.alchemistry.chemical_dissolver: ALL
+ftbutilities.claims.item.alchemistry.compound: ALL
+ftbutilities.claims.item.alchemistry.condensed_milk: ALL
+ftbutilities.claims.item.alchemistry.diamond_enriched_glass: ALL
+ftbutilities.claims.item.alchemistry.electrolyzer: ALL
+ftbutilities.claims.item.alchemistry.element: ALL
+ftbutilities.claims.item.alchemistry.evaporator: ALL
+ftbutilities.claims.item.alchemistry.fertilizer: ALL
+ftbutilities.claims.item.alchemistry.liquifier: ALL
+ftbutilities.claims.item.alchemistry.mineral_salt: ALL
 ftbutilities.claims.item.astromechs.astroball: ALL
 ftbutilities.claims.item.astromechs.astromechbody: ALL
 ftbutilities.claims.item.astromechs.astromechfoot: ALL
