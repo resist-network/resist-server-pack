@@ -1,4 +1,4 @@
-17333 nodes in total
+17307 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -3350,12 +3350,7 @@ ftbutilities.claims.block.edit.plethora.redstone_integrator: OP
 ftbutilities.claims.block.edit.powersuits.liquid_nitrogen: OP
 ftbutilities.claims.block.edit.powersuits.luxcapacitor: OP
 ftbutilities.claims.block.edit.powersuits.tinkertable: OP
-ftbutilities.claims.block.edit.projectred-expansion.machine1: OP
-ftbutilities.claims.block.edit.projectred-expansion.machine2: OP
-ftbutilities.claims.block.edit.projectred-fabrication.ic_machine: OP
 ftbutilities.claims.block.edit.projectred-illumination.lamp: OP
-ftbutilities.claims.block.edit.projectred-relocation.blockmovingrow: OP
-ftbutilities.claims.block.edit.projectred-relocation.frame: OP
 ftbutilities.claims.block.edit.quantumstorage.chest_diamond: OP
 ftbutilities.claims.block.edit.quantumstorage.chest_gold: OP
 ftbutilities.claims.block.edit.quantumstorage.chest_iron: OP
@@ -7339,12 +7334,7 @@ ftbutilities.claims.block.interact.plethora.redstone_integrator: OP
 ftbutilities.claims.block.interact.powersuits.liquid_nitrogen: OP
 ftbutilities.claims.block.interact.powersuits.luxcapacitor: OP
 ftbutilities.claims.block.interact.powersuits.tinkertable: OP
-ftbutilities.claims.block.interact.projectred-expansion.machine1: OP
-ftbutilities.claims.block.interact.projectred-expansion.machine2: OP
-ftbutilities.claims.block.interact.projectred-fabrication.ic_machine: OP
 ftbutilities.claims.block.interact.projectred-illumination.lamp: OP
-ftbutilities.claims.block.interact.projectred-relocation.blockmovingrow: OP
-ftbutilities.claims.block.interact.projectred-relocation.frame: OP
 ftbutilities.claims.block.interact.quantumstorage.chest_diamond: OP
 ftbutilities.claims.block.interact.quantumstorage.chest_gold: OP
 ftbutilities.claims.block.interact.quantumstorage.chest_iron: OP
@@ -13195,18 +13185,6 @@ ftbutilities.claims.item.projectred-core.drawplate: ALL
 ftbutilities.claims.item.projectred-core.multimeter: ALL
 ftbutilities.claims.item.projectred-core.resource_item: ALL
 ftbutilities.claims.item.projectred-core.screwdriver: ALL
-ftbutilities.claims.item.projectred-expansion.charged_battery: ALL
-ftbutilities.claims.item.projectred-expansion.electric_screwdriver: ALL
-ftbutilities.claims.item.projectred-expansion.empty_battery: ALL
-ftbutilities.claims.item.projectred-expansion.infused_ender_pearl: ALL
-ftbutilities.claims.item.projectred-expansion.jetpack: ALL
-ftbutilities.claims.item.projectred-expansion.machine1: ALL
-ftbutilities.claims.item.projectred-expansion.machine2: ALL
-ftbutilities.claims.item.projectred-expansion.plan: ALL
-ftbutilities.claims.item.projectred-expansion.solar_panel: ALL
-ftbutilities.claims.item.projectred-fabrication.ic_blueprint: ALL
-ftbutilities.claims.item.projectred-fabrication.ic_chip: ALL
-ftbutilities.claims.item.projectred-fabrication.ic_machine: ALL
 ftbutilities.claims.item.projectred-illumination.cage_lamp: ALL
 ftbutilities.claims.item.projectred-illumination.fallout_lamp: ALL
 ftbutilities.claims.item.projectred-illumination.feedback_light_button: ALL
@@ -13219,12 +13197,8 @@ ftbutilities.claims.item.projectred-illumination.lamp: ALL
 ftbutilities.claims.item.projectred-illumination.lantern: ALL
 ftbutilities.claims.item.projectred-illumination.light_button: ALL
 ftbutilities.claims.item.projectred-integration.gate: ALL
-ftbutilities.claims.item.projectred-relocation.frame: ALL
 ftbutilities.claims.item.projectred-transmission.framed_wire: ALL
 ftbutilities.claims.item.projectred-transmission.wire: ALL
-ftbutilities.claims.item.projectred-transportation.pipe: ALL
-ftbutilities.claims.item.projectred-transportation.router_utility: ALL
-ftbutilities.claims.item.projectred-transportation.routing_chip: ALL
 ftbutilities.claims.item.quantumstorage.chest_diamond: ALL
 ftbutilities.claims.item.quantumstorage.chest_gold: ALL
 ftbutilities.claims.item.quantumstorage.chest_iron: ALL
