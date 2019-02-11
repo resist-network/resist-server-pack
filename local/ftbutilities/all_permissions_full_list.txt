@@ -1,4 +1,4 @@
-17307 nodes in total
+17322 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -15009,6 +15009,7 @@ openentity.capability.iauthoritycapability.permissions.entity.quark.ashen: ALL
 openentity.capability.iauthoritycapability.permissions.entity.quark.dweller: ALL
 openentity.capability.iauthoritycapability.permissions.entity.quark.pirate: ALL
 openentity.capability.iauthoritycapability.permissions.entity.quark.wraith: ALL
+openentity.capability.iauthoritycapability.permissions.entity.sponge.human: ALL
 openentity.capability.iauthoritycapability.permissions.entity.tconstruct.blueslime: ALL
 openentity.capability.iauthoritycapability.permissions.entity.techguns.alienbug: ALL
 openentity.capability.iauthoritycapability.permissions.entity.techguns.armysoldier: ALL
@@ -15171,6 +15172,7 @@ openentity.capability.icosmeticcapability.permissions.entity.quark.ashen: ALL
 openentity.capability.icosmeticcapability.permissions.entity.quark.dweller: ALL
 openentity.capability.icosmeticcapability.permissions.entity.quark.pirate: ALL
 openentity.capability.icosmeticcapability.permissions.entity.quark.wraith: ALL
+openentity.capability.icosmeticcapability.permissions.entity.sponge.human: ALL
 openentity.capability.icosmeticcapability.permissions.entity.tconstruct.blueslime: ALL
 openentity.capability.icosmeticcapability.permissions.entity.techguns.alienbug: ALL
 openentity.capability.icosmeticcapability.permissions.entity.techguns.armysoldier: ALL
@@ -15333,6 +15335,7 @@ openentity.capability.icustominventorycapability.permissions.entity.quark.ashen:
 openentity.capability.icustominventorycapability.permissions.entity.quark.dweller: ALL
 openentity.capability.icustominventorycapability.permissions.entity.quark.pirate: ALL
 openentity.capability.icustominventorycapability.permissions.entity.quark.wraith: ALL
+openentity.capability.icustominventorycapability.permissions.entity.sponge.human: ALL
 openentity.capability.icustominventorycapability.permissions.entity.tconstruct.blueslime: ALL
 openentity.capability.icustominventorycapability.permissions.entity.techguns.alienbug: ALL
 openentity.capability.icustominventorycapability.permissions.entity.techguns.armysoldier: ALL
@@ -15495,6 +15498,7 @@ openentity.capability.ienergycapability.permissions.entity.quark.ashen: ALL
 openentity.capability.ienergycapability.permissions.entity.quark.dweller: ALL
 openentity.capability.ienergycapability.permissions.entity.quark.pirate: ALL
 openentity.capability.ienergycapability.permissions.entity.quark.wraith: ALL
+openentity.capability.ienergycapability.permissions.entity.sponge.human: ALL
 openentity.capability.ienergycapability.permissions.entity.tconstruct.blueslime: ALL
 openentity.capability.ienergycapability.permissions.entity.techguns.alienbug: ALL
 openentity.capability.ienergycapability.permissions.entity.techguns.armysoldier: ALL
@@ -15657,6 +15661,7 @@ openentity.capability.iequipmentcapability.permissions.entity.quark.ashen: ALL
 openentity.capability.iequipmentcapability.permissions.entity.quark.dweller: ALL
 openentity.capability.iequipmentcapability.permissions.entity.quark.pirate: ALL
 openentity.capability.iequipmentcapability.permissions.entity.quark.wraith: ALL
+openentity.capability.iequipmentcapability.permissions.entity.sponge.human: ALL
 openentity.capability.iequipmentcapability.permissions.entity.tconstruct.blueslime: ALL
 openentity.capability.iequipmentcapability.permissions.entity.techguns.alienbug: ALL
 openentity.capability.iequipmentcapability.permissions.entity.techguns.armysoldier: ALL
@@ -15819,6 +15824,7 @@ openentity.capability.iexperiencecapability.permissions.entity.quark.ashen: ALL
 openentity.capability.iexperiencecapability.permissions.entity.quark.dweller: ALL
 openentity.capability.iexperiencecapability.permissions.entity.quark.pirate: ALL
 openentity.capability.iexperiencecapability.permissions.entity.quark.wraith: ALL
+openentity.capability.iexperiencecapability.permissions.entity.sponge.human: ALL
 openentity.capability.iexperiencecapability.permissions.entity.tconstruct.blueslime: ALL
 openentity.capability.iexperiencecapability.permissions.entity.techguns.alienbug: ALL
 openentity.capability.iexperiencecapability.permissions.entity.techguns.armysoldier: ALL
@@ -15981,6 +15987,7 @@ openentity.capability.ifluidscapability.permissions.entity.quark.ashen: ALL
 openentity.capability.ifluidscapability.permissions.entity.quark.dweller: ALL
 openentity.capability.ifluidscapability.permissions.entity.quark.pirate: ALL
 openentity.capability.ifluidscapability.permissions.entity.quark.wraith: ALL
+openentity.capability.ifluidscapability.permissions.entity.sponge.human: ALL
 openentity.capability.ifluidscapability.permissions.entity.tconstruct.blueslime: ALL
 openentity.capability.ifluidscapability.permissions.entity.techguns.alienbug: ALL
 openentity.capability.ifluidscapability.permissions.entity.techguns.armysoldier: ALL
@@ -16143,6 +16150,7 @@ openentity.capability.ihotkeyscapability.permissions.entity.quark.ashen: ALL
 openentity.capability.ihotkeyscapability.permissions.entity.quark.dweller: ALL
 openentity.capability.ihotkeyscapability.permissions.entity.quark.pirate: ALL
 openentity.capability.ihotkeyscapability.permissions.entity.quark.wraith: ALL
+openentity.capability.ihotkeyscapability.permissions.entity.sponge.human: ALL
 openentity.capability.ihotkeyscapability.permissions.entity.tconstruct.blueslime: ALL
 openentity.capability.ihotkeyscapability.permissions.entity.techguns.alienbug: ALL
 openentity.capability.ihotkeyscapability.permissions.entity.techguns.armysoldier: ALL
@@ -16305,6 +16313,7 @@ openentity.capability.iinfocapability.permissions.entity.quark.ashen: ALL
 openentity.capability.iinfocapability.permissions.entity.quark.dweller: ALL
 openentity.capability.iinfocapability.permissions.entity.quark.pirate: ALL
 openentity.capability.iinfocapability.permissions.entity.quark.wraith: ALL
+openentity.capability.iinfocapability.permissions.entity.sponge.human: ALL
 openentity.capability.iinfocapability.permissions.entity.tconstruct.blueslime: ALL
 openentity.capability.iinfocapability.permissions.entity.techguns.alienbug: ALL
 openentity.capability.iinfocapability.permissions.entity.techguns.armysoldier: ALL
@@ -16467,6 +16476,7 @@ openentity.capability.iopencomputercapability.permissions.entity.quark.ashen: AL
 openentity.capability.iopencomputercapability.permissions.entity.quark.dweller: ALL
 openentity.capability.iopencomputercapability.permissions.entity.quark.pirate: ALL
 openentity.capability.iopencomputercapability.permissions.entity.quark.wraith: ALL
+openentity.capability.iopencomputercapability.permissions.entity.sponge.human: ALL
 openentity.capability.iopencomputercapability.permissions.entity.tconstruct.blueslime: ALL
 openentity.capability.iopencomputercapability.permissions.entity.techguns.alienbug: ALL
 openentity.capability.iopencomputercapability.permissions.entity.techguns.armysoldier: ALL
@@ -16629,6 +16639,7 @@ openentity.capability.iredstonecapability.permissions.entity.quark.ashen: ALL
 openentity.capability.iredstonecapability.permissions.entity.quark.dweller: ALL
 openentity.capability.iredstonecapability.permissions.entity.quark.pirate: ALL
 openentity.capability.iredstonecapability.permissions.entity.quark.wraith: ALL
+openentity.capability.iredstonecapability.permissions.entity.sponge.human: ALL
 openentity.capability.iredstonecapability.permissions.entity.tconstruct.blueslime: ALL
 openentity.capability.iredstonecapability.permissions.entity.techguns.alienbug: ALL
 openentity.capability.iredstonecapability.permissions.entity.techguns.armysoldier: ALL
@@ -16791,6 +16802,7 @@ openentity.capability.isocialcapability.permissions.entity.quark.ashen: ALL
 openentity.capability.isocialcapability.permissions.entity.quark.dweller: ALL
 openentity.capability.isocialcapability.permissions.entity.quark.pirate: ALL
 openentity.capability.isocialcapability.permissions.entity.quark.wraith: ALL
+openentity.capability.isocialcapability.permissions.entity.sponge.human: ALL
 openentity.capability.isocialcapability.permissions.entity.tconstruct.blueslime: ALL
 openentity.capability.isocialcapability.permissions.entity.techguns.alienbug: ALL
 openentity.capability.isocialcapability.permissions.entity.techguns.armysoldier: ALL
@@ -16953,6 +16965,7 @@ openentity.capability.iteleportcapability.permissions.entity.quark.ashen: ALL
 openentity.capability.iteleportcapability.permissions.entity.quark.dweller: ALL
 openentity.capability.iteleportcapability.permissions.entity.quark.pirate: ALL
 openentity.capability.iteleportcapability.permissions.entity.quark.wraith: ALL
+openentity.capability.iteleportcapability.permissions.entity.sponge.human: ALL
 openentity.capability.iteleportcapability.permissions.entity.tconstruct.blueslime: ALL
 openentity.capability.iteleportcapability.permissions.entity.techguns.alienbug: ALL
 openentity.capability.iteleportcapability.permissions.entity.techguns.armysoldier: ALL
@@ -17115,6 +17128,7 @@ openentity.capability.iupgradeitemscapability.permissions.entity.quark.ashen: AL
 openentity.capability.iupgradeitemscapability.permissions.entity.quark.dweller: ALL
 openentity.capability.iupgradeitemscapability.permissions.entity.quark.pirate: ALL
 openentity.capability.iupgradeitemscapability.permissions.entity.quark.wraith: ALL
+openentity.capability.iupgradeitemscapability.permissions.entity.sponge.human: ALL
 openentity.capability.iupgradeitemscapability.permissions.entity.tconstruct.blueslime: ALL
 openentity.capability.iupgradeitemscapability.permissions.entity.techguns.alienbug: ALL
 openentity.capability.iupgradeitemscapability.permissions.entity.techguns.armysoldier: ALL
@@ -17283,6 +17297,7 @@ openentity.settingsgeneral.permissions.entity.quark.ashen: ALL
 openentity.settingsgeneral.permissions.entity.quark.dweller: ALL
 openentity.settingsgeneral.permissions.entity.quark.pirate: ALL
 openentity.settingsgeneral.permissions.entity.quark.wraith: ALL
+openentity.settingsgeneral.permissions.entity.sponge.human: ALL
 openentity.settingsgeneral.permissions.entity.tconstruct.blueslime: ALL
 openentity.settingsgeneral.permissions.entity.techguns.alienbug: ALL
 openentity.settingsgeneral.permissions.entity.techguns.armysoldier: ALL

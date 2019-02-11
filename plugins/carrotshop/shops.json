@@ -1,0 +1,1445 @@
+globalconfig {
+    currency="totaleconomy:credit"
+}
+shops=[
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAXY29maGNvcmU6cmVnZW5lcmF0aW9uMysAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=46.0
+                Y=88.0
+                Z=-189.0
+            }
+            price=35
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAPY29maGNvcmU6bHVjazMrAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=42.0
+                Y=88.0
+                Z=-189.0
+            }
+            price=35
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAPY29maGNvcmU6aGFzdGU0AAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=38.0
+                Y=88.0
+                Z=-189.0
+            }
+            price=35
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAXY29maGNvcmU6cmVnZW5lcmF0aW9uMisAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=46.0
+                Y=89.0
+                Z=-189.0
+            }
+            price=30
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAPY29maGNvcmU6bHVjazIrAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=42.0
+                Y=89.0
+                Z=-189.0
+            }
+            price=30
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAWY3ljbGljbWFnaWM6c2F0dXJhdGlvbgAA
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=38.0
+                Y=89.0
+                Z=-189.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAYbWluZWNyYWZ0Omxvbmdfc3dpZnRuZXNzAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=50.0
+                Y=88.0
+                Z=-189.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAbbWluZWNyYWZ0OmxvbmdfbmlnaHRfdmlzaW9uAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=50.0
+                Y=90.0
+                Z=-189.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAbbWluZWNyYWZ0OmxvbmdfcmVnZW5lcmF0aW9uAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=46.0
+                Y=90.0
+                Z=-189.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAOY29maGNvcmU6bHVjaysAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=42.0
+                Y=90.0
+                Z=-189.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAUY3ljbGljbWFnaWM6c2xvd2ZhbGwAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=38.0
+                Y=90.0
+                Z=-189.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAbbWluZWNyYWZ0OmxvbmdfaW52aXNpYmlsaXR5AAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=50.0
+                Y=89.0
+                Z=-189.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAF21pbmVjcmFmdDp3cml0YWJsZV9ib29rAwAMVW5zYWZlRGFtYWdlAAAAAAMABUNvdW50AAAAAQA="
+                ]
+            }
+            location {
+                BlockType="minecraft:standing_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=27.0
+                Y=93.0
+                Z=-132.0
+            }
+            price=0
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgARY29maGNvcmU6aGVhbGluZzQAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=47.0
+                Y=88.0
+                Z=-189.0
+            }
+            price=40
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAdZXh0cmF1dGlsczI6eHUyLnNlY29uZC5jaGFuY2UAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=43.0
+                Y=88.0
+                Z=-189.0
+            }
+            price=500
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAVY3ljbGljbWFnaWM6d2F0ZXJ3YWxrAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=39.0
+                Y=88.0
+                Z=-189.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgARY29maGNvcmU6aGVhbGluZzMAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=47.0
+                Y=89.0
+                Z=-189.0
+            }
+            price=35
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgASY29maGNvcmU6c3RyZW5ndGg0AAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=43.0
+                Y=89.0
+                Z=-189.0
+            }
+            price=40
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAXY3ljbGljbWFnaWM6aGVhbHRoYm9vc3QAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=39.0
+                Y=89.0
+                Z=-189.0
+            }
+            price=50
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAIXRoZXJtYWxmb3VuZGF0aW9uOnRvb2wuYm93X3NpbHZlcgMADFVuc2FmZURhbWFnZQAAAAADAAVDb3VudAAAAAEA
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=56.0
+                Y=94.0
+                Z=-167.0
+            }
+            price=30
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUADnRlY2hndW5zOm1hYzEwAwAMVW5zYWZlRGFtYWdlAAAAAAMABUNvdW50AAAAAQoAClVuc2FmZURhdGECAARhbW1vAAAIAAthbW1vdmFyaWFudAAHZGVmYXVsdAEABGNhbW8AAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=56.0
+                Y=94.0
+                Z=-160.0
+            }
+            price=135
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAYbWluZWNyYWZ0OnN0cm9uZ19oZWFsaW5nAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=47.0
+                Y=90.0
+                Z=-189.0
+            }
+            price=30
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAE3RlY2hndW5zOnB1bHNlcmlmbGUDAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQIABGFtbW8AAAgAC2FtbW92YXJpYW50AAdkZWZhdWx0AQAEY2FtbwAAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=52.0
+                Y=94.0
+                Z=-167.0
+            }
+            price=245
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAFXRlY2hndW5zOmZsYW1ldGhyb3dlcgMADFVuc2FmZURhbWFnZQAAAAADAAVDb3VudAAAAAEKAApVbnNhZmVEYXRhAgAEYW1tbwAACAALYW1tb3ZhcmlhbnQAB2RlZmF1bHQBAARjYW1vAAAA
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=52.0
+                Y=94.0
+                Z=-160.0
+            }
+            price=200
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgATY29maGNvcmU6c3RyZW5ndGgzKwAA
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=43.0
+                Y=90.0
+                Z=-189.0
+            }
+            price=35
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUADHRlY2hndW5zOnBkdwMADFVuc2FmZURhbWFnZQAAAAADAAVDb3VudAAAAAEKAApVbnNhZmVEYXRhAgAEYW1tbwAACAALYW1tb3ZhcmlhbnQAB2RlZmF1bHQBAARjYW1vAAAA
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=48.0
+                Y=94.0
+                Z=-167.0
+            }
+            price=150
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAE3RlY2hndW5zOmhhbmRjYW5ub24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQIABGFtbW8AAAgAC2FtbW92YXJpYW50AAdkZWZhdWx0AQAEY2FtbwAAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=48.0
+                Y=94.0
+                Z=-160.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgARY29maGNvcmU6bGVhcGluZzQAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=39.0
+                Y=90.0
+                Z=-189.0
+            }
+            price=35
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUADmNmbTppdGVtX2tuaWZlAwAMVW5zYWZlRGFtYWdlAAAAAAMABUNvdW50AAAAAQoAClVuc2FmZURhdGEJABJBdHRyaWJ1dGVNb2RpZmllcnMKAAAAAQMACFVVSURNb3N0AAAAAQMACVVVSURMZWFzdAAAAAEDAAZBbW91bnQAAAATCAANQXR0cmlidXRlTmFtZQAUZ2VuZXJpYy5hdHRhY2tEYW1hZ2UDAAlPcGVyYXRpb24AAAAACAAETmFtZQAHQmFycmllcgAAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=44.0
+                Y=94.0
+                Z=-167.0
+            }
+            price=1500
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEXRlY2hndW5zOnJldm9sdmVyAwAMVW5zYWZlRGFtYWdlAAAAAAMABUNvdW50AAAAAQoAClVuc2FmZURhdGECAARhbW1vAAAIAAthbW1vdmFyaWFudAAHZGVmYXVsdAEABGNhbW8AAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=44.0
+                Y=94.0
+                Z=-160.0
+            }
+            price=125
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgARbWluZWNyYWZ0OmhlYWxpbmcAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=48.0
+                Y=88.0
+                Z=-189.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgATY29maGNvcmU6c3RyZW5ndGgyKwAA
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=44.0
+                Y=88.0
+                Z=-189.0
+            }
+            price=30
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAF21pbmVjcmFmdDpzcGxhc2hfcG90aW9uAwAMVW5zYWZlRGFtYWdlAAAAAAMABUNvdW50AAAAAQoAClVuc2FmZURhdGEIAAZQb3Rpb24AEWNvZmhjb3JlOnBvaXNvbjMrAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=40.0
+                Y=88.0
+                Z=-193.0
+            }
+            price=35
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgARY29maGNvcmU6bGVhcGluZzMAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=40.0
+                Y=88.0
+                Z=-189.0
+            }
+            price=30
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAebWluZWNyYWZ0Omxvbmdfd2F0ZXJfYnJlYXRoaW5nAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=48.0
+                Y=89.0
+                Z=-189.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAXbWluZWNyYWZ0Omxvbmdfc3RyZW5ndGgAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=44.0
+                Y=89.0
+                Z=-189.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAF21pbmVjcmFmdDpzcGxhc2hfcG90aW9uAwAMVW5zYWZlRGFtYWdlAAAAAAMABUNvdW50AAAAAQoAClVuc2FmZURhdGEIAAZQb3Rpb24AHGV4dHJhdXRpbHMyOnh1Mi5ncmF2aXR5LmxvbmcAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=40.0
+                Y=89.0
+                Z=-193.0
+            }
+            price=35
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAVY29maGNvcmU6YWJzb3JwdGlvbjMrAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=40.0
+                Y=89.0
+                Z=-189.0
+            }
+            price=35
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAFXRlY2hndW5zOnN0aWVsZ3JhbmF0ZQMADFVuc2FmZURhbWFnZQAAAAADAAVDb3VudAAAAAEA
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=57.0
+                Y=94.0
+                Z=-167.0
+            }
+            price=15
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAD3RlY2hndW5zOnZlY3RvcgMADFVuc2FmZURhbWFnZQAAAAADAAVDb3VudAAAAAEKAApVbnNhZmVEYXRhAgAEYW1tbwAACAALYW1tb3ZhcmlhbnQAB2RlZmF1bHQBAARjYW1vAAAA
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=57.0
+                Y=94.0
+                Z=-160.0
+            }
+            price=155
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAebWluZWNyYWZ0OmxvbmdfZmlyZV9yZXNpc3RhbmNlAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=48.0
+                Y=90.0
+                Z=-189.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEHRlY2hndW5zOm1pbmlndW4DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQIABGFtbW8AAAgAC2FtbW92YXJpYW50AAdkZWZhdWx0AQAEY2FtbwAAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=53.0
+                Y=94.0
+                Z=-167.0
+            }
+            price=300
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAFnRlY2hndW5zOmNvbWJhdHNob3RndW4DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQIABGFtbW8AAAgAC2FtbW92YXJpYW50AAdkZWZhdWx0AQAEY2FtbwAAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=53.0
+                Y=94.0
+                Z=-160.0
+            }
+            price=275
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAVY29maGNvcmU6cmVzaXN0YW5jZTMrAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=44.0
+                Y=90.0
+                Z=-189.0
+            }
+            price=35
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUADHRlY2hndW5zOmF1ZwMADFVuc2FmZURhbWFnZQAAAAADAAVDb3VudAAAAAEKAApVbnNhZmVEYXRhAgAEYW1tbwAACAALYW1tb3ZhcmlhbnQAB2RlZmF1bHQBAARjYW1vAAAA
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=49.0
+                Y=94.0
+                Z=-167.0
+            }
+            price=195
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAF21pbmVjcmFmdDpzcGxhc2hfcG90aW9uAwAMVW5zYWZlRGFtYWdlAAAAAAMABUNvdW50AAAAAQoAClVuc2FmZURhdGEIAAZQb3Rpb24AEW1pbmVjcmFmdDpoYXJtaW5nAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=40.0
+                Y=90.0
+                Z=-193.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEXRlY2hndW5zOnRob21wc29uAwAMVW5zYWZlRGFtYWdlAAAAAAMABUNvdW50AAAAAQoAClVuc2FmZURhdGECAARhbW1vAAAIAAthbW1vdmFyaWFudAAHZGVmYXVsdAEABGNhbW8AAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=49.0
+                Y=94.0
+                Z=-160.0
+            }
+            price=155
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAVY29maGNvcmU6YWJzb3JwdGlvbjIrAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=40.0
+                Y=90.0
+                Z=-189.0
+            }
+            price=30
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAI3RoZXJtYWxmb3VuZGF0aW9uOnRvb2wuc2hpZWxkX3N0ZWVsAwAMVW5zYWZlRGFtYWdlAAAAAAMABUNvdW50AAAAAQA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=45.0
+                Y=94.0
+                Z=-167.0
+            }
+            price=95
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAE3RlY2hndW5zOmJvbHRhY3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQIABGFtbW8AAAgAC2FtbW92YXJpYW50AAdkZWZhdWx0AQAEY2FtbwAAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=45.0
+                Y=94.0
+                Z=-160.0
+            }
+            price=250
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAYbWluZWNyYWZ0OnN0cm9uZ19sZWFwaW5nAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=49.0
+                Y=88.0
+                Z=-189.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAVY29maGNvcmU6cmVzaXN0YW5jZTIrAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=45.0
+                Y=88.0
+                Z=-189.0
+            }
+            price=30
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAUY29maGNvcmU6YWJzb3JwdGlvbisAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=41.0
+                Y=88.0
+                Z=-189.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAGnNjYWxpbmdoZWFsdGg6Y3J5c3RhbHNoYXJkAwAMVW5zYWZlRGFtYWdlAAAAAAMABUNvdW50AAAAAQA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=42.0
+                Y=94.0
+                Z=-164.0
+            }
+            price=50
+        }
+        type="com.carrot.carrotshop.shop.iSell"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAWbWluZWNyYWZ0OmxvbmdfbGVhcGluZwAA
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=49.0
+                Y=89.0
+                Z=-189.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAVcXVhcms6bG9uZ19yZXNpc3RhbmNlAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=45.0
+                Y=89.0
+                Z=-189.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgARY3ljbGljbWFnaWM6c3dpbTIAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=41.0
+                Y=89.0
+                Z=-189.0
+            }
+            price=30
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAC3RlY2hndW5zOm00AwAMVW5zYWZlRGFtYWdlAAAAAAMABUNvdW50AAAAAQoAClVuc2FmZURhdGECAARhbW1vAAAIAAthbW1vdmFyaWFudAAHZGVmYXVsdAEABGNhbW8AAAA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=58.0
+                Y=94.0
+                Z=-160.0
+            }
+            price=165
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAabWluZWNyYWZ0OnN0cm9uZ19zd2lmdG5lc3MAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=49.0
+                Y=90.0
+                Z=-189.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUADXRlY2hndW5zOmFzNTADAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQIABGFtbW8AAAgAC2FtbW92YXJpYW50AAdkZWZhdWx0AQAEY2FtbwAAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=54.0
+                Y=94.0
+                Z=-167.0
+            }
+            price=325
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUADXRlY2hndW5zOnNjYXIDAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQIABGFtbW8AAAgAC2FtbW92YXJpYW50AAdkZWZhdWx0AQAEY2FtbwAAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=54.0
+                Y=94.0
+                Z=-160.0
+            }
+            price=225
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAWY29maGNvcmU6cmVnZW5lcmF0aW9uNAAA
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=45.0
+                Y=90.0
+                Z=-189.0
+            }
+            price=40
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUADHRlY2hndW5zOmxtZwMADFVuc2FmZURhbWFnZQAAAAADAAVDb3VudAAAAAEKAApVbnNhZmVEYXRhAgAEYW1tbwAACAALYW1tb3ZhcmlhbnQAB2RlZmF1bHQBAARjYW1vAAAA
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=50.0
+                Y=94.0
+                Z=-167.0
+            }
+            price=215
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUADXRlY2hndW5zOmFrNDcDAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQIABGFtbW8AAAgAC2FtbW92YXJpYW50AAdkZWZhdWx0AQAEY2FtbwAAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=50.0
+                Y=94.0
+                Z=-160.0
+            }
+            price=160
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEG1pbmVjcmFmdDpwb3Rpb24DAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABCgAKVW5zYWZlRGF0YQgABlBvdGlvbgAQY3ljbGljbWFnaWM6c3dpbQAA
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=41.0
+                Y=90.0
+                Z=-189.0
+            }
+            price=25
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAEXRlY2hndW5zOmNoYWluc2F3AwAMVW5zYWZlRGFtYWdlAAAAAAMABUNvdW50AAAAAQoAClVuc2FmZURhdGECAARhbW1vAAAIAAthbW1vdmFyaWFudAAHZGVmYXVsdAMACm1pbmluZ0hlYWQAAAAAAQAEY2FtbwAAAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=46.0
+                Y=94.0
+                Z=-167.0
+            }
+            price=200
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAD3RlY2hndW5zOnBpc3RvbAMADFVuc2FmZURhbWFnZQAAAAADAAVDb3VudAAAAAEKAApVbnNhZmVEYXRhAgAEYW1tbwAACAALYW1tb3ZhcmlhbnQAB2RlZmF1bHQBAARjYW1vAAAA
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=46.0
+                Y=94.0
+                Z=-160.0
+            }
+            price=145
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAF3RlY2hndW5zOnQyX3Jpb3RfaGVsbWV0AwAMVW5zYWZlRGFtYWdlAAAAAAMABUNvdW50AAAAAQA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=62.0
+                Y=94.0
+                Z=-165.0
+            }
+            price=1000
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAG3RlY2hndW5zOnQyX3Jpb3RfY2hlc3RwbGF0ZQMADFVuc2FmZURhbWFnZQAAAAADAAVDb3VudAAAAAEA
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=62.0
+                Y=94.0
+                Z=-164.0
+            }
+            price=1000
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAGXRlY2hndW5zOnQyX3Jpb3RfbGVnZ2luZ3MDAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=62.0
+                Y=94.0
+                Z=-163.0
+            }
+            price=1000
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAFnRlY2hndW5zOnQyX3Jpb3RfYm9vdHMDAAxVbnNhZmVEYW1hZ2UAAAAAAwAFQ291bnQAAAABAA=="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=62.0
+                Y=94.0
+                Z=-162.0
+            }
+            price=1000
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    },
+    {
+        shop {
+            itemsTemplate {
+                nbtitems=[
+                    "CgAAAwAOQ29udGVudFZlcnNpb24AAAABCAAISXRlbVR5cGUAFHRlY2hndW5zOmZyYWdncmVuYWRlAwAMVW5zYWZlRGFtYWdlAAAAAAMABUNvdW50AAAAAQA="
+                ]
+            }
+            location {
+                BlockType="minecraft:wall_sign"
+                ContentVersion=1
+                WorldName=Spawn
+                WorldUuid=cc59a2ae-54f2-4060-8608-7eb7e5f34754
+                X=58.0
+                Y=94.0
+                Z=-167.0
+            }
+            price=15
+        }
+        type="com.carrot.carrotshop.shop.iBuy"
+    }
+]

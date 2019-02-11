@@ -1,0 +1,59 @@
+api {
+    endpoints {
+        # Currently only Wordpress
+        type=wordpress
+        wordpress {
+            # Wordpress Site Admin Password
+            adminPass="WP_PASS"
+            # Wordpress Site Admin Username
+            adminUser="WP_USER"
+            # Wordpress FQDN
+            newUserEmailDomain="resist.network"
+            # The Wordpress Profile URL
+            profileURL="https://resist.network/community/profile"
+            # The Wordpress Site URL
+            url="https://resist.network"
+        }
+    }
+}
+messages {
+    alreadyLoggedInError="&eYou are already logged in!"
+    alreadyLoggedOutError="&eYou are already logged out!"
+    incorrectPassword="&cWrong password!"
+    loginSuccess="&aYou have successfully logged in!"
+    logoutSuccess="&aYou have successfully logged out!"
+    miscLoginError="&cThere was an error, please contact staff!"
+    mustLogin="&cYou must login before doing things!"
+    passwordNoMatch="&cPasswords did not match, try again!"
+    preLogin="&ePlease wait, verifying your password..."
+    # The prefix of messages sent in chat
+    prefix="&8[&4&lResist&8&l.&4&lNetwork&r&8]&r "
+    setpassError="&cStrange error setting your pass, contact staff!"
+    setpassSuccess="&aYou set a new forum password!"
+}
+restrictions {
+    # Blocked from placing and breaking blocks before login?
+    blockBuildBeforeLogin=false
+    # Blocked from sending commands before login?
+    blockCommandsBeforeLogin=false
+    # Blocked from moving before login?
+    blockMovementBeforeLogin=false
+    # Invisible to all players before login?
+    vanishBeforeAccept=false
+}
+storage {
+    mysql {
+        # The database to store in
+        database="MYSQL_DATABASE"
+        # Host of the MySQL Server
+        host=MYSQL_HOST
+        # Password for that user
+        password="MYSQL_PASSWORD"
+        # Port of the MySQL server. Default: 3306
+        port="3306"
+        # Prefix for the plugin tables
+        table-prefix="site_"
+        # The user for the database
+        user="MYSQL_USER"
+    }
+}
